@@ -1,927 +1,790 @@
 {
-  "schemaVersion": 1,
-  "sync": {
-    "revision": 18,
-    "updatedAt": "2026-07-04T00:20:46.503Z",
-    "deviceId": "device-uv8vok0ciws-1783122227593",
-    "lastSyncAt": "2026-07-04T00:20:47.804Z",
-    "lastSyncStatus": "Sincronizando..."
+  "activeTab": "settings",
+  "availability": {
+    "friday": 120,
+    "monday": 120,
+    "saturday": 180,
+    "sunday": 0,
+    "thursday": 0,
+    "tuesday": 120,
+    "wednesday": 0
   },
+  "lastPlan": {
+    "phase": "base",
+    "questions": 45,
+    "review": 15,
+    "theory": 90
+  },
+  "minutesToday": 150,
+  "schemaVersion": 1,
+  "sessions": [],
   "settings": {
-    "theme": "dark",
-    "targetExam": "BASA TI",
-    "targetDate": "2027-04-15",
     "backupIntervalMinutes": 15,
     "github": {
-      "owner": "Brad38",
-      "repo": "Estuda",
+      "autoSync": false,
       "branch": "main",
+      "owner": "Brad38",
       "path": "data/estuda-save.json",
-      "token": "",
-      "autoSync": false
-    }
+      "repo": "Estuda",
+      "token": ""
+    },
+    "targetDate": "2027-04-15",
+    "targetExam": "BASA TI",
+    "theme": "dark"
   },
-  "activeTab": "settings",
-  "minutesToday": 120,
-  "calendar": {
-    "year": 2026,
-    "month": 6
-  },
-  "availability": {
-    "sunday": 0,
-    "monday": 120,
-    "tuesday": 120,
-    "wednesday": 0,
-    "thursday": 0,
-    "friday": 120,
-    "saturday": 180
-  },
-  "lastPlan": null,
   "subjects": [
     {
-      "id": "bd",
+      "id": "subject-1",
       "name": "Banco de Dados",
-      "weight": 20,
       "topics": [
         {
-          "id": "modelo-relacional",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-1-topic-1",
+          "lastStudiedAt": "2026-07-04",
           "name": "Modelo relacional",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "chaves",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-1-topic-2",
           "name": "Chaves primária e estrangeira",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "der-mer",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-1-topic-3",
           "name": "DER / MER",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "normalizacao",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-1-topic-4",
           "name": "Normalização",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "sql-basico",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-1-topic-5",
           "name": "SQL básico",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "joins",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-1-topic-6",
           "name": "JOIN",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "group-having",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-1-topic-7",
           "name": "GROUP BY / HAVING",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "subqueries",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-1-topic-8",
           "name": "Subqueries",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "exists",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-1-topic-9",
           "name": "EXISTS / NOT EXISTS",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "views-triggers",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-1-topic-10",
           "name": "Views / Triggers",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "dw-etl",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-1-topic-11",
           "name": "Data Warehouse / ETL",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "nosql",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-1-topic-12",
           "name": "NoSQL / MongoDB",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         }
-      ]
+      ],
+      "weight": 10
     },
     {
-      "id": "redes",
+      "id": "subject-2",
       "name": "Redes e Segurança",
-      "weight": 20,
       "topics": [
         {
-          "id": "osi-tcpip",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-2-topic-1",
           "name": "Modelo OSI e TCP/IP",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "ipv4-subredes",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-2-topic-2",
           "name": "IPv4 e sub-redes",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "ipv6",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-2-topic-3",
           "name": "IPv6",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "tcp-udp",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-2-topic-4",
           "name": "TCP e UDP",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "dns-dhcp-nat",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-2-topic-5",
           "name": "DNS / DHCP / NAT",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "roteamento",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-2-topic-6",
           "name": "Roteamento",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "ospf-bgp",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-2-topic-7",
           "name": "OSPF / BGP",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "firewall",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-2-topic-8",
           "name": "Firewall / Proxy",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "ids-ips",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-2-topic-9",
           "name": "IDS / IPS",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "vpn",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-2-topic-10",
           "name": "VPN",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "wifi",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-2-topic-11",
           "name": "WPA2 / Redes sem fio",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "backup",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-2-topic-12",
           "name": "Backup",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         }
-      ]
+      ],
+      "weight": 10
     },
     {
-      "id": "eng",
+      "id": "subject-3",
       "name": "Engenharia / POO / UML",
-      "weight": 20,
       "topics": [
         {
-          "id": "requisitos",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-1",
           "name": "Requisitos funcionais e não funcionais",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "casos-uso",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-2",
           "name": "Casos de uso",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "processo-unificado",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-3",
           "name": "Processo Unificado",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "scrum",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-4",
           "name": "Scrum",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "testes",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-5",
           "name": "Testes / TDD",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "qualidade",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-6",
           "name": "Qualidade de software",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "pontos-funcao",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-7",
           "name": "Pontos de função",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "poo",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-8",
           "name": "POO",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "uml",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-9",
           "name": "UML",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "design-patterns",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-10",
           "name": "Design Patterns",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         }
-      ]
+      ],
+      "weight": 9
     },
     {
-      "id": "arquitetura",
+      "id": "subject-4",
       "name": "Arquitetura e Linguagens",
-      "weight": 15,
       "topics": [
         {
-          "id": "java",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-4-topic-1",
           "name": "Java",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "python",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-4-topic-2",
           "name": "Python",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "javascript",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-4-topic-3",
           "name": "JavaScript",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "json-xml",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-4-topic-4",
           "name": "JSON / XML / XSD",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "jdbc",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-4-topic-5",
           "name": "JDBC",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "html-css",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-4-topic-6",
           "name": "HTML / CSS",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "rest-soap",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-4-topic-7",
           "name": "REST / SOAP",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "soa",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-4-topic-8",
           "name": "SOA",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "microservicos",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-4-topic-9",
           "name": "Microsserviços",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "docker",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-4-topic-10",
           "name": "Docker / Conteinerização",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "cicd",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-4-topic-11",
           "name": "CI/CD / DevOps",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         }
-      ]
+      ],
+      "weight": 9
     },
     {
-      "id": "sistema-bancario",
+      "id": "subject-5",
       "name": "Sistema Bancário",
-      "weight": 15,
       "topics": [
         {
-          "id": "fno",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-5-topic-1",
           "name": "FNO",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "cmn-meta",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-5-topic-2",
           "name": "CMN / meta de inflação",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "mercado-cambio",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-5-topic-3",
           "name": "Mercado de câmbio",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "taxa-cambio",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-5-topic-4",
           "name": "Taxa de câmbio",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "varejo-bancario",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-5-topic-5",
           "name": "Varejo bancário",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "credito-rural",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-5-topic-6",
           "name": "Crédito rural",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "cdi-mercado",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-5-topic-7",
           "name": "CDI / mercado interbancário",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "cdc",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-5-topic-8",
           "name": "Crédito direto ao consumidor",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "acoes-mercado",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-5-topic-9",
           "name": "Ações ordinárias/preferenciais",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "mercado-monetario",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-5-topic-10",
           "name": "Mercado monetário",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         }
-      ]
+      ],
+      "weight": 7
     },
     {
-      "id": "compliance",
+      "id": "subject-6",
       "name": "Compliance / Ética",
-      "weight": 10,
       "topics": [
         {
-          "id": "lavagem-dinheiro",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-6-topic-1",
           "name": "Lavagem de dinheiro",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "financiamento-terrorismo",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-6-topic-2",
           "name": "Financiamento ao terrorismo",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "lgpd",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-6-topic-3",
           "name": "LGPD",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "codigo-etica",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-6-topic-4",
           "name": "Código de Ética do Banco da Amazônia",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "estatuto-social",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-6-topic-5",
           "name": "Estatuto Social do banco",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         }
-      ]
+      ],
+      "weight": 6
     },
     {
-      "id": "atendimento",
+      "id": "subject-7",
       "name": "Atendimento / Inovação / Diversidade",
-      "weight": 10,
       "topics": [
         {
-          "id": "servqual",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-7-topic-1",
           "name": "SERVQUAL",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "valor-percebido",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-7-topic-2",
           "name": "Valor percebido pelo cliente",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "retencao",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-7-topic-3",
           "name": "Retenção de clientes",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "rv",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-7-topic-4",
           "name": "Inovação com realidade virtual",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "fidelidade",
-          "name": "Programa de fidelidade por pontos",
-          "studied": false,
-          "theoryMinutes": 0,
-          "questionCount": 0,
           "correctCount": 0,
-          "reviewCount": 0,
           "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "id": "subject-7-topic-5",
+          "name": "Programa de fidelidade por pontos",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "studied": false,
+          "theoryMinutes": 0
         }
-      ]
+      ],
+      "weight": 5
     },
     {
-      "id": "basicas",
+      "id": "subject-8",
       "name": "Português / Inglês",
-      "weight": 10,
       "topics": [
         {
-          "id": "port-interpretacao",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-8-topic-1",
           "name": "Português: interpretação",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "port-gramatica",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-8-topic-2",
           "name": "Português: gramática",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "ingles-interpretacao",
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-8-topic-3",
           "name": "Inglês: interpretação",
-          "studied": false,
-          "theoryMinutes": 0,
           "questionCount": 0,
-          "correctCount": 0,
           "reviewCount": 0,
-          "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "studied": false,
+          "theoryMinutes": 0
         },
         {
-          "id": "ingles-vocab",
-          "name": "Inglês: vocabulário e conectivos",
-          "studied": false,
-          "theoryMinutes": 0,
-          "questionCount": 0,
           "correctCount": 0,
-          "reviewCount": 0,
           "domain": 0,
-          "lastStudiedAt": null,
-          "nextReviewAt": null
+          "id": "subject-8-topic-4",
+          "name": "Inglês: vocabulário e conectivos",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "studied": false,
+          "theoryMinutes": 0
         }
-      ]
+      ],
+      "weight": 8
     }
   ],
-  "sessions": []
+  "sync": {
+    "deviceId": "android",
+    "lastSyncStatus": "Nunca sincronizado",
+    "revision": 21,
+    "updatedAt": "2026-07-04T17:05:31.958Z"
+  }
 }
