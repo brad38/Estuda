@@ -53,7 +53,7 @@
     "targetDate": "2027-04-15",
     "targetExam": "BASA TI",
     "theme": "dark",
-    "weeklyGoalMinutes": 660
+    "weeklyGoalMinutes": 720
   },
   "subjects": [
     {
@@ -875,9 +875,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-06T17:25:00.861Z",
+    "lastSyncAt": "2026-07-06T17:25:12.933Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 84,
-    "updatedAt": "2026-07-06T17:25:07.814Z"
+    "revision": 85,
+    "updatedAt": "2026-07-06T17:25:19.417Z"
   }
 }
