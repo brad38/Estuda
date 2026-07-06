@@ -875,9 +875,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-06T02:07:09.722Z",
+    "lastSyncAt": "2026-07-06T17:08:27.229Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 79,
-    "updatedAt": "2026-07-06T17:08:18.018Z"
+    "revision": 82,
+    "updatedAt": "2026-07-06T17:13:34.471Z"
   }
 }
