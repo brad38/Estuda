@@ -6,7 +6,7 @@
       "2026-07-03": 0,
       "2026-07-04": 0,
       "2026-07-05": 50,
-      "2026-07-06": 1,
+      "2026-07-06": 90,
       "2026-07-07": 1,
       "2026-07-08": 1,
       "2026-07-09": 1,
@@ -29,6 +29,14 @@
       "id": "calendar-manual-2026-07-05",
       "reviewMinutes": 0,
       "theoryMinutes": 50
+    },
+    {
+      "createdAt": "2026-07-07T01:23:45.836Z",
+      "date": "2026-07-06",
+      "exerciseMinutes": 0,
+      "id": "calendar-manual-2026-07-06",
+      "reviewMinutes": 0,
+      "theoryMinutes": 90
     }
   ],
   "lastPlan": {
@@ -39,7 +47,18 @@
   },
   "minutesToday": 150,
   "schemaVersion": 1,
-  "sessions": [],
+  "sessions": [
+    {
+      "correct": 27,
+      "date": "2026-07-06",
+      "id": "e78f5aec-a66b-49ed-b636-2b8c89618add",
+      "minutes": 62,
+      "questions": 27,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-2"
+    }
+  ],
   "settings": {
     "backupIntervalMinutes": 15,
     "github": {
@@ -64,24 +83,27 @@
           "correctCount": 0,
           "domain": 0,
           "id": "subject-1-topic-1",
-          "lastStudiedAt": "2026-07-04",
+          "lastStudiedAt": "2026-07-06",
           "name": "Modelo relacional",
+          "nextReviewAt": "2026-07-13",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
-          "correctCount": 0,
+          "correctCount": 27,
           "domain": 0,
           "id": "subject-1-topic-2",
+          "lastStudiedAt": "2026-07-06",
           "name": "Chaves primária e estrangeira",
-          "questionCount": 0,
+          "nextReviewAt": "2026-07-13",
+          "questionCount": 27,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
+          "studied": true,
+          "theoryMinutes": 62
         },
         {
           "correctCount": 0,
@@ -875,9 +897,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-06T17:25:12.933Z",
+    "lastSyncAt": "2026-07-06T17:25:23.840Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 85,
-    "updatedAt": "2026-07-06T17:25:19.417Z"
+    "revision": 116,
+    "updatedAt": "2026-07-07T01:23:45.836Z"
   }
 }
