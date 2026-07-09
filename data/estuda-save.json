@@ -156,7 +156,7 @@
   "settings": {
     "backupIntervalMinutes": 15,
     "github": {
-      "autoSync": false,
+      "autoSync": true,
       "branch": "main",
       "owner": "Brad38",
       "path": "data/estuda-save.json",
@@ -990,9 +990,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-07T01:24:10.226Z",
+    "lastSyncAt": "2026-07-09T06:53:30.158Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 172,
-    "updatedAt": "2026-07-09T06:53:13.744Z"
+    "revision": 173,
+    "updatedAt": "2026-07-09T06:53:36.726Z"
   }
 }
