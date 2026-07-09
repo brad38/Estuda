@@ -5,9 +5,9 @@
       "2026-07-02": 0,
       "2026-07-03": 0,
       "2026-07-04": 0,
-      "2026-07-05": 50,
-      "2026-07-06": 90,
-      "2026-07-07": 1,
+      "2026-07-05": 0,
+      "2026-07-06": 0,
+      "2026-07-07": 0,
       "2026-07-08": 1,
       "2026-07-09": 1,
       "2026-07-12": 1,
@@ -23,20 +23,36 @@
   },
   "dailyStudyLogs": [
     {
-      "createdAt": "2026-07-06T17:08:18.018Z",
-      "date": "2026-07-05",
-      "exerciseMinutes": 0,
-      "id": "calendar-manual-2026-07-05",
+      "createdAt": "2026-07-08T02:12:25.875Z",
+      "date": "2026-07-07",
+      "exerciseMinutes": 43,
+      "id": "5a5b7850-672b-4d1e-8b91-f2b4d6ca5bb6",
       "reviewMinutes": 0,
-      "theoryMinutes": 50
+      "theoryMinutes": 62
     },
     {
-      "createdAt": "2026-07-07T01:23:45.836Z",
+      "createdAt": "2026-07-08T02:17:28.826Z",
       "date": "2026-07-06",
-      "exerciseMinutes": 0,
-      "id": "calendar-manual-2026-07-06",
+      "exerciseMinutes": 28,
+      "id": "8efd3977-5a67-4543-9054-794be9529d3c",
       "reviewMinutes": 0,
-      "theoryMinutes": 90
+      "theoryMinutes": 62
+    },
+    {
+      "createdAt": "2026-07-08T02:18:05.142Z",
+      "date": "2026-07-05",
+      "exerciseMinutes": 15,
+      "id": "387e6476-0f4f-4804-a86f-20649ed85fba",
+      "reviewMinutes": 0,
+      "theoryMinutes": 35
+    },
+    {
+      "createdAt": "2026-07-09T06:51:28.667Z",
+      "date": "2026-07-08",
+      "exerciseMinutes": 29,
+      "id": "31ff1b87-f2ce-4b28-a4e8-1dfed279c83b",
+      "reviewMinutes": 0,
+      "theoryMinutes": 62
     }
   ],
   "lastPlan": {
@@ -51,12 +67,90 @@
     {
       "correct": 27,
       "date": "2026-07-06",
+      "exerciseMinutes": 0,
       "id": "e78f5aec-a66b-49ed-b636-2b8c89618add",
       "minutes": 62,
       "questions": 27,
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-2"
+    },
+    {
+      "correct": 33,
+      "date": "2026-07-07",
+      "exerciseMinutes": 43,
+      "id": "efe993c7-ebd1-4544-8361-d8306601740e",
+      "minutes": 62,
+      "questions": 35,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 27,
+      "date": "2026-07-06",
+      "exerciseMinutes": 28,
+      "id": "0a3338a1-0457-483c-8fd1-e4378d5769c1",
+      "minutes": 62,
+      "questions": 27,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-1"
+    },
+    {
+      "correct": 27,
+      "date": "2026-07-06",
+      "exerciseMinutes": 28,
+      "id": "75bf59f0-56db-4f40-9c83-fb3b5651522e",
+      "minutes": 62,
+      "questions": 27,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-2"
+    },
+    {
+      "correct": 30,
+      "date": "2026-07-05",
+      "exerciseMinutes": 15,
+      "id": "f2f52d1f-49ed-4900-b0a4-10c740299611",
+      "minutes": 35,
+      "questions": 30,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-1"
+    },
+    {
+      "correct": 20,
+      "date": "2026-07-08",
+      "exerciseMinutes": 29,
+      "id": "a68b1567-e27b-4926-89a3-21ab340e2561",
+      "minutes": 62,
+      "questions": 20,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 20,
+      "date": "2026-07-08",
+      "exerciseMinutes": 29,
+      "id": "e39ac2d7-c997-44b2-91f5-adf771281c26",
+      "minutes": 62,
+      "questions": 20,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-09",
+      "exerciseMinutes": 2,
+      "id": "169338f0-bb01-47d8-ba4d-9776a6edcee8",
+      "minutes": 2,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
     }
   ],
   "settings": {
@@ -80,41 +174,40 @@
       "name": "Banco de Dados",
       "topics": [
         {
-          "correctCount": 0,
+          "correctCount": 73,
           "domain": 0,
-          "id": "subject-1-topic-1",
-          "lastStudiedAt": "2026-07-06",
-          "name": "Modelo relacional",
-          "nextReviewAt": "2026-07-13",
-          "questionCount": 0,
+          "id": "subject-1-topic-3",
+          "lastStudiedAt": "2026-07-09",
+          "name": "DER / MER",
+          "questionCount": 75,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": true,
-          "theoryMinutes": 0
+          "studied": false,
+          "theoryMinutes": 188
         },
         {
-          "correctCount": 27,
+          "correctCount": 57,
+          "domain": 0,
+          "id": "subject-1-topic-1",
+          "lastStudiedAt": "2026-07-05",
+          "name": "Modelo relacional",
+          "questionCount": 57,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 97
+        },
+        {
+          "correctCount": 54,
           "domain": 0,
           "id": "subject-1-topic-2",
           "lastStudiedAt": "2026-07-06",
           "name": "Chaves primária e estrangeira",
-          "nextReviewAt": "2026-07-13",
-          "questionCount": 27,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": true,
-          "theoryMinutes": 62
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
-          "id": "subject-1-topic-3",
-          "name": "DER / MER",
-          "questionCount": 0,
+          "questionCount": 54,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 0
+          "theoryMinutes": 124
         },
         {
           "correctCount": 0,
@@ -302,6 +395,17 @@
         {
           "correctCount": 0,
           "domain": 0,
+          "id": "subject-2-topic-11",
+          "name": "WPA2 / Redes sem fio",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
+        },
+        {
+          "correctCount": 0,
+          "domain": 0,
           "id": "subject-2-topic-8",
           "name": "Firewall / Proxy",
           "questionCount": 0,
@@ -326,17 +430,6 @@
           "domain": 0,
           "id": "subject-2-topic-10",
           "name": "VPN",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
-          "id": "subject-2-topic-11",
-          "name": "WPA2 / Redes sem fio",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -386,6 +479,17 @@
         {
           "correctCount": 0,
           "domain": 0,
+          "id": "subject-3-topic-7",
+          "name": "Pontos de função",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
+        },
+        {
+          "correctCount": 0,
+          "domain": 0,
           "id": "subject-3-topic-3",
           "name": "Processo Unificado",
           "questionCount": 0,
@@ -399,39 +503,6 @@
           "domain": 0,
           "id": "subject-3-topic-4",
           "name": "Scrum",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
-          "id": "subject-3-topic-5",
-          "name": "Testes / TDD",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
-          "id": "subject-3-topic-6",
-          "name": "Qualidade de software",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
-          "id": "subject-3-topic-7",
-          "name": "Pontos de função",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -470,6 +541,28 @@
           "reviewMinutes": 0,
           "studied": false,
           "theoryMinutes": 0
+        },
+        {
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-5",
+          "name": "Testes / TDD",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
+        },
+        {
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-6",
+          "name": "Qualidade de software",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
         }
       ],
       "weight": 9
@@ -503,6 +596,17 @@
         {
           "correctCount": 0,
           "domain": 0,
+          "id": "subject-4-topic-6",
+          "name": "HTML / CSS",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
+        },
+        {
+          "correctCount": 0,
+          "domain": 0,
           "id": "subject-4-topic-3",
           "name": "JavaScript",
           "questionCount": 0,
@@ -527,17 +631,6 @@
           "domain": 0,
           "id": "subject-4-topic-5",
           "name": "JDBC",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
-          "id": "subject-4-topic-6",
-          "name": "HTML / CSS",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -609,17 +702,6 @@
         {
           "correctCount": 0,
           "domain": 0,
-          "id": "subject-5-topic-1",
-          "name": "FNO",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
           "id": "subject-5-topic-2",
           "name": "CMN / meta de inflação",
           "questionCount": 0,
@@ -631,41 +713,8 @@
         {
           "correctCount": 0,
           "domain": 0,
-          "id": "subject-5-topic-3",
-          "name": "Mercado de câmbio",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
-          "id": "subject-5-topic-4",
-          "name": "Taxa de câmbio",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
-          "id": "subject-5-topic-5",
-          "name": "Varejo bancário",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
-          "id": "subject-5-topic-6",
-          "name": "Crédito rural",
+          "id": "subject-5-topic-10",
+          "name": "Mercado monetário",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -686,8 +735,19 @@
         {
           "correctCount": 0,
           "domain": 0,
-          "id": "subject-5-topic-8",
-          "name": "Crédito direto ao consumidor",
+          "id": "subject-5-topic-4",
+          "name": "Taxa de câmbio",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
+        },
+        {
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-5-topic-3",
+          "name": "Mercado de câmbio",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -708,8 +768,41 @@
         {
           "correctCount": 0,
           "domain": 0,
-          "id": "subject-5-topic-10",
-          "name": "Mercado monetário",
+          "id": "subject-5-topic-5",
+          "name": "Varejo bancário",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
+        },
+        {
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-5-topic-8",
+          "name": "Crédito direto ao consumidor",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
+        },
+        {
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-5-topic-6",
+          "name": "Crédito rural",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
+        },
+        {
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-5-topic-1",
+          "name": "FNO",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -723,39 +816,6 @@
       "id": "subject-6",
       "name": "Compliance / Ética",
       "topics": [
-        {
-          "correctCount": 0,
-          "domain": 0,
-          "id": "subject-6-topic-1",
-          "name": "Lavagem de dinheiro",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
-          "id": "subject-6-topic-2",
-          "name": "Financiamento ao terrorismo",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
-          "id": "subject-6-topic-3",
-          "name": "LGPD",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
         {
           "correctCount": 0,
           "domain": 0,
@@ -777,6 +837,39 @@
           "reviewMinutes": 0,
           "studied": false,
           "theoryMinutes": 0
+        },
+        {
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-6-topic-3",
+          "name": "LGPD",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
+        },
+        {
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-6-topic-1",
+          "name": "Lavagem de dinheiro",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
+        },
+        {
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-6-topic-2",
+          "name": "Financiamento ao terrorismo",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
         }
       ],
       "weight": 6
@@ -788,8 +881,8 @@
         {
           "correctCount": 0,
           "domain": 0,
-          "id": "subject-7-topic-1",
-          "name": "SERVQUAL",
+          "id": "subject-7-topic-2",
+          "name": "Valor percebido pelo cliente",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -799,8 +892,8 @@
         {
           "correctCount": 0,
           "domain": 0,
-          "id": "subject-7-topic-2",
-          "name": "Valor percebido pelo cliente",
+          "id": "subject-7-topic-1",
+          "name": "SERVQUAL",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -821,8 +914,8 @@
         {
           "correctCount": 0,
           "domain": 0,
-          "id": "subject-7-topic-4",
-          "name": "Inovação com realidade virtual",
+          "id": "subject-7-topic-5",
+          "name": "Programa de fidelidade por pontos",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -832,8 +925,8 @@
         {
           "correctCount": 0,
           "domain": 0,
-          "id": "subject-7-topic-5",
-          "name": "Programa de fidelidade por pontos",
+          "id": "subject-7-topic-4",
+          "name": "Inovação com realidade virtual",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -850,17 +943,6 @@
         {
           "correctCount": 0,
           "domain": 0,
-          "id": "subject-8-topic-1",
-          "name": "Português: interpretação",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
           "id": "subject-8-topic-2",
           "name": "Português: gramática",
           "questionCount": 0,
@@ -872,8 +954,8 @@
         {
           "correctCount": 0,
           "domain": 0,
-          "id": "subject-8-topic-3",
-          "name": "Inglês: interpretação",
+          "id": "subject-8-topic-1",
+          "name": "Português: interpretação",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -890,6 +972,17 @@
           "reviewMinutes": 0,
           "studied": false,
           "theoryMinutes": 0
+        },
+        {
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-8-topic-3",
+          "name": "Inglês: interpretação",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
         }
       ],
       "weight": 8
@@ -897,9 +990,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-06T17:25:23.840Z",
+    "lastSyncAt": "2026-07-07T01:24:10.226Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 116,
-    "updatedAt": "2026-07-07T01:23:45.836Z"
+    "revision": 172,
+    "updatedAt": "2026-07-09T06:53:13.744Z"
   }
 }
