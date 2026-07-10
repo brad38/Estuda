@@ -1,5 +1,5 @@
 {
-  "activeTab": "calendar",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-02": 0,
@@ -10,6 +10,7 @@
       "2026-07-07": 0,
       "2026-07-08": 1,
       "2026-07-09": 0,
+      "2026-07-10": 1,
       "2026-07-12": 1,
       "2026-07-15": 0
     },
@@ -61,6 +62,14 @@
       "id": "60d094c0-e56a-498f-b731-2d1b3d418e72",
       "reviewMinutes": 0,
       "theoryMinutes": 15
+    },
+    {
+      "createdAt": "2026-07-10T20:05:02.326Z",
+      "date": "2026-07-10",
+      "exerciseMinutes": 0,
+      "id": "1e351402-62df-4d7b-93b5-b9dbe1af4894",
+      "reviewMinutes": 0,
+      "theoryMinutes": 17
     }
   ],
   "lastPlan": {
@@ -170,6 +179,17 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-10",
+      "exerciseMinutes": 0,
+      "id": "96a420bf-5828-4f14-98ed-b74edb91b692",
+      "minutes": 17,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
     }
   ],
   "settings": {
@@ -196,13 +216,13 @@
           "correctCount": 73,
           "domain": 0,
           "id": "subject-1-topic-3",
-          "lastStudiedAt": "2026-07-09",
+          "lastStudiedAt": "2026-07-10",
           "name": "DER / MER",
           "questionCount": 75,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 203
+          "theoryMinutes": 220
         },
         {
           "correctCount": 57,
@@ -232,11 +252,13 @@
           "correctCount": 0,
           "domain": 0,
           "id": "subject-1-topic-4",
+          "lastStudiedAt": "2026-07-10",
           "name": "Normalização",
+          "nextReviewAt": "2026-07-10",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -1009,9 +1031,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-10T02:36:48.112Z",
+    "lastSyncAt": "2026-07-10T17:22:16.079Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 185,
-    "updatedAt": "2026-07-10T02:54:41.183Z"
+    "revision": 198,
+    "updatedAt": "2026-07-10T20:05:02.326Z"
   }
 }
