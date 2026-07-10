@@ -1,5 +1,5 @@
 {
-  "activeTab": "settings",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-02": 0,
@@ -9,7 +9,7 @@
       "2026-07-06": 0,
       "2026-07-07": 0,
       "2026-07-08": 1,
-      "2026-07-09": 0,
+      "2026-07-09": 1,
       "2026-07-12": 1,
       "2026-07-15": 0
     },
@@ -990,9 +990,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-10T01:04:31.073Z",
-    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 176,
-    "updatedAt": "2026-07-10T01:21:16.685Z"
+    "lastSyncAt": "2026-07-10T02:09:14.325Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 183,
+    "updatedAt": "2026-07-10T02:10:10.563Z"
   }
 }
