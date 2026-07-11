@@ -1,5 +1,5 @@
 {
-  "activeTab": "reviews",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-02": 0,
@@ -11,8 +11,10 @@
       "2026-07-08": 1,
       "2026-07-09": 0,
       "2026-07-10": 1,
+      "2026-07-11": 1,
       "2026-07-12": 1,
-      "2026-07-15": 0
+      "2026-07-15": 0,
+      "2026-07-16": 0
     },
     "friday": 120,
     "monday": 120,
@@ -72,12 +74,12 @@
       "theoryMinutes": 17
     },
     {
-      "createdAt": "2026-07-11T04:08:20.905Z",
+      "createdAt": "2026-07-11T20:01:10.791Z",
       "date": "2026-07-11",
       "exerciseMinutes": 0,
-      "id": "3b1f84cd-0b2e-4b13-a1f1-66d12bc7afb4",
+      "id": "5bf23798-8133-45e0-8d9d-f6cbedb7924a",
       "reviewMinutes": 0,
-      "theoryMinutes": 6
+      "theoryMinutes": 51
     }
   ],
   "lastPlan": {
@@ -203,8 +205,8 @@
       "correct": 0,
       "date": "2026-07-11",
       "exerciseMinutes": 0,
-      "id": "b5ddc349-dbba-4c6f-819a-1a40fb5b43fe",
-      "minutes": 6,
+      "id": "8b456043-f4b1-42cd-bda5-abfdc262ff41",
+      "minutes": 51,
       "questions": 0,
       "reviewMinutes": 0,
       "subjectId": "subject-1",
@@ -242,7 +244,7 @@
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 226
+          "theoryMinutes": 271
         },
         {
           "correctCount": 57,
@@ -1051,9 +1053,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-11T03:54:28.205Z",
-    "lastSyncStatus": "Sincronizado",
-    "revision": 199,
-    "updatedAt": "2026-07-11T04:08:20.905Z"
+    "lastSyncAt": "2026-07-11T19:21:45.814Z",
+    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
+    "revision": 225,
+    "updatedAt": "2026-07-11T20:01:10.791Z"
   }
 }
