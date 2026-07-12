@@ -1,5 +1,5 @@
 {
-  "activeTab": "today",
+  "activeTab": "subjects",
   "availability": {
     "dateOverrides": {
       "2026-07-02": 0,
@@ -13,16 +13,18 @@
       "2026-07-10": 1,
       "2026-07-11": 1,
       "2026-07-12": 1,
-      "2026-07-15": 0,
-      "2026-07-16": 0
+      "2026-07-15": 1,
+      "2026-07-16": 1,
+      "2026-07-22": 1,
+      "2026-07-23": 1
     },
     "friday": 120,
     "monday": 120,
     "saturday": 180,
-    "sunday": 0,
-    "thursday": 0,
+    "sunday": 1,
+    "thursday": 1,
     "tuesday": 120,
-    "wednesday": 0
+    "wednesday": 1
   },
   "dailyStudyLogs": [
     {
@@ -80,6 +82,14 @@
       "id": "5bf23798-8133-45e0-8d9d-f6cbedb7924a",
       "reviewMinutes": 0,
       "theoryMinutes": 51
+    },
+    {
+      "createdAt": "2026-07-12T03:01:20.218Z",
+      "date": "2026-07-11",
+      "exerciseMinutes": 0,
+      "id": "1d923cfd-e030-4bd1-94fc-7d82a487f1cb",
+      "reviewMinutes": 0,
+      "theoryMinutes": 22
     }
   ],
   "lastPlan": {
@@ -211,6 +221,17 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-11",
+      "exerciseMinutes": 0,
+      "id": "39760f07-f761-40d6-b844-b7d5290f4f06",
+      "minutes": 22,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
     }
   ],
   "settings": {
@@ -239,12 +260,11 @@
           "id": "subject-1-topic-3",
           "lastStudiedAt": "2026-07-11",
           "name": "DER / MER",
-          "nextReviewAt": "2026-07-11",
           "questionCount": 75,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 271
+          "theoryMinutes": 293
         },
         {
           "correctCount": 57,
@@ -276,11 +296,10 @@
           "id": "subject-1-topic-4",
           "lastStudiedAt": "2026-07-10",
           "name": "Normalização",
-          "nextReviewAt": "2026-07-10",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": true,
+          "studied": false,
           "theoryMinutes": 0
         },
         {
@@ -1053,9 +1072,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-11T19:21:45.814Z",
-    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 225,
-    "updatedAt": "2026-07-11T20:01:10.791Z"
+    "lastSyncAt": "2026-07-12T02:49:06.335Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 274,
+    "updatedAt": "2026-07-12T04:18:53.837Z"
   }
 }
