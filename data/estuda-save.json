@@ -98,6 +98,14 @@
       "id": "1c219321-8992-4acb-a075-df713d37bae1",
       "reviewMinutes": 0,
       "theoryMinutes": 44
+    },
+    {
+      "createdAt": "2026-07-14T02:35:34.337Z",
+      "date": "2026-07-13",
+      "exerciseMinutes": 0,
+      "id": "169c1bf6-70f6-43c1-b8cf-c266da5b54af",
+      "reviewMinutes": 0,
+      "theoryMinutes": 8
     }
   ],
   "lastPlan": {
@@ -251,6 +259,17 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-13",
+      "exerciseMinutes": 0,
+      "id": "3cd5a022-59c2-4e37-b7a4-5b553dcbe31a",
+      "minutes": 8,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
     }
   ],
   "settings": {
@@ -284,7 +303,7 @@
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 337
+          "theoryMinutes": 345
         },
         {
           "correctCount": 57,
@@ -1092,9 +1111,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-14T01:16:40.756Z",
-    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 275,
-    "updatedAt": "2026-07-14T01:25:06.936Z"
+    "lastSyncAt": "2026-07-14T02:34:54.140Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 276,
+    "updatedAt": "2026-07-14T02:35:34.337Z"
   }
 }
