@@ -1,5 +1,5 @@
 {
-  "activeTab": "settings",
+  "activeTab": "calendar",
   "availability": {
     "dateOverrides": {
       "2026-07-02": 0,
@@ -322,7 +322,7 @@
           "questionCount": 75,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 349
         },
         {
@@ -1131,9 +1131,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-14T06:37:43.788Z",
+    "lastSyncAt": "2026-07-14T16:04:52.841Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 283,
-    "updatedAt": "2026-07-14T06:43:26.366Z"
+    "revision": 284,
+    "updatedAt": "2026-07-14T16:07:46.367Z"
   }
 }
