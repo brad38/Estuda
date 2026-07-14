@@ -1,5 +1,5 @@
 {
-  "activeTab": "subjects",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-02": 0,
@@ -90,6 +90,14 @@
       "id": "1d923cfd-e030-4bd1-94fc-7d82a487f1cb",
       "reviewMinutes": 0,
       "theoryMinutes": 22
+    },
+    {
+      "createdAt": "2026-07-14T01:25:06.935Z",
+      "date": "2026-07-13",
+      "exerciseMinutes": 0,
+      "id": "1c219321-8992-4acb-a075-df713d37bae1",
+      "reviewMinutes": 0,
+      "theoryMinutes": 44
     }
   ],
   "lastPlan": {
@@ -232,6 +240,17 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-13",
+      "exerciseMinutes": 0,
+      "id": "5a3344b0-56e8-43f7-92d6-c94b3df23196",
+      "minutes": 44,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
     }
   ],
   "settings": {
@@ -258,13 +277,14 @@
           "correctCount": 73,
           "domain": 0,
           "id": "subject-1-topic-3",
-          "lastStudiedAt": "2026-07-11",
+          "lastStudiedAt": "2026-07-13",
           "name": "DER / MER",
+          "nextReviewAt": "2026-07-13",
           "questionCount": 75,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 293
+          "theoryMinutes": 337
         },
         {
           "correctCount": 57,
@@ -1072,9 +1092,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-12T02:49:06.335Z",
-    "lastSyncStatus": "Sincronizado",
-    "revision": 274,
-    "updatedAt": "2026-07-12T04:18:53.837Z"
+    "lastSyncAt": "2026-07-14T01:16:40.756Z",
+    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
+    "revision": 275,
+    "updatedAt": "2026-07-14T01:25:06.936Z"
   }
 }
