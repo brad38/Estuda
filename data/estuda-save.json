@@ -1,5 +1,5 @@
 {
-  "activeTab": "today",
+  "activeTab": "settings",
   "availability": {
     "dateOverrides": {
       "2026-07-02": 0,
@@ -13,6 +13,7 @@
       "2026-07-10": 1,
       "2026-07-11": 1,
       "2026-07-12": 1,
+      "2026-07-14": 1,
       "2026-07-15": 1,
       "2026-07-16": 1,
       "2026-07-22": 1,
@@ -106,6 +107,14 @@
       "id": "169c1bf6-70f6-43c1-b8cf-c266da5b54af",
       "reviewMinutes": 0,
       "theoryMinutes": 8
+    },
+    {
+      "createdAt": "2026-07-14T06:43:13.197Z",
+      "date": "2026-07-13",
+      "exerciseMinutes": 0,
+      "id": "9bef4b91-ce31-447d-93b9-f538d5993c07",
+      "reviewMinutes": 0,
+      "theoryMinutes": 4
     }
   ],
   "lastPlan": {
@@ -270,6 +279,17 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-13",
+      "exerciseMinutes": 0,
+      "id": "13774d37-c970-41e4-9f1c-f0ea3758ef9b",
+      "minutes": 4,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
     }
   ],
   "settings": {
@@ -303,7 +323,7 @@
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 345
+          "theoryMinutes": 349
         },
         {
           "correctCount": 57,
@@ -1111,9 +1131,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-14T02:34:54.140Z",
+    "lastSyncAt": "2026-07-14T06:37:43.788Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 276,
-    "updatedAt": "2026-07-14T02:35:34.337Z"
+    "revision": 283,
+    "updatedAt": "2026-07-14T06:43:26.366Z"
   }
 }
