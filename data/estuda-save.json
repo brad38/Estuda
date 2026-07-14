@@ -1,5 +1,5 @@
 {
-  "activeTab": "today",
+  "activeTab": "subjects",
   "availability": {
     "dateOverrides": {
       "2026-07-02": 0,
@@ -122,6 +122,22 @@
       "exerciseMinutes": 0,
       "id": "03237e43-72d3-4537-b208-371ec268a42d",
       "reviewMinutes": 18,
+      "theoryMinutes": 0
+    },
+    {
+      "createdAt": "2026-07-14T17:28:32.147Z",
+      "date": "2026-07-14",
+      "exerciseMinutes": 35,
+      "id": "aeb13bad-a876-4e3f-b51b-0788a2d253fa",
+      "reviewMinutes": 0,
+      "theoryMinutes": 0
+    },
+    {
+      "createdAt": "2026-07-14T17:28:43.100Z",
+      "date": "2026-07-14",
+      "exerciseMinutes": 1,
+      "id": "a3820528-a53f-44b8-a3a3-dbb3a4f7d0d8",
+      "reviewMinutes": 0,
       "theoryMinutes": 0
     }
   ],
@@ -309,6 +325,28 @@
       "reviewMinutes": 18,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 38,
+      "date": "2026-07-14",
+      "exerciseMinutes": 35,
+      "id": "cc1984f3-7c4c-436a-9825-6345ceb1f130",
+      "minutes": 0,
+      "questions": 38,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-14",
+      "exerciseMinutes": 1,
+      "id": "5b294c7d-af4a-4c41-9cf1-ac8de8bf93d8",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
     }
   ],
   "settings": {
@@ -332,13 +370,13 @@
       "name": "Banco de Dados",
       "topics": [
         {
-          "correctCount": 73,
+          "correctCount": 111,
           "domain": 17,
           "id": "subject-1-topic-3",
           "lastStudiedAt": "2026-07-14",
           "name": "DER / MER",
-          "nextReviewAt": "2026-07-15",
-          "questionCount": 75,
+          "nextReviewAt": "2026-07-14",
+          "questionCount": 113,
           "reviewCount": 1,
           "reviewMinutes": 18,
           "studied": true,
@@ -1150,9 +1188,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-14T16:29:55.462Z",
-    "lastSyncStatus": "Sincronizado",
-    "revision": 285,
-    "updatedAt": "2026-07-14T16:29:57.163Z"
+    "lastSyncAt": "2026-07-14T17:06:45.187Z",
+    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
+    "revision": 291,
+    "updatedAt": "2026-07-14T17:52:29.572Z"
   }
 }
