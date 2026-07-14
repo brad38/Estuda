@@ -1,5 +1,5 @@
 {
-  "activeTab": "calendar",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-02": 0,
@@ -115,6 +115,14 @@
       "id": "9bef4b91-ce31-447d-93b9-f538d5993c07",
       "reviewMinutes": 0,
       "theoryMinutes": 4
+    },
+    {
+      "createdAt": "2026-07-14T16:29:57.163Z",
+      "date": "2026-07-14",
+      "exerciseMinutes": 0,
+      "id": "03237e43-72d3-4537-b208-371ec268a42d",
+      "reviewMinutes": 18,
+      "theoryMinutes": 0
     }
   ],
   "lastPlan": {
@@ -290,6 +298,17 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-14",
+      "exerciseMinutes": 0,
+      "id": "eab68773-9544-4b57-acf0-17e8d6b2baf4",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 18,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
     }
   ],
   "settings": {
@@ -314,14 +333,14 @@
       "topics": [
         {
           "correctCount": 73,
-          "domain": 0,
+          "domain": 17,
           "id": "subject-1-topic-3",
-          "lastStudiedAt": "2026-07-13",
+          "lastStudiedAt": "2026-07-14",
           "name": "DER / MER",
-          "nextReviewAt": "2026-07-13",
+          "nextReviewAt": "2026-07-15",
           "questionCount": 75,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
+          "reviewCount": 1,
+          "reviewMinutes": 18,
           "studied": true,
           "theoryMinutes": 349
         },
@@ -1131,9 +1150,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-14T16:04:52.841Z",
+    "lastSyncAt": "2026-07-14T16:29:55.462Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 284,
-    "updatedAt": "2026-07-14T16:07:46.367Z"
+    "revision": 285,
+    "updatedAt": "2026-07-14T16:29:57.163Z"
   }
 }
