@@ -163,6 +163,14 @@
       "id": "b325c1e0-cb1f-4548-a2cc-4d83b9547f49",
       "reviewMinutes": 0,
       "theoryMinutes": 0
+    },
+    {
+      "createdAt": "2026-07-16T17:35:18.665Z",
+      "date": "2026-07-16",
+      "exerciseMinutes": 0,
+      "id": "152d8e3a-11c9-4f5c-b311-08c81138890b",
+      "reviewMinutes": 0,
+      "theoryMinutes": 22
     }
   ],
   "lastPlan": {
@@ -415,6 +423,17 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-1"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-16",
+      "exerciseMinutes": 0,
+      "id": "2b6521c8-da25-48c2-9e69-b64de92d3b43",
+      "minutes": 22,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-1"
     }
   ],
   "settings": {
@@ -454,14 +473,14 @@
           "correctCount": 91,
           "domain": 0,
           "id": "subject-1-topic-1",
-          "lastStudiedAt": "2026-07-15",
+          "lastStudiedAt": "2026-07-16",
           "name": "Modelo relacional",
           "nextReviewAt": "2026-07-15",
           "questionCount": 92,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 173
+          "theoryMinutes": 195
         },
         {
           "correctCount": 54,
@@ -1257,9 +1276,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-16T01:39:02.646Z",
+    "lastSyncAt": "2026-07-16T17:31:48.821Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 303,
-    "updatedAt": "2026-07-16T01:45:25.284Z"
+    "revision": 304,
+    "updatedAt": "2026-07-16T17:35:18.665Z"
   }
 }
