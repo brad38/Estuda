@@ -155,6 +155,14 @@
       "id": "43845ff2-6a7e-47f2-a977-bec73431f7d7",
       "reviewMinutes": 0,
       "theoryMinutes": 76
+    },
+    {
+      "createdAt": "2026-07-16T01:44:04.887Z",
+      "date": "2026-07-15",
+      "exerciseMinutes": 35,
+      "id": "b325c1e0-cb1f-4548-a2cc-4d83b9547f49",
+      "reviewMinutes": 0,
+      "theoryMinutes": 0
     }
   ],
   "lastPlan": {
@@ -385,6 +393,28 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-1"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-15",
+      "exerciseMinutes": 35,
+      "id": "334a9498-c0f7-4d9f-9073-e40f8d756e60",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-1"
+    },
+    {
+      "correct": 34,
+      "date": "2026-07-15",
+      "exerciseMinutes": 0,
+      "id": "7f03a64f-fbe5-4422-8745-5691c17dacf6",
+      "minutes": 0,
+      "questions": 35,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-1"
     }
   ],
   "settings": {
@@ -421,13 +451,13 @@
           "theoryMinutes": 349
         },
         {
-          "correctCount": 57,
+          "correctCount": 91,
           "domain": 0,
           "id": "subject-1-topic-1",
           "lastStudiedAt": "2026-07-15",
           "name": "Modelo relacional",
           "nextReviewAt": "2026-07-15",
-          "questionCount": 57,
+          "questionCount": 92,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
@@ -1227,9 +1257,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-15T20:35:13.018Z",
-    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 301,
-    "updatedAt": "2026-07-15T20:48:57.624Z"
+    "lastSyncAt": "2026-07-16T01:39:02.646Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 303,
+    "updatedAt": "2026-07-16T01:45:25.284Z"
   }
 }
