@@ -1,5 +1,5 @@
 {
-  "activeTab": "subjects",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-02": 0,
@@ -147,6 +147,14 @@
       "id": "cc3b3b0a-82f7-4329-a9e8-fd597a4ee3ed",
       "reviewMinutes": 20,
       "theoryMinutes": 0
+    },
+    {
+      "createdAt": "2026-07-15T20:48:57.623Z",
+      "date": "2026-07-15",
+      "exerciseMinutes": 0,
+      "id": "43845ff2-6a7e-47f2-a977-bec73431f7d7",
+      "reviewMinutes": 0,
+      "theoryMinutes": 76
     }
   ],
   "lastPlan": {
@@ -366,6 +374,17 @@
       "reviewMinutes": 20,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-15",
+      "exerciseMinutes": 0,
+      "id": "30c9ae14-88c7-4cf4-a484-64a85c80cf8a",
+      "minutes": 76,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-1"
     }
   ],
   "settings": {
@@ -405,13 +424,14 @@
           "correctCount": 57,
           "domain": 0,
           "id": "subject-1-topic-1",
-          "lastStudiedAt": "2026-07-05",
+          "lastStudiedAt": "2026-07-15",
           "name": "Modelo relacional",
+          "nextReviewAt": "2026-07-15",
           "questionCount": 57,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 97
+          "theoryMinutes": 173
         },
         {
           "correctCount": 54,
@@ -1207,9 +1227,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-14T18:30:32.338Z",
+    "lastSyncAt": "2026-07-15T20:35:13.018Z",
     "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 300,
-    "updatedAt": "2026-07-14T18:33:06.512Z"
+    "revision": 301,
+    "updatedAt": "2026-07-15T20:48:57.624Z"
   }
 }
