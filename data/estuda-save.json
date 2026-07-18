@@ -1,5 +1,5 @@
 {
-  "activeTab": "today",
+  "activeTab": "calendar",
   "availability": {
     "dateOverrides": {
       "2026-07-02": 0,
@@ -18,7 +18,16 @@
       "2026-07-16": 1,
       "2026-07-17": 1,
       "2026-07-22": 1,
-      "2026-07-23": 1
+      "2026-07-23": 1,
+      "2026-07-31": 103
+    },
+    "datePlanOverrides": {
+      "2026-07-31": {
+        "phase": "manual",
+        "questions": 31,
+        "review": 10,
+        "theory": 62
+      }
     },
     "friday": 120,
     "monday": 120,
@@ -26,7 +35,8 @@
     "sunday": 1,
     "thursday": 1,
     "tuesday": 120,
-    "wednesday": 1
+    "wednesday": 1,
+    "weekdayPlanOverrides": {}
   },
   "dailyStudyLogs": [
     {
@@ -188,6 +198,22 @@
       "id": "dcf28682-18a1-4bc2-beb7-792e26a32545",
       "reviewMinutes": 0,
       "theoryMinutes": 0
+    },
+    {
+      "createdAt": "2026-07-18T02:47:57.794Z",
+      "date": "2026-07-17",
+      "exerciseMinutes": 0,
+      "id": "eed173b9-5db5-4363-892d-653319562917",
+      "reviewMinutes": 0,
+      "theoryMinutes": 62
+    },
+    {
+      "createdAt": "2026-07-18T03:02:08.907Z",
+      "date": "2026-07-17",
+      "exerciseMinutes": 0,
+      "id": "93826bd1-3d02-4cd1-9f02-a4a087064432",
+      "reviewMinutes": 0,
+      "theoryMinutes": 13
     }
   ],
   "lastPlan": {
@@ -473,6 +499,28 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-1"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-17",
+      "exerciseMinutes": 0,
+      "id": "ec65994a-69cb-4728-b2f7-5836cbaa9318",
+      "minutes": 62,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-1"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-17",
+      "exerciseMinutes": 0,
+      "id": "83b21ba4-c58f-40d8-8e58-5a47edb4a442",
+      "minutes": 13,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-1"
     }
   ],
   "settings": {
@@ -512,14 +560,14 @@
           "correctCount": 123,
           "domain": 0,
           "id": "subject-1-topic-1",
-          "lastStudiedAt": "2026-07-16",
+          "lastStudiedAt": "2026-07-17",
           "name": "Modelo relacional",
           "nextReviewAt": "2026-07-15",
           "questionCount": 128,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 248
+          "theoryMinutes": 323
         },
         {
           "correctCount": 54,
@@ -777,7 +825,7 @@
     },
     {
       "id": "subject-3",
-      "name": "Engenharia / POO / UML",
+      "name": "Engenharia de Software",
       "topics": [
         {
           "correctCount": 0,
@@ -837,39 +885,6 @@
         {
           "correctCount": 0,
           "domain": 0,
-          "id": "subject-3-topic-8",
-          "name": "POO",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
-          "id": "subject-3-topic-9",
-          "name": "UML",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
-          "id": "subject-3-topic-10",
-          "name": "Design Patterns",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "studied": false,
-          "theoryMinutes": 0
-        },
-        {
-          "correctCount": 0,
-          "domain": 0,
           "id": "subject-3-topic-5",
           "name": "Testes / TDD",
           "questionCount": 0,
@@ -891,6 +906,53 @@
         }
       ],
       "weight": 9
+    },
+    {
+      "id": "subject-poo",
+      "name": "POO",
+      "topics": [
+        {
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-8",
+          "name": "POO",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
+        },
+        {
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-10",
+          "name": "Design Patterns",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
+        }
+      ],
+      "weight": 8
+    },
+    {
+      "id": "subject-uml",
+      "name": "UML",
+      "topics": [
+        {
+          "correctCount": 0,
+          "domain": 0,
+          "id": "subject-3-topic-9",
+          "name": "UML",
+          "questionCount": 0,
+          "reviewCount": 0,
+          "reviewMinutes": 0,
+          "studied": false,
+          "theoryMinutes": 0
+        }
+      ],
+      "weight": 7
     },
     {
       "id": "subject-4",
@@ -1315,9 +1377,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-17T03:06:19.406Z",
+    "lastSyncAt": "2026-07-18T02:40:00.713Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 314,
-    "updatedAt": "2026-07-17T03:12:31.607Z"
+    "revision": 322,
+    "updatedAt": "2026-07-18T03:31:45.525Z"
   }
 }
