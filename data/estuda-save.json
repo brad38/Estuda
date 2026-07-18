@@ -29,12 +29,12 @@
         "theory": 62
       }
     },
-    "friday": 120,
-    "monday": 120,
-    "saturday": 180,
+    "friday": 1,
+    "monday": 1,
+    "saturday": 1,
     "sunday": 1,
     "thursday": 1,
-    "tuesday": 120,
+    "tuesday": 1,
     "wednesday": 1,
     "weekdayPlanOverrides": {}
   },
@@ -197,14 +197,6 @@
       "exerciseMinutes": 30,
       "id": "dcf28682-18a1-4bc2-beb7-792e26a32545",
       "reviewMinutes": 0,
-      "theoryMinutes": 0
-    },
-    {
-      "createdAt": "2026-07-18T16:38:48.752Z",
-      "date": "2026-07-18",
-      "exerciseMinutes": 0,
-      "id": "8cdea970-a1f6-4f17-9177-327550449ff5",
-      "reviewMinutes": 20,
       "theoryMinutes": 0
     },
     {
@@ -502,17 +494,6 @@
     },
     {
       "correct": 0,
-      "date": "2026-07-18",
-      "exerciseMinutes": 0,
-      "id": "fbca7c9a-f645-47f1-b337-48def4ef9257",
-      "minutes": 0,
-      "questions": 0,
-      "reviewMinutes": 20,
-      "subjectId": "subject-1",
-      "topicId": "subject-1-topic-3"
-    },
-    {
-      "correct": 0,
       "date": "2026-07-17",
       "exerciseMinutes": 0,
       "id": "4675e0c2-365d-4fac-8f93-c00173d8e49e",
@@ -580,7 +561,7 @@
     "targetDate": "2027-04-15",
     "targetExam": "BASA TI",
     "theme": "dark",
-    "weeklyGoalMinutes": 720
+    "weeklyGoalMinutes": 660
   },
   "subjects": [
     {
@@ -589,14 +570,14 @@
       "topics": [
         {
           "correctCount": 111,
-          "domain": 59,
+          "domain": 46,
           "id": "subject-1-topic-3",
           "lastStudiedAt": "2026-07-18",
           "name": "DER / MER",
           "nextReviewAt": "2026-08-01",
           "questionCount": 113,
-          "reviewCount": 4,
-          "reviewMinutes": 58,
+          "reviewCount": 3,
+          "reviewMinutes": 38,
           "studied": true,
           "theoryMinutes": 349
         },
@@ -1423,9 +1404,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-18T16:44:52.013Z",
-    "lastSyncStatus": "Sincronizado",
-    "revision": 340,
-    "updatedAt": "2026-07-18T18:16:35.555Z"
+    "lastSyncAt": "2026-07-18T18:45:54.773Z",
+    "lastSyncStatus": "Falha ao sincronizar: failed to connect to api.github.com/4.228.31.149 (port 443) from /192.168.18.3 (port 57036) after 10000ms",
+    "revision": 342,
+    "updatedAt": "2026-07-18T18:50:23.304Z"
   }
 }
