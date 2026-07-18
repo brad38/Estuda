@@ -1,5 +1,5 @@
 {
-  "activeTab": "settings",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-02": 0,
@@ -200,28 +200,20 @@
       "theoryMinutes": 0
     },
     {
-      "createdAt": "2026-07-18T02:47:57.794Z",
-      "date": "2026-07-17",
-      "exerciseMinutes": 0,
-      "id": "eed173b9-5db5-4363-892d-653319562917",
-      "reviewMinutes": 0,
-      "theoryMinutes": 62
-    },
-    {
-      "createdAt": "2026-07-18T03:02:08.907Z",
-      "date": "2026-07-17",
-      "exerciseMinutes": 0,
-      "id": "93826bd1-3d02-4cd1-9f02-a4a087064432",
-      "reviewMinutes": 0,
-      "theoryMinutes": 13
-    },
-    {
       "createdAt": "2026-07-18T16:38:48.752Z",
       "date": "2026-07-18",
       "exerciseMinutes": 0,
       "id": "8cdea970-a1f6-4f17-9177-327550449ff5",
       "reviewMinutes": 20,
       "theoryMinutes": 0
+    },
+    {
+      "createdAt": "2026-07-18T17:20:32.985Z",
+      "date": "2026-07-17",
+      "exerciseMinutes": 0,
+      "id": "f9ee386c-4d45-47fc-b32f-b8717427a1de",
+      "reviewMinutes": 0,
+      "theoryMinutes": 75
     }
   ],
   "lastPlan": {
@@ -510,21 +502,43 @@
     },
     {
       "correct": 0,
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "exerciseMinutes": 0,
-      "id": "ec65994a-69cb-4728-b2f7-5836cbaa9318",
-      "minutes": 62,
+      "id": "fbca7c9a-f645-47f1-b337-48def4ef9257",
+      "minutes": 0,
       "questions": 0,
-      "reviewMinutes": 0,
+      "reviewMinutes": 20,
       "subjectId": "subject-1",
-      "topicId": "subject-1-topic-1"
+      "topicId": "subject-1-topic-3"
     },
     {
       "correct": 0,
       "date": "2026-07-17",
       "exerciseMinutes": 0,
-      "id": "83b21ba4-c58f-40d8-8e58-5a47edb4a442",
-      "minutes": 13,
+      "id": "4675e0c2-365d-4fac-8f93-c00173d8e49e",
+      "minutes": 75,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-4"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-18",
+      "exerciseMinutes": 0,
+      "id": "40408302-290f-46be-bf32-9508dc7e1316",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-18",
+      "exerciseMinutes": 0,
+      "id": "b5213247-ea3f-436a-a17e-dbda88189ae9",
+      "minutes": 0,
       "questions": 0,
       "reviewMinutes": 0,
       "subjectId": "subject-1",
@@ -534,12 +548,23 @@
       "correct": 0,
       "date": "2026-07-18",
       "exerciseMinutes": 0,
-      "id": "fbca7c9a-f645-47f1-b337-48def4ef9257",
+      "id": "b9eb6cb0-c421-469e-a4c6-14ee1accc41a",
       "minutes": 0,
       "questions": 0,
-      "reviewMinutes": 20,
+      "reviewMinutes": 0,
       "subjectId": "subject-1",
-      "topicId": "subject-1-topic-3"
+      "topicId": "subject-1-topic-2"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-18",
+      "exerciseMinutes": 0,
+      "id": "c00c7910-a0a1-448f-bad6-0eb67199bbe5",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-4"
     }
   ],
   "settings": {
@@ -564,53 +589,55 @@
       "topics": [
         {
           "correctCount": 111,
-          "domain": 48,
+          "domain": 59,
           "id": "subject-1-topic-3",
           "lastStudiedAt": "2026-07-18",
           "name": "DER / MER",
-          "nextReviewAt": "2026-07-25",
+          "nextReviewAt": "2026-08-01",
           "questionCount": 113,
-          "reviewCount": 3,
+          "reviewCount": 4,
           "reviewMinutes": 58,
           "studied": true,
           "theoryMinutes": 349
         },
         {
           "correctCount": 123,
-          "domain": 0,
+          "domain": 14,
           "id": "subject-1-topic-1",
-          "lastStudiedAt": "2026-07-17",
+          "lastStudiedAt": "2026-07-18",
           "name": "Modelo relacional",
-          "nextReviewAt": "2026-07-15",
+          "nextReviewAt": "2026-07-19",
           "questionCount": 128,
-          "reviewCount": 0,
+          "reviewCount": 1,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 323
+          "theoryMinutes": 248
         },
         {
           "correctCount": 54,
-          "domain": 0,
+          "domain": 14,
           "id": "subject-1-topic-2",
-          "lastStudiedAt": "2026-07-06",
+          "lastStudiedAt": "2026-07-18",
           "name": "Chaves primária e estrangeira",
+          "nextReviewAt": "2026-07-19",
           "questionCount": 54,
-          "reviewCount": 0,
+          "reviewCount": 1,
           "reviewMinutes": 0,
           "studied": false,
           "theoryMinutes": 124
         },
         {
           "correctCount": 0,
-          "domain": 0,
+          "domain": 14,
           "id": "subject-1-topic-4",
-          "lastStudiedAt": "2026-07-10",
+          "lastStudiedAt": "2026-07-18",
           "name": "Normalização",
+          "nextReviewAt": "2026-07-19",
           "questionCount": 0,
-          "reviewCount": 0,
+          "reviewCount": 1,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 0
+          "theoryMinutes": 75
         },
         {
           "correctCount": 0,
@@ -1396,9 +1423,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-18T16:30:39.097Z",
+    "lastSyncAt": "2026-07-18T16:44:52.013Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 325,
-    "updatedAt": "2026-07-18T16:39:05.650Z"
+    "revision": 340,
+    "updatedAt": "2026-07-18T18:16:35.555Z"
   }
 }
