@@ -561,7 +561,7 @@
     "targetDate": "2027-04-15",
     "targetExam": "BASA TI",
     "theme": "dark",
-    "weeklyGoalMinutes": 660
+    "weeklyGoalMinutes": 720
   },
   "subjects": [
     {
@@ -1404,9 +1404,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-18T18:45:54.773Z",
-    "lastSyncStatus": "Falha ao sincronizar: failed to connect to api.github.com/4.228.31.149 (port 443) from /192.168.18.3 (port 57036) after 10000ms",
-    "revision": 342,
-    "updatedAt": "2026-07-18T18:50:23.304Z"
+    "lastSyncAt": "2026-07-18T23:28:09.373Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 343,
+    "updatedAt": "2026-07-18T23:28:12.541Z"
   }
 }
