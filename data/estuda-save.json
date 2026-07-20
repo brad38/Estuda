@@ -2,6 +2,7 @@
   "activeTab": "calendar",
   "availability": {
     "dateOverrides": {
+      "2026-07-01": 0,
       "2026-07-02": 0,
       "2026-07-03": 0,
       "2026-07-04": 0,
@@ -13,22 +14,25 @@
       "2026-07-10": 1,
       "2026-07-11": 1,
       "2026-07-12": 1,
+      "2026-07-13": 0,
       "2026-07-14": 1,
       "2026-07-15": 1,
       "2026-07-16": 1,
       "2026-07-17": 1,
+      "2026-07-20": 1,
+      "2026-07-21": 1,
       "2026-07-22": 1,
       "2026-07-23": 1,
-      "2026-07-31": 103
+      "2026-07-24": 1,
+      "2026-07-25": 1,
+      "2026-07-26": 1,
+      "2026-07-27": 1,
+      "2026-07-28": 1,
+      "2026-07-29": 1,
+      "2026-07-30": 1,
+      "2026-07-31": 1
     },
-    "datePlanOverrides": {
-      "2026-07-31": {
-        "phase": "manual",
-        "questions": 31,
-        "review": 10,
-        "theory": 62
-      }
-    },
+    "datePlanOverrides": {},
     "friday": 1,
     "monday": 1,
     "saturday": 1,
@@ -238,6 +242,14 @@
       "id": "19f75a76-f765-4919-b8a2-ef965975d5be",
       "reviewMinutes": 0,
       "theoryMinutes": 0
+    },
+    {
+      "createdAt": "2026-07-20T02:59:15.853Z",
+      "date": "2026-07-19",
+      "exerciseMinutes": 0,
+      "id": "5f4eb39f-c36e-409f-b2ed-f7b1b678f24c",
+      "reviewMinutes": 0,
+      "theoryMinutes": 11
     }
   ],
   "lastPlan": {
@@ -633,6 +645,17 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-1"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-19",
+      "exerciseMinutes": 0,
+      "id": "6967c9b1-4306-4c13-9c18-a127641dba5d",
+      "minutes": 11,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
     }
   ],
   "settings": {
@@ -711,12 +734,14 @@
           "correctCount": 0,
           "domain": 0,
           "id": "subject-1-topic-5",
+          "lastStudiedAt": "2026-07-19",
           "name": "SQL básico",
+          "nextReviewAt": "2026-07-19",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 0
+          "theoryMinutes": 11
         },
         {
           "correctCount": 0,
@@ -1491,9 +1516,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-19T02:29:33.300Z",
+    "lastSyncAt": "2026-07-20T02:44:46.724Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 354,
-    "updatedAt": "2026-07-19T03:13:02.168Z"
+    "revision": 439,
+    "updatedAt": "2026-07-20T04:02:21.849Z"
   }
 }
