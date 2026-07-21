@@ -258,6 +258,14 @@
       "id": "abeba0e0-7bfb-497c-8f05-bfea6060761b",
       "reviewMinutes": 0,
       "theoryMinutes": 27
+    },
+    {
+      "createdAt": "2026-07-21T01:00:41.979Z",
+      "date": "2026-07-20",
+      "exerciseMinutes": 0,
+      "id": "96aa52c7-b6ef-47e4-9fd4-3d98c7c9cff2",
+      "reviewMinutes": 0,
+      "theoryMinutes": 33
     }
   ],
   "lastPlan": {
@@ -675,6 +683,17 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-20",
+      "exerciseMinutes": 0,
+      "id": "ff00622b-21cf-4610-8930-0e102cce85da",
+      "minutes": 33,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
     }
   ],
   "settings": {
@@ -760,7 +779,7 @@
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 38
+          "theoryMinutes": 71
         },
         {
           "correctCount": 0,
@@ -1535,9 +1554,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-20T20:07:41.882Z",
-    "lastSyncStatus": "Falha ao sincronizar: Required SETTINGS preface not received",
-    "revision": 440,
-    "updatedAt": "2026-07-20T20:31:47.852Z"
+    "lastSyncAt": "2026-07-21T00:52:11.658Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 441,
+    "updatedAt": "2026-07-21T01:00:41.979Z"
   }
 }
