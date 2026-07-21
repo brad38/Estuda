@@ -23,13 +23,13 @@
       "2026-07-21": 1,
       "2026-07-22": 1,
       "2026-07-23": 1,
-      "2026-07-24": 1,
+      "2026-07-24": 0,
       "2026-07-25": 1,
       "2026-07-26": 1,
-      "2026-07-27": 1,
+      "2026-07-27": 0,
       "2026-07-28": 1,
       "2026-07-29": 1,
-      "2026-07-30": 1,
+      "2026-07-30": 0,
       "2026-07-31": 1
     },
     "datePlanOverrides": {},
@@ -266,6 +266,22 @@
       "id": "96aa52c7-b6ef-47e4-9fd4-3d98c7c9cff2",
       "reviewMinutes": 0,
       "theoryMinutes": 33
+    },
+    {
+      "createdAt": "2026-07-21T16:18:56.371Z",
+      "date": "2026-07-21",
+      "exerciseMinutes": 0,
+      "id": "92c66147-e7a9-49b2-8ecc-867151520784",
+      "reviewMinutes": 0,
+      "theoryMinutes": 24
+    },
+    {
+      "createdAt": "2026-07-21T16:40:28.487Z",
+      "date": "2026-07-21",
+      "exerciseMinutes": 8,
+      "id": "c2312d8d-444a-4939-b073-eb3457b89021",
+      "reviewMinutes": 0,
+      "theoryMinutes": 0
     }
   ],
   "lastPlan": {
@@ -694,6 +710,39 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-21",
+      "exerciseMinutes": 0,
+      "id": "8130b6cb-15af-41e6-a2ea-da661ae2b4bf",
+      "minutes": 24,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-21",
+      "exerciseMinutes": 8,
+      "id": "43d6334b-d156-49df-9c42-2db9509ad59d",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 20,
+      "date": "2026-07-21",
+      "exerciseMinutes": 0,
+      "id": "92718188-4992-4e4b-bf1b-84443ab8b398",
+      "minutes": 0,
+      "questions": 20,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
     }
   ],
   "settings": {
@@ -709,7 +758,7 @@
     "targetDate": "2027-04-15",
     "targetExam": "BASA TI",
     "theme": "dark",
-    "weeklyGoalMinutes": 720
+    "weeklyGoalMinutes": 600
   },
   "subjects": [
     {
@@ -717,14 +766,14 @@
       "name": "Banco de Dados",
       "topics": [
         {
-          "correctCount": 111,
-          "domain": 46,
+          "correctCount": 131,
+          "domain": 57,
           "id": "subject-1-topic-3",
-          "lastStudiedAt": "2026-07-18",
+          "lastStudiedAt": "2026-07-21",
           "name": "DER / MER",
-          "nextReviewAt": "2026-08-17",
-          "questionCount": 113,
-          "reviewCount": 3,
+          "nextReviewAt": "2026-08-20",
+          "questionCount": 133,
+          "reviewCount": 4,
           "reviewMinutes": 38,
           "studied": true,
           "theoryMinutes": 349
@@ -739,7 +788,7 @@
           "questionCount": 176,
           "reviewCount": 1,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 309
         },
         {
@@ -752,7 +801,7 @@
           "questionCount": 54,
           "reviewCount": 1,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 124
         },
         {
@@ -765,21 +814,21 @@
           "questionCount": 0,
           "reviewCount": 1,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 75
         },
         {
           "correctCount": 0,
           "domain": 0,
           "id": "subject-1-topic-5",
-          "lastStudiedAt": "2026-07-20",
+          "lastStudiedAt": "2026-07-21",
           "name": "SQL básico",
           "nextReviewAt": "2026-07-19",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 71
+          "theoryMinutes": 95
         },
         {
           "correctCount": 0,
@@ -1554,9 +1603,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-21T00:52:11.658Z",
-    "lastSyncStatus": "Sincronizado",
-    "revision": 441,
-    "updatedAt": "2026-07-21T01:00:41.979Z"
+    "lastSyncAt": "2026-07-21T16:16:07.024Z",
+    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
+    "revision": 451,
+    "updatedAt": "2026-07-21T20:03:59.125Z"
   }
 }
