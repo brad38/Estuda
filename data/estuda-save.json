@@ -1,5 +1,5 @@
 {
-  "activeTab": "today",
+  "activeTab": "calendar",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -296,6 +296,14 @@
       "date": "2026-07-21",
       "exerciseMinutes": 10,
       "id": "4126202f-70c8-42cc-b169-9439e3b15787",
+      "reviewMinutes": 0,
+      "theoryMinutes": 0
+    },
+    {
+      "createdAt": "2026-07-22T02:53:44.915Z",
+      "date": "2026-07-21",
+      "exerciseMinutes": 7,
+      "id": "187e73d4-becb-4c36-9cdc-0eb1d05c3039",
       "reviewMinutes": 0,
       "theoryMinutes": 0
     }
@@ -781,6 +789,28 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-21",
+      "exerciseMinutes": 7,
+      "id": "b9804ef6-b935-4c07-831f-085564f1a6c4",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 10,
+      "date": "2026-07-21",
+      "exerciseMinutes": 0,
+      "id": "eed7cb98-4e72-4789-bc58-9f74cd2ac0d6",
+      "minutes": 0,
+      "questions": 10,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
     }
   ],
   "settings": {
@@ -856,13 +886,13 @@
           "theoryMinutes": 75
         },
         {
-          "correctCount": 44,
+          "correctCount": 54,
           "domain": 0,
           "id": "subject-1-topic-5",
           "lastStudiedAt": "2026-07-21",
           "name": "SQL básico",
           "nextReviewAt": "2026-07-22",
-          "questionCount": 50,
+          "questionCount": 60,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
@@ -1641,9 +1671,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-22T02:22:05.294Z",
+    "lastSyncAt": "2026-07-22T02:47:07.727Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 453,
-    "updatedAt": "2026-07-22T02:30:27.592Z"
+    "revision": 465,
+    "updatedAt": "2026-07-22T03:00:18.880Z"
   }
 }
