@@ -1,5 +1,5 @@
 {
-  "activeTab": "calendar",
+  "activeTab": "settings",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -23,24 +23,65 @@
       "2026-07-21": 1,
       "2026-07-22": 1,
       "2026-07-23": 1,
-      "2026-07-24": 0,
+      "2026-07-24": 60,
       "2026-07-25": 1,
       "2026-07-26": 1,
-      "2026-07-27": 0,
+      "2026-07-27": 60,
       "2026-07-28": 1,
       "2026-07-29": 1,
-      "2026-07-30": 0,
-      "2026-07-31": 1
+      "2026-07-30": 60,
+      "2026-07-31": 1,
+      "2026-08-04": 60,
+      "2026-08-07": 60
     },
-    "datePlanOverrides": {},
-    "friday": 1,
+    "datePlanOverrides": {
+      "2026-07-24": {
+        "phase": "manual",
+        "questions": 0,
+        "review": 60,
+        "theory": 0
+      },
+      "2026-07-27": {
+        "phase": "manual",
+        "questions": 0,
+        "review": 60,
+        "theory": 0
+      },
+      "2026-07-30": {
+        "phase": "manual",
+        "questions": 0,
+        "review": 60,
+        "theory": 0
+      },
+      "2026-08-04": {
+        "phase": "manual",
+        "questions": 0,
+        "review": 60,
+        "theory": 0
+      },
+      "2026-08-07": {
+        "phase": "manual",
+        "questions": 0,
+        "review": 60,
+        "theory": 0
+      }
+    },
+    "friday": 0,
     "monday": 1,
+    "reviewDays": [
+      "friday",
+      "tuesday"
+    ],
     "saturday": 1,
     "sunday": 1,
     "thursday": 1,
-    "tuesday": 1,
+    "tuesday": 0,
     "wednesday": 1,
-    "weekdayPlanOverrides": {}
+    "weekdayPlanOverrides": {},
+    "weekdayReviewOverrides": {
+      "friday": 60,
+      "tuesday": 60
+    }
   },
   "dailyStudyLogs": [
     {
@@ -1671,9 +1712,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-22T02:47:07.727Z",
+    "lastSyncAt": "2026-07-22T03:12:01.531Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 465,
-    "updatedAt": "2026-07-22T03:00:18.880Z"
+    "revision": 480,
+    "updatedAt": "2026-07-22T03:19:51.565Z"
   }
 }
