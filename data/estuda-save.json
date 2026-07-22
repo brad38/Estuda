@@ -1,5 +1,5 @@
 {
-  "activeTab": "subjects",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -962,6 +962,7 @@
           "domain": 0,
           "id": "subject-1-topic-6",
           "name": "JOIN",
+          "nextReviewAt": "2026-07-23",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1730,9 +1731,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-22T22:44:37.270Z",
+    "lastSyncAt": "2026-07-22T23:07:03.301Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 544,
-    "updatedAt": "2026-07-22T23:05:10.637Z"
+    "revision": 549,
+    "updatedAt": "2026-07-22T23:17:41.874Z"
   }
 }
