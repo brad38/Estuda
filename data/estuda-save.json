@@ -282,6 +282,14 @@
       "id": "c2312d8d-444a-4939-b073-eb3457b89021",
       "reviewMinutes": 0,
       "theoryMinutes": 0
+    },
+    {
+      "createdAt": "2026-07-22T02:04:10.062Z",
+      "date": "2026-07-21",
+      "exerciseMinutes": 11,
+      "id": "02ee505f-7475-4848-ab43-f11c75d82ab7",
+      "reviewMinutes": 0,
+      "theoryMinutes": 0
     }
   ],
   "lastPlan": {
@@ -743,6 +751,17 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 14,
+      "date": "2026-07-21",
+      "exerciseMinutes": 11,
+      "id": "cb045384-e689-4626-9685-f4e0e5813940",
+      "minutes": 0,
+      "questions": 15,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
     }
   ],
   "settings": {
@@ -818,13 +837,13 @@
           "theoryMinutes": 75
         },
         {
-          "correctCount": 0,
+          "correctCount": 14,
           "domain": 0,
           "id": "subject-1-topic-5",
           "lastStudiedAt": "2026-07-21",
           "name": "SQL básico",
-          "nextReviewAt": "2026-07-19",
-          "questionCount": 0,
+          "nextReviewAt": "2026-07-22",
+          "questionCount": 15,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
@@ -1603,9 +1622,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-21T16:16:07.024Z",
-    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 451,
-    "updatedAt": "2026-07-21T20:03:59.125Z"
+    "lastSyncAt": "2026-07-22T01:51:20.753Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 452,
+    "updatedAt": "2026-07-22T02:04:10.062Z"
   }
 }
