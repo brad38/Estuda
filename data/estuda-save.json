@@ -1,5 +1,5 @@
 {
-  "activeTab": "subjects",
+  "activeTab": "calendar",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -21,20 +21,32 @@
       "2026-07-17": 1,
       "2026-07-20": 1,
       "2026-07-21": 1,
-      "2026-07-22": 1,
-      "2026-07-23": 1,
+      "2026-07-22": 120,
+      "2026-07-23": 120,
       "2026-07-24": 60,
       "2026-07-25": 1,
       "2026-07-26": 1,
       "2026-07-27": 60,
       "2026-07-28": 1,
       "2026-07-29": 1,
-      "2026-07-30": 60,
-      "2026-07-31": 1,
+      "2026-07-30": 120,
+      "2026-07-31": 60,
       "2026-08-04": 60,
       "2026-08-07": 60
     },
     "datePlanOverrides": {
+      "2026-07-22": {
+        "phase": "manual",
+        "questions": 36,
+        "review": 15,
+        "theory": 69
+      },
+      "2026-07-23": {
+        "phase": "manual",
+        "questions": 36,
+        "review": 15,
+        "theory": 69
+      },
       "2026-07-24": {
         "phase": "manual",
         "questions": 0,
@@ -48,6 +60,12 @@
         "theory": 0
       },
       "2026-07-30": {
+        "phase": "manual",
+        "questions": 36,
+        "review": 12,
+        "theory": 72
+      },
+      "2026-07-31": {
         "phase": "manual",
         "questions": 0,
         "review": 60,
@@ -1712,9 +1730,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-22T05:01:49.453Z",
+    "lastSyncAt": "2026-07-22T15:51:37.473Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 490,
-    "updatedAt": "2026-07-22T06:00:16.835Z"
+    "revision": 542,
+    "updatedAt": "2026-07-22T18:00:29.828Z"
   }
 }
