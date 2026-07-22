@@ -1,5 +1,5 @@
 {
-  "activeTab": "today",
+  "activeTab": "subjects",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -893,7 +893,7 @@
           "id": "subject-1-topic-1",
           "lastStudiedAt": "2026-07-18",
           "name": "Modelo relacional",
-          "nextReviewAt": "2026-07-19",
+          "nextReviewAt": "2026-07-21",
           "questionCount": 176,
           "reviewCount": 1,
           "reviewMinutes": 0,
@@ -1712,9 +1712,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-22T04:15:04.555Z",
+    "lastSyncAt": "2026-07-22T05:01:49.453Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 488,
-    "updatedAt": "2026-07-22T04:57:47.723Z"
+    "revision": 490,
+    "updatedAt": "2026-07-22T06:00:16.835Z"
   }
 }
