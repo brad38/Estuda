@@ -1,5 +1,5 @@
 {
-  "activeTab": "calendar",
+  "activeTab": "subjects",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -1730,9 +1730,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-22T15:51:37.473Z",
+    "lastSyncAt": "2026-07-22T22:44:37.270Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 542,
-    "updatedAt": "2026-07-22T18:00:29.828Z"
+    "revision": 544,
+    "updatedAt": "2026-07-22T23:05:10.637Z"
   }
 }
