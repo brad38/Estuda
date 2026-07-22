@@ -1,5 +1,5 @@
 {
-  "activeTab": "settings",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -1712,9 +1712,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-22T03:12:01.531Z",
+    "lastSyncAt": "2026-07-22T04:15:04.555Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 480,
-    "updatedAt": "2026-07-22T03:19:51.565Z"
+    "revision": 488,
+    "updatedAt": "2026-07-22T04:57:47.723Z"
   }
 }
