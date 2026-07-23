@@ -1,5 +1,5 @@
 {
-  "activeTab": "calendar",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -21,7 +21,7 @@
       "2026-07-17": 1,
       "2026-07-20": 1,
       "2026-07-21": 1,
-      "2026-07-22": 120,
+      "2026-07-22": 0,
       "2026-07-23": 120,
       "2026-07-24": 60,
       "2026-07-25": 1,
@@ -35,12 +35,6 @@
       "2026-08-07": 60
     },
     "datePlanOverrides": {
-      "2026-07-22": {
-        "phase": "manual",
-        "questions": 36,
-        "review": 15,
-        "theory": 69
-      },
       "2026-07-23": {
         "phase": "manual",
         "questions": 36,
@@ -1780,9 +1774,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-23T02:51:22.189Z",
+    "lastSyncAt": "2026-07-23T20:37:58.978Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 552,
-    "updatedAt": "2026-07-23T02:57:57.974Z"
+    "revision": 555,
+    "updatedAt": "2026-07-23T20:38:37.298Z"
   }
 }
