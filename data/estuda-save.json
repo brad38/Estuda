@@ -1,5 +1,5 @@
 {
-  "activeTab": "today",
+  "activeTab": "calendar",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -373,6 +373,14 @@
       "id": "30c4ea8c-cb5c-4cf5-bf20-d001ce2a8412",
       "reviewMinutes": 0,
       "theoryMinutes": 69
+    },
+    {
+      "createdAt": "2026-07-23T02:57:30.068Z",
+      "date": "2026-07-22",
+      "exerciseMinutes": 36,
+      "id": "aa718bb4-3651-43d7-adca-4c04b1bd5f11",
+      "reviewMinutes": 0,
+      "theoryMinutes": 0
     }
   ],
   "lastPlan": {
@@ -889,6 +897,28 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-22",
+      "exerciseMinutes": 36,
+      "id": "f3992ff7-b19c-4c08-8983-3c9fe29cc30c",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 26,
+      "date": "2026-07-22",
+      "exerciseMinutes": 0,
+      "id": "d2c89a65-cefa-46a6-8543-ce938b8cc3f7",
+      "minutes": 0,
+      "questions": 30,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
     }
   ],
   "settings": {
@@ -964,13 +994,13 @@
           "theoryMinutes": 75
         },
         {
-          "correctCount": 54,
+          "correctCount": 80,
           "domain": 0,
           "id": "subject-1-topic-5",
           "lastStudiedAt": "2026-07-22",
           "name": "SQL básico",
           "nextReviewAt": "2026-07-23",
-          "questionCount": 60,
+          "questionCount": 90,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
@@ -1750,9 +1780,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-23T01:14:45.775Z",
+    "lastSyncAt": "2026-07-23T02:51:22.189Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 550,
-    "updatedAt": "2026-07-23T01:14:54.775Z"
+    "revision": 552,
+    "updatedAt": "2026-07-23T02:57:57.974Z"
   }
 }
