@@ -1,5 +1,5 @@
 {
-  "activeTab": "today",
+  "activeTab": "settings",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -405,6 +405,14 @@
       "id": "d7cd93b3-2cb8-4d6b-9c03-0c72764f513a",
       "reviewMinutes": 0,
       "theoryMinutes": 28
+    },
+    {
+      "createdAt": "2026-07-24T05:46:38.728Z",
+      "date": "2026-07-23",
+      "exerciseMinutes": 32,
+      "id": "1c7749cd-440c-49f5-bb98-950cfd10d330",
+      "reviewMinutes": 0,
+      "theoryMinutes": 0
     }
   ],
   "lastPlan": {
@@ -976,6 +984,28 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-7"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-23",
+      "exerciseMinutes": 32,
+      "id": "ded20229-3799-489e-8be1-332f84ca1959",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-7"
+    },
+    {
+      "correct": 13,
+      "date": "2026-07-23",
+      "exerciseMinutes": 0,
+      "id": "2eed5f2a-1796-4a52-bc95-b491e43967ff",
+      "minutes": 0,
+      "questions": 15,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-3"
     }
   ],
   "settings": {
@@ -999,14 +1029,14 @@
       "name": "Banco de Dados",
       "topics": [
         {
-          "correctCount": 131,
-          "domain": 57,
+          "correctCount": 144,
+          "domain": 71,
           "id": "subject-1-topic-3",
-          "lastStudiedAt": "2026-07-21",
+          "lastStudiedAt": "2026-07-23",
           "name": "DER / MER",
-          "nextReviewAt": "2026-08-20",
-          "questionCount": 133,
-          "reviewCount": 4,
+          "nextReviewAt": "2026-08-22",
+          "questionCount": 148,
+          "reviewCount": 5,
           "reviewMinutes": 38,
           "studied": true,
           "theoryMinutes": 349
@@ -1839,9 +1869,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-24T04:35:32.326Z",
+    "lastSyncAt": "2026-07-24T05:39:44.826Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 564,
-    "updatedAt": "2026-07-24T04:50:39.915Z"
+    "revision": 566,
+    "updatedAt": "2026-07-24T05:56:43.953Z"
   }
 }
