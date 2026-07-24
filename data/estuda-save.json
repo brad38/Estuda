@@ -24,7 +24,7 @@
       "2026-07-22": 0,
       "2026-07-23": 120,
       "2026-07-24": 60,
-      "2026-07-25": 1,
+      "2026-07-25": 157,
       "2026-07-26": 1,
       "2026-07-27": 60,
       "2026-07-28": 1,
@@ -46,6 +46,12 @@
         "questions": 0,
         "review": 60,
         "theory": 0
+      },
+      "2026-07-25": {
+        "phase": "manual",
+        "questions": 44,
+        "review": 30,
+        "theory": 83
       },
       "2026-07-27": {
         "phase": "manual",
@@ -383,6 +389,14 @@
       "id": "9b9a87ae-8e60-440e-a5c0-1fd8bd90184a",
       "reviewMinutes": 0,
       "theoryMinutes": 41
+    },
+    {
+      "createdAt": "2026-07-24T02:47:46.960Z",
+      "date": "2026-07-23",
+      "exerciseMinutes": 19,
+      "id": "519d44e4-4372-466b-a099-2a4f4dad63ba",
+      "reviewMinutes": 0,
+      "theoryMinutes": 0
     }
   ],
   "lastPlan": {
@@ -932,6 +946,17 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 18,
+      "date": "2026-07-23",
+      "exerciseMinutes": 19,
+      "id": "7d31ccfc-5562-4119-82ca-56584a39f54e",
+      "minutes": 0,
+      "questions": 19,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
     }
   ],
   "settings": {
@@ -1007,13 +1032,13 @@
           "theoryMinutes": 75
         },
         {
-          "correctCount": 80,
+          "correctCount": 98,
           "domain": 0,
           "id": "subject-1-topic-5",
           "lastStudiedAt": "2026-07-23",
           "name": "SQL básico",
           "nextReviewAt": "2026-07-24",
-          "questionCount": 90,
+          "questionCount": 109,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
@@ -1793,9 +1818,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-24T01:11:50.114Z",
+    "lastSyncAt": "2026-07-24T02:27:02.091Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 556,
-    "updatedAt": "2026-07-24T01:18:07.183Z"
+    "revision": 563,
+    "updatedAt": "2026-07-24T03:58:12.502Z"
   }
 }
