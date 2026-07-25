@@ -1028,11 +1028,11 @@
           "id": "subject-1-topic-3",
           "lastStudiedAt": "2026-07-23",
           "name": "DER / MER",
-          "nextReviewAt": "2026-09-22",
+          "nextReviewAt": "2026-09-21",
           "questionCount": 148,
           "reviewCount": 5,
           "reviewMinutes": 38,
-          "studied": true,
+          "studied": false,
           "theoryMinutes": 349
         },
         {
@@ -1863,9 +1863,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-25T03:11:09.606Z",
+    "lastSyncAt": "2026-07-25T03:44:19.123Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 579,
-    "updatedAt": "2026-07-25T03:13:56.166Z"
+    "revision": 580,
+    "updatedAt": "2026-07-25T03:44:27.269Z"
   }
 }
