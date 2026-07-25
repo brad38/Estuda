@@ -1,5 +1,5 @@
 {
-  "activeTab": "settings",
+  "activeTab": "calendar",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -23,9 +23,9 @@
       "2026-07-21": 1,
       "2026-07-22": 0,
       "2026-07-23": 120,
-      "2026-07-24": 60,
-      "2026-07-25": 157,
-      "2026-07-26": 1,
+      "2026-07-24": 1,
+      "2026-07-25": 0,
+      "2026-07-26": 243,
       "2026-07-27": 60,
       "2026-07-28": 1,
       "2026-07-29": 1,
@@ -41,17 +41,11 @@
         "review": 15,
         "theory": 69
       },
-      "2026-07-24": {
+      "2026-07-26": {
         "phase": "manual",
-        "questions": 0,
-        "review": 60,
-        "theory": 0
-      },
-      "2026-07-25": {
-        "phase": "manual",
-        "questions": 44,
-        "review": 30,
-        "theory": 83
+        "questions": 57,
+        "review": 48,
+        "theory": 138
       },
       "2026-07-27": {
         "phase": "manual",
@@ -1034,7 +1028,7 @@
           "id": "subject-1-topic-3",
           "lastStudiedAt": "2026-07-23",
           "name": "DER / MER",
-          "nextReviewAt": "2026-08-22",
+          "nextReviewAt": "2026-09-22",
           "questionCount": 148,
           "reviewCount": 5,
           "reviewMinutes": 38,
@@ -1045,7 +1039,7 @@
           "correctCount": 167,
           "domain": 14,
           "id": "subject-1-topic-1",
-          "lastStudiedAt": "2026-07-18",
+          "lastStudiedAt": "2026-07-25",
           "name": "Modelo relacional",
           "nextReviewAt": "2026-07-21",
           "questionCount": 176,
@@ -1869,9 +1863,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-24T05:39:44.826Z",
+    "lastSyncAt": "2026-07-25T03:11:09.606Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 566,
-    "updatedAt": "2026-07-24T05:56:43.953Z"
+    "revision": 579,
+    "updatedAt": "2026-07-25T03:13:56.166Z"
   }
 }
