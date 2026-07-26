@@ -1,5 +1,5 @@
 {
-  "activeTab": "settings",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -401,6 +401,30 @@
       "id": "1c7749cd-440c-49f5-bb98-950cfd10d330",
       "reviewMinutes": 0,
       "theoryMinutes": 0
+    },
+    {
+      "createdAt": "2026-07-26T02:37:08.978Z",
+      "date": "2026-07-25",
+      "exerciseMinutes": 0,
+      "id": "f7d1a985-3d9a-4983-84ee-6b0ca926fa71",
+      "reviewMinutes": 0,
+      "theoryMinutes": 6
+    },
+    {
+      "createdAt": "2026-07-26T02:46:44.237Z",
+      "date": "2026-07-25",
+      "exerciseMinutes": 0,
+      "id": "896027fe-084f-4c3d-92d8-f1c58ef2b850",
+      "reviewMinutes": 0,
+      "theoryMinutes": 3
+    },
+    {
+      "createdAt": "2026-07-26T02:50:55.586Z",
+      "date": "2026-07-25",
+      "exerciseMinutes": 0,
+      "id": "a1083c21-be40-4cf2-b0fd-457fcea6a1b5",
+      "reviewMinutes": 0,
+      "theoryMinutes": 3
     }
   ],
   "lastPlan": {
@@ -994,6 +1018,39 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-3"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-25",
+      "exerciseMinutes": 0,
+      "id": "f7d1a985-3d9a-4983-84ee-6b0ca926fa71",
+      "minutes": 6,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-7"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-25",
+      "exerciseMinutes": 0,
+      "id": "896027fe-084f-4c3d-92d8-f1c58ef2b850",
+      "minutes": 3,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-7"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-25",
+      "exerciseMinutes": 0,
+      "id": "a1083c21-be40-4cf2-b0fd-457fcea6a1b5",
+      "minutes": 3,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-7"
     }
   ],
   "settings": {
@@ -1097,14 +1154,14 @@
           "correctCount": 0,
           "domain": 0,
           "id": "subject-1-topic-7",
-          "lastStudiedAt": "2026-07-23",
+          "lastStudiedAt": "2026-07-25",
           "name": "GROUP BY / HAVING",
-          "nextReviewAt": "2026-07-24",
+          "nextReviewAt": "2026-07-26",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 28
+          "theoryMinutes": 40
         },
         {
           "correctCount": 0,
@@ -1857,9 +1914,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-25T04:01:32.663Z",
+    "lastSyncAt": "2026-07-26T02:18:37.022Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 614,
-    "updatedAt": "2026-07-25T06:30:53.411Z"
+    "revision": 617,
+    "updatedAt": "2026-07-26T02:50:55.586Z"
   }
 }
