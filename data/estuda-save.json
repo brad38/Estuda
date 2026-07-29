@@ -505,6 +505,22 @@
       "id": "2e9fdbe1-df7e-42ff-81b5-3bc5ce8b6af6",
       "reviewMinutes": 0,
       "theoryMinutes": 10
+    },
+    {
+      "createdAt": "2026-07-29T06:07:32.368Z",
+      "date": "2026-07-28",
+      "exerciseMinutes": 0,
+      "id": "14bc816d-b4df-4afa-8717-d54e585c44c3",
+      "reviewMinutes": 0,
+      "theoryMinutes": 46
+    },
+    {
+      "createdAt": "2026-07-29T06:27:23.112Z",
+      "date": "2026-07-28",
+      "exerciseMinutes": 0,
+      "id": "2c7024de-5208-4189-ac09-70438db3f4df",
+      "reviewMinutes": 0,
+      "theoryMinutes": 16
     }
   ],
   "lastPlan": {
@@ -1241,6 +1257,28 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-9"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-28",
+      "exerciseMinutes": 0,
+      "id": "14bc816d-b4df-4afa-8717-d54e585c44c3",
+      "minutes": 46,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-8"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-28",
+      "exerciseMinutes": 0,
+      "id": "2c7024de-5208-4189-ac09-70438db3f4df",
+      "minutes": 16,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-10"
     }
   ],
   "settings": {
@@ -1358,14 +1396,14 @@
           "correctCount": 0,
           "domain": 0,
           "id": "subject-1-topic-8",
-          "lastStudiedAt": "2026-07-26",
+          "lastStudiedAt": "2026-07-28",
           "name": "Subqueries",
-          "nextReviewAt": "2026-07-27",
+          "nextReviewAt": "2026-07-29",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": true,
-          "theoryMinutes": 19
+          "studied": false,
+          "theoryMinutes": 65
         },
         {
           "correctCount": 0,
@@ -1384,12 +1422,14 @@
           "correctCount": 0,
           "domain": 0,
           "id": "subject-1-topic-10",
+          "lastStudiedAt": "2026-07-28",
           "name": "Views / Triggers",
+          "nextReviewAt": "2026-07-29",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 0
+          "theoryMinutes": 16
         },
         {
           "correctCount": 0,
@@ -2109,9 +2149,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-07-29T04:35:16.204Z",
-    "lastSyncStatus": "Sincronizado",
-    "revision": 658,
-    "updatedAt": "2026-07-29T04:52:55.126Z"
+    "lastSyncAt": "2026-07-29T06:06:57.393Z",
+    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
+    "revision": 661,
+    "updatedAt": "2026-07-29T06:27:23.112Z"
   }
 }
