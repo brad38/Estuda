@@ -1382,6 +1382,28 @@
       "reviewMinutes": 60,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-7"
+    },
+    {
+      "correct": 15,
+      "date": "2026-07-31",
+      "exerciseMinutes": 0,
+      "id": "184c3ce0-fd22-4283-9176-a0830ae3dcaf",
+      "minutes": 0,
+      "questions": 15,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 10,
+      "date": "2026-07-31",
+      "exerciseMinutes": 0,
+      "id": "ab934c13-6213-4674-ba61-973d45e86db3",
+      "minutes": 0,
+      "questions": 10,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
     }
   ],
   "settings": {
@@ -1410,9 +1432,9 @@
           "id": "subject-1-topic-3",
           "lastStudiedAt": "2026-07-23",
           "name": "DER / MER",
-          "nextReviewAt": "2026-09-21",
+          "nextReviewAt": "2026-10-29",
           "questionCount": 148,
-          "reviewCount": 5,
+          "reviewCount": 6,
           "reviewMinutes": 38,
           "studied": true,
           "theoryMinutes": 349
@@ -1457,13 +1479,13 @@
           "theoryMinutes": 75
         },
         {
-          "correctCount": 98,
+          "correctCount": 123,
           "domain": 0,
           "id": "subject-1-topic-5",
-          "lastStudiedAt": "2026-07-23",
+          "lastStudiedAt": "2026-07-31",
           "name": "SQL básico",
-          "nextReviewAt": "2026-07-24",
-          "questionCount": 109,
+          "nextReviewAt": "2026-08-01",
+          "questionCount": 134,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
@@ -2252,9 +2274,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-08-01T14:22:32.744Z",
+    "lastSyncAt": "2026-08-01T16:11:01.409Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 672,
-    "updatedAt": "2026-08-01T14:23:01.698Z"
+    "revision": 676,
+    "updatedAt": "2026-08-01T16:34:03.865Z"
   }
 }
