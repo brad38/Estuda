@@ -1423,6 +1423,17 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 15,
+      "date": "2026-07-30",
+      "exerciseMinutes": 15,
+      "id": "8dbf5098-0205-431e-9a65-9e17eb7af13d",
+      "minutes": 0,
+      "questions": 15,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
     }
   ],
   "settings": {
@@ -1498,13 +1509,13 @@
           "theoryMinutes": 75
         },
         {
-          "correctCount": 123,
+          "correctCount": 138,
           "domain": 0,
           "id": "subject-1-topic-5",
           "lastStudiedAt": "2026-07-30",
           "name": "SQL básico",
           "nextReviewAt": "2026-07-31",
-          "questionCount": 134,
+          "questionCount": 149,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
@@ -2293,9 +2304,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-08-01T21:50:17.802Z",
-    "lastSyncStatus": "Sincronizado",
-    "revision": 679,
-    "updatedAt": "2026-08-01T21:53:17.227Z"
+    "lastSyncAt": "2026-08-02T02:59:00.512Z",
+    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
+    "revision": 680,
+    "updatedAt": "2026-08-02T02:59:42.365Z"
   }
 }
