@@ -2513,9 +2513,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-08-05T18:42:21.960Z",
-    "lastSyncStatus": "Sincronizado",
-    "revision": 687,
-    "updatedAt": "2026-08-05T18:43:11.505Z"
+    "lastSyncAt": "2026-08-05T19:08:59.248Z",
+    "lastSyncStatus": "Falha ao sincronizar: failed to connect to api.github.com/4.228.31.149 (port 443) from /100.66.250.212 (port 34800) after 10000ms",
+    "revision": 689,
+    "updatedAt": "2026-08-05T19:09:07.442Z"
   }
 }
