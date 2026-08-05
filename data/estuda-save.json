@@ -1,5 +1,5 @@
 {
-  "activeTab": "calendar",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -93,6 +93,7 @@
     {
       "createdAt": "2026-07-08T02:12:25.875Z",
       "date": "2026-07-07",
+      "description": "",
       "exerciseMinutes": 43,
       "id": "5a5b7850-672b-4d1e-8b91-f2b4d6ca5bb6",
       "reviewMinutes": 0,
@@ -101,6 +102,7 @@
     {
       "createdAt": "2026-07-08T02:17:28.826Z",
       "date": "2026-07-06",
+      "description": "",
       "exerciseMinutes": 28,
       "id": "8efd3977-5a67-4543-9054-794be9529d3c",
       "reviewMinutes": 0,
@@ -109,6 +111,7 @@
     {
       "createdAt": "2026-07-08T02:18:05.142Z",
       "date": "2026-07-05",
+      "description": "",
       "exerciseMinutes": 15,
       "id": "387e6476-0f4f-4804-a86f-20649ed85fba",
       "reviewMinutes": 0,
@@ -117,6 +120,7 @@
     {
       "createdAt": "2026-07-09T06:51:28.667Z",
       "date": "2026-07-08",
+      "description": "",
       "exerciseMinutes": 29,
       "id": "31ff1b87-f2ce-4b28-a4e8-1dfed279c83b",
       "reviewMinutes": 0,
@@ -125,6 +129,7 @@
     {
       "createdAt": "2026-07-10T02:54:41.183Z",
       "date": "2026-07-09",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "60d094c0-e56a-498f-b731-2d1b3d418e72",
       "reviewMinutes": 0,
@@ -133,6 +138,7 @@
     {
       "createdAt": "2026-07-10T20:05:02.326Z",
       "date": "2026-07-10",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "1e351402-62df-4d7b-93b5-b9dbe1af4894",
       "reviewMinutes": 0,
@@ -141,6 +147,7 @@
     {
       "createdAt": "2026-07-11T20:01:10.791Z",
       "date": "2026-07-11",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "5bf23798-8133-45e0-8d9d-f6cbedb7924a",
       "reviewMinutes": 0,
@@ -149,6 +156,7 @@
     {
       "createdAt": "2026-07-12T03:01:20.218Z",
       "date": "2026-07-11",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "1d923cfd-e030-4bd1-94fc-7d82a487f1cb",
       "reviewMinutes": 0,
@@ -157,6 +165,7 @@
     {
       "createdAt": "2026-07-14T01:25:06.935Z",
       "date": "2026-07-13",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "1c219321-8992-4acb-a075-df713d37bae1",
       "reviewMinutes": 0,
@@ -165,6 +174,7 @@
     {
       "createdAt": "2026-07-14T02:35:34.337Z",
       "date": "2026-07-13",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "169c1bf6-70f6-43c1-b8cf-c266da5b54af",
       "reviewMinutes": 0,
@@ -173,6 +183,7 @@
     {
       "createdAt": "2026-07-14T06:43:13.197Z",
       "date": "2026-07-13",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "9bef4b91-ce31-447d-93b9-f538d5993c07",
       "reviewMinutes": 0,
@@ -181,6 +192,7 @@
     {
       "createdAt": "2026-07-14T16:29:57.163Z",
       "date": "2026-07-14",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "03237e43-72d3-4537-b208-371ec268a42d",
       "reviewMinutes": 18,
@@ -189,6 +201,7 @@
     {
       "createdAt": "2026-07-14T17:28:32.147Z",
       "date": "2026-07-14",
+      "description": "",
       "exerciseMinutes": 35,
       "id": "aeb13bad-a876-4e3f-b51b-0788a2d253fa",
       "reviewMinutes": 0,
@@ -197,6 +210,7 @@
     {
       "createdAt": "2026-07-14T17:28:43.100Z",
       "date": "2026-07-14",
+      "description": "",
       "exerciseMinutes": 1,
       "id": "a3820528-a53f-44b8-a3a3-dbb3a4f7d0d8",
       "reviewMinutes": 0,
@@ -205,6 +219,7 @@
     {
       "createdAt": "2026-07-14T18:30:26.177Z",
       "date": "2026-07-14",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "cc3b3b0a-82f7-4329-a9e8-fd597a4ee3ed",
       "reviewMinutes": 20,
@@ -213,6 +228,7 @@
     {
       "createdAt": "2026-07-15T20:48:57.623Z",
       "date": "2026-07-15",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "43845ff2-6a7e-47f2-a977-bec73431f7d7",
       "reviewMinutes": 0,
@@ -221,6 +237,7 @@
     {
       "createdAt": "2026-07-16T01:44:04.887Z",
       "date": "2026-07-15",
+      "description": "",
       "exerciseMinutes": 35,
       "id": "b325c1e0-cb1f-4548-a2cc-4d83b9547f49",
       "reviewMinutes": 0,
@@ -229,6 +246,7 @@
     {
       "createdAt": "2026-07-16T17:35:18.665Z",
       "date": "2026-07-16",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "152d8e3a-11c9-4f5c-b311-08c81138890b",
       "reviewMinutes": 0,
@@ -237,6 +255,7 @@
     {
       "createdAt": "2026-07-16T19:56:21.616Z",
       "date": "2026-07-16",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "13218158-add2-4bfd-90ee-21926c36b59e",
       "reviewMinutes": 0,
@@ -245,6 +264,7 @@
     {
       "createdAt": "2026-07-17T03:12:18.651Z",
       "date": "2026-07-16",
+      "description": "",
       "exerciseMinutes": 30,
       "id": "dcf28682-18a1-4bc2-beb7-792e26a32545",
       "reviewMinutes": 0,
@@ -253,6 +273,7 @@
     {
       "createdAt": "2026-07-18T17:20:32.985Z",
       "date": "2026-07-17",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "f9ee386c-4d45-47fc-b32f-b8717427a1de",
       "reviewMinutes": 0,
@@ -261,6 +282,7 @@
     {
       "createdAt": "2026-07-19T02:13:44.547Z",
       "date": "2026-07-18",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "aca6f674-93ee-42bf-8446-e973b90d67ea",
       "reviewMinutes": 0,
@@ -269,6 +291,7 @@
     {
       "createdAt": "2026-07-19T02:45:04.020Z",
       "date": "2026-07-18",
+      "description": "",
       "exerciseMinutes": 12,
       "id": "5a07ff06-598e-40c4-af42-7511399aed3c",
       "reviewMinutes": 0,
@@ -277,6 +300,7 @@
     {
       "createdAt": "2026-07-19T02:46:38.095Z",
       "date": "2026-07-18",
+      "description": "",
       "exerciseMinutes": 5,
       "id": "dd2377bf-10d8-4074-88ea-981bd38669e0",
       "reviewMinutes": 0,
@@ -285,6 +309,7 @@
     {
       "createdAt": "2026-07-19T02:59:23.225Z",
       "date": "2026-07-18",
+      "description": "",
       "exerciseMinutes": 13,
       "id": "19f75a76-f765-4919-b8a2-ef965975d5be",
       "reviewMinutes": 0,
@@ -293,6 +318,7 @@
     {
       "createdAt": "2026-07-20T02:59:15.853Z",
       "date": "2026-07-19",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "5f4eb39f-c36e-409f-b2ed-f7b1b678f24c",
       "reviewMinutes": 0,
@@ -301,6 +327,7 @@
     {
       "createdAt": "2026-07-20T20:31:47.852Z",
       "date": "2026-07-20",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "abeba0e0-7bfb-497c-8f05-bfea6060761b",
       "reviewMinutes": 0,
@@ -309,6 +336,7 @@
     {
       "createdAt": "2026-07-21T01:00:41.979Z",
       "date": "2026-07-20",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "96aa52c7-b6ef-47e4-9fd4-3d98c7c9cff2",
       "reviewMinutes": 0,
@@ -317,6 +345,7 @@
     {
       "createdAt": "2026-07-21T16:18:56.371Z",
       "date": "2026-07-21",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "92c66147-e7a9-49b2-8ecc-867151520784",
       "reviewMinutes": 0,
@@ -325,6 +354,7 @@
     {
       "createdAt": "2026-07-21T16:40:28.487Z",
       "date": "2026-07-21",
+      "description": "",
       "exerciseMinutes": 8,
       "id": "c2312d8d-444a-4939-b073-eb3457b89021",
       "reviewMinutes": 0,
@@ -333,6 +363,7 @@
     {
       "createdAt": "2026-07-22T02:04:10.062Z",
       "date": "2026-07-21",
+      "description": "",
       "exerciseMinutes": 11,
       "id": "02ee505f-7475-4848-ab43-f11c75d82ab7",
       "reviewMinutes": 0,
@@ -341,6 +372,7 @@
     {
       "createdAt": "2026-07-22T02:30:27.591Z",
       "date": "2026-07-21",
+      "description": "",
       "exerciseMinutes": 10,
       "id": "4126202f-70c8-42cc-b169-9439e3b15787",
       "reviewMinutes": 0,
@@ -349,6 +381,7 @@
     {
       "createdAt": "2026-07-22T02:53:44.915Z",
       "date": "2026-07-21",
+      "description": "",
       "exerciseMinutes": 7,
       "id": "187e73d4-becb-4c36-9cdc-0eb1d05c3039",
       "reviewMinutes": 0,
@@ -357,6 +390,7 @@
     {
       "createdAt": "2026-07-23T01:14:54.775Z",
       "date": "2026-07-22",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "30c4ea8c-cb5c-4cf5-bf20-d001ce2a8412",
       "reviewMinutes": 0,
@@ -365,6 +399,7 @@
     {
       "createdAt": "2026-07-23T02:57:30.068Z",
       "date": "2026-07-22",
+      "description": "",
       "exerciseMinutes": 36,
       "id": "aa718bb4-3651-43d7-adca-4c04b1bd5f11",
       "reviewMinutes": 0,
@@ -373,6 +408,7 @@
     {
       "createdAt": "2026-07-24T01:18:07.183Z",
       "date": "2026-07-23",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "9b9a87ae-8e60-440e-a5c0-1fd8bd90184a",
       "reviewMinutes": 0,
@@ -381,6 +417,7 @@
     {
       "createdAt": "2026-07-24T02:47:46.960Z",
       "date": "2026-07-23",
+      "description": "",
       "exerciseMinutes": 19,
       "id": "519d44e4-4372-466b-a099-2a4f4dad63ba",
       "reviewMinutes": 0,
@@ -389,6 +426,7 @@
     {
       "createdAt": "2026-07-24T04:50:39.915Z",
       "date": "2026-07-23",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "d7cd93b3-2cb8-4d6b-9c03-0c72764f513a",
       "reviewMinutes": 0,
@@ -397,6 +435,7 @@
     {
       "createdAt": "2026-07-24T05:46:38.728Z",
       "date": "2026-07-23",
+      "description": "",
       "exerciseMinutes": 32,
       "id": "1c7749cd-440c-49f5-bb98-950cfd10d330",
       "reviewMinutes": 0,
@@ -405,6 +444,7 @@
     {
       "createdAt": "2026-07-26T02:37:08.978Z",
       "date": "2026-07-25",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "f7d1a985-3d9a-4983-84ee-6b0ca926fa71",
       "reviewMinutes": 0,
@@ -413,6 +453,7 @@
     {
       "createdAt": "2026-07-26T02:46:44.237Z",
       "date": "2026-07-25",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "896027fe-084f-4c3d-92d8-f1c58ef2b850",
       "reviewMinutes": 0,
@@ -421,6 +462,7 @@
     {
       "createdAt": "2026-07-26T02:50:55.586Z",
       "date": "2026-07-25",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "a1083c21-be40-4cf2-b0fd-457fcea6a1b5",
       "reviewMinutes": 0,
@@ -429,6 +471,7 @@
     {
       "createdAt": "2026-07-26T03:20:05.905Z",
       "date": "2026-07-25",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "91c420b9-37ab-4d92-a722-37e206ca59c2",
       "reviewMinutes": 0,
@@ -437,6 +480,7 @@
     {
       "createdAt": "2026-07-26T05:42:41.443Z",
       "date": "2026-07-25",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "26b0f46f-0c61-49d1-a820-adc3443701a8",
       "reviewMinutes": 0,
@@ -445,6 +489,7 @@
     {
       "createdAt": "2026-07-26T06:44:15.105Z",
       "date": "2026-07-25",
+      "description": "",
       "exerciseMinutes": 28,
       "id": "3256a096-45f5-41af-a6e6-c029297e8fec",
       "reviewMinutes": 0,
@@ -453,6 +498,7 @@
     {
       "createdAt": "2026-07-27T04:24:37.893Z",
       "date": "2026-07-26",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "977765f4-0a4c-4e16-9733-a5689d210002",
       "reviewMinutes": 0,
@@ -461,6 +507,7 @@
     {
       "createdAt": "2026-07-27T04:51:23.086Z",
       "date": "2026-07-26",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "2987566f-f4f1-4afd-8ebd-51af22147625",
       "reviewMinutes": 0,
@@ -469,6 +516,7 @@
     {
       "createdAt": "2026-07-27T06:08:50.797Z",
       "date": "2026-07-26",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "64ec7746-c7b5-418c-b4a8-1a5e6390cfc3",
       "reviewMinutes": 0,
@@ -477,6 +525,7 @@
     {
       "createdAt": "2026-07-28T05:04:13.195Z",
       "date": "2026-07-27",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "1791a958-f558-4064-9795-c2c7eaa12232",
       "reviewMinutes": 20,
@@ -485,6 +534,7 @@
     {
       "createdAt": "2026-07-28T05:04:13.227Z",
       "date": "2026-07-27",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "20eb3815-28ce-4556-b99d-9b4c2fa76873",
       "reviewMinutes": 20,
@@ -493,6 +543,7 @@
     {
       "createdAt": "2026-07-28T05:04:13.241Z",
       "date": "2026-07-27",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "5584fa07-eb36-4500-8d5a-79f82c3acff1",
       "reviewMinutes": 20,
@@ -501,6 +552,7 @@
     {
       "createdAt": "2026-07-29T04:52:55.126Z",
       "date": "2026-07-28",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "2e9fdbe1-df7e-42ff-81b5-3bc5ce8b6af6",
       "reviewMinutes": 0,
@@ -509,6 +561,7 @@
     {
       "createdAt": "2026-07-29T06:07:32.368Z",
       "date": "2026-07-28",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "14bc816d-b4df-4afa-8717-d54e585c44c3",
       "reviewMinutes": 0,
@@ -517,6 +570,7 @@
     {
       "createdAt": "2026-07-29T06:27:23.112Z",
       "date": "2026-07-28",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "2c7024de-5208-4189-ac09-70438db3f4df",
       "reviewMinutes": 0,
@@ -525,6 +579,7 @@
     {
       "createdAt": "2026-07-31T03:04:10.418Z",
       "date": "2026-07-30",
+      "description": "",
       "exerciseMinutes": 15,
       "id": "d1b29631-948c-4639-a776-4ffcb9b963f1",
       "reviewMinutes": 0,
@@ -533,6 +588,7 @@
     {
       "createdAt": "2026-07-31T03:04:10.449Z",
       "date": "2026-07-30",
+      "description": "",
       "exerciseMinutes": 15,
       "id": "8841eba6-c39f-406b-8f7c-d805908e5d45",
       "reviewMinutes": 0,
@@ -541,6 +597,7 @@
     {
       "createdAt": "2026-07-31T03:04:10.482Z",
       "date": "2026-07-30",
+      "description": "",
       "exerciseMinutes": 15,
       "id": "fae5d0b2-0bd4-4933-b412-e64ecc6f89cc",
       "reviewMinutes": 0,
@@ -549,6 +606,7 @@
     {
       "createdAt": "2026-07-31T05:16:18.751Z",
       "date": "2026-07-30",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "3e57b4d1-c1f5-460b-8a51-046c5b8ccae6",
       "reviewMinutes": 0,
@@ -557,6 +615,7 @@
     {
       "createdAt": "2026-07-31T05:18:00.611Z",
       "date": "2026-07-30",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "710c2213-7265-4c31-81fc-24d872787a9e",
       "reviewMinutes": 0,
@@ -565,6 +624,7 @@
     {
       "createdAt": "2026-08-01T14:23:01.650Z",
       "date": "2026-07-31",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "b0e4b3c6-da2a-47ce-84a7-ea540decf2ac",
       "reviewMinutes": 60,
@@ -573,10 +633,20 @@
     {
       "createdAt": "2026-08-01T21:52:36.547Z",
       "date": "2026-07-30",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "c13f14ce-54f0-4842-bf1a-2af364debd35",
       "reviewMinutes": 0,
       "theoryMinutes": 25
+    },
+    {
+      "createdAt": "2026-08-04T20:14:53.816Z",
+      "date": "2026-08-03",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "d0a139cf-0511-4764-a702-21e4e2c8cf8b",
+      "reviewMinutes": 0,
+      "theoryMinutes": 90
     }
   ],
   "lastPlan": {
@@ -591,6 +661,7 @@
     {
       "correct": 27,
       "date": "2026-07-06",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "e78f5aec-a66b-49ed-b636-2b8c89618add",
       "minutes": 62,
@@ -602,6 +673,7 @@
     {
       "correct": 33,
       "date": "2026-07-07",
+      "description": "",
       "exerciseMinutes": 43,
       "id": "efe993c7-ebd1-4544-8361-d8306601740e",
       "minutes": 62,
@@ -613,6 +685,7 @@
     {
       "correct": 27,
       "date": "2026-07-06",
+      "description": "",
       "exerciseMinutes": 28,
       "id": "0a3338a1-0457-483c-8fd1-e4378d5769c1",
       "minutes": 62,
@@ -624,6 +697,7 @@
     {
       "correct": 27,
       "date": "2026-07-06",
+      "description": "",
       "exerciseMinutes": 28,
       "id": "75bf59f0-56db-4f40-9c83-fb3b5651522e",
       "minutes": 62,
@@ -635,6 +709,7 @@
     {
       "correct": 30,
       "date": "2026-07-05",
+      "description": "",
       "exerciseMinutes": 15,
       "id": "f2f52d1f-49ed-4900-b0a4-10c740299611",
       "minutes": 35,
@@ -646,6 +721,7 @@
     {
       "correct": 20,
       "date": "2026-07-08",
+      "description": "",
       "exerciseMinutes": 29,
       "id": "a68b1567-e27b-4926-89a3-21ab340e2561",
       "minutes": 62,
@@ -657,6 +733,7 @@
     {
       "correct": 20,
       "date": "2026-07-08",
+      "description": "",
       "exerciseMinutes": 29,
       "id": "e39ac2d7-c997-44b2-91f5-adf771281c26",
       "minutes": 62,
@@ -668,6 +745,7 @@
     {
       "correct": 0,
       "date": "2026-07-09",
+      "description": "",
       "exerciseMinutes": 2,
       "id": "169338f0-bb01-47d8-ba4d-9776a6edcee8",
       "minutes": 2,
@@ -679,6 +757,7 @@
     {
       "correct": 0,
       "date": "2026-07-09",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "8be18065-1033-49b1-aac9-73131a9423df",
       "minutes": 15,
@@ -690,6 +769,7 @@
     {
       "correct": 0,
       "date": "2026-07-10",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "96a420bf-5828-4f14-98ed-b74edb91b692",
       "minutes": 17,
@@ -701,6 +781,7 @@
     {
       "correct": 0,
       "date": "2026-07-11",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "8b456043-f4b1-42cd-bda5-abfdc262ff41",
       "minutes": 51,
@@ -712,6 +793,7 @@
     {
       "correct": 0,
       "date": "2026-07-11",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "39760f07-f761-40d6-b844-b7d5290f4f06",
       "minutes": 22,
@@ -723,6 +805,7 @@
     {
       "correct": 0,
       "date": "2026-07-13",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "5a3344b0-56e8-43f7-92d6-c94b3df23196",
       "minutes": 44,
@@ -734,6 +817,7 @@
     {
       "correct": 0,
       "date": "2026-07-13",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "3cd5a022-59c2-4e37-b7a4-5b553dcbe31a",
       "minutes": 8,
@@ -745,6 +829,7 @@
     {
       "correct": 0,
       "date": "2026-07-13",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "13774d37-c970-41e4-9f1c-f0ea3758ef9b",
       "minutes": 4,
@@ -756,6 +841,7 @@
     {
       "correct": 0,
       "date": "2026-07-14",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "eab68773-9544-4b57-acf0-17e8d6b2baf4",
       "minutes": 0,
@@ -767,6 +853,7 @@
     {
       "correct": 38,
       "date": "2026-07-14",
+      "description": "",
       "exerciseMinutes": 35,
       "id": "cc1984f3-7c4c-436a-9825-6345ceb1f130",
       "minutes": 0,
@@ -778,6 +865,7 @@
     {
       "correct": 0,
       "date": "2026-07-14",
+      "description": "",
       "exerciseMinutes": 1,
       "id": "5b294c7d-af4a-4c41-9cf1-ac8de8bf93d8",
       "minutes": 0,
@@ -789,6 +877,7 @@
     {
       "correct": 0,
       "date": "2026-07-14",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "dd2aad1b-2e3a-43b3-8c68-bbe76d240fdf",
       "minutes": 0,
@@ -800,6 +889,7 @@
     {
       "correct": 0,
       "date": "2026-07-15",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "30c9ae14-88c7-4cf4-a484-64a85c80cf8a",
       "minutes": 76,
@@ -811,6 +901,7 @@
     {
       "correct": 0,
       "date": "2026-07-15",
+      "description": "",
       "exerciseMinutes": 35,
       "id": "334a9498-c0f7-4d9f-9073-e40f8d756e60",
       "minutes": 0,
@@ -822,6 +913,7 @@
     {
       "correct": 34,
       "date": "2026-07-15",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "7f03a64f-fbe5-4422-8745-5691c17dacf6",
       "minutes": 0,
@@ -833,6 +925,7 @@
     {
       "correct": 0,
       "date": "2026-07-16",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "2b6521c8-da25-48c2-9e69-b64de92d3b43",
       "minutes": 22,
@@ -844,6 +937,7 @@
     {
       "correct": 0,
       "date": "2026-07-16",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "9ead8b0c-d8f7-4a1d-8c6f-a13a92201a3e",
       "minutes": 53,
@@ -855,6 +949,7 @@
     {
       "correct": 32,
       "date": "2026-07-16",
+      "description": "",
       "exerciseMinutes": 30,
       "id": "982720ac-c11d-4e26-89fa-2dfd847fda23",
       "minutes": 0,
@@ -866,6 +961,7 @@
     {
       "correct": 0,
       "date": "2026-07-17",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "4675e0c2-365d-4fac-8f93-c00173d8e49e",
       "minutes": 75,
@@ -877,6 +973,7 @@
     {
       "correct": 0,
       "date": "2026-07-18",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "40408302-290f-46be-bf32-9508dc7e1316",
       "minutes": 0,
@@ -888,6 +985,7 @@
     {
       "correct": 0,
       "date": "2026-07-18",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "b5213247-ea3f-436a-a17e-dbda88189ae9",
       "minutes": 0,
@@ -899,6 +997,7 @@
     {
       "correct": 0,
       "date": "2026-07-18",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "b9eb6cb0-c421-469e-a4c6-14ee1accc41a",
       "minutes": 0,
@@ -910,6 +1009,7 @@
     {
       "correct": 0,
       "date": "2026-07-18",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "c00c7910-a0a1-448f-bad6-0eb67199bbe5",
       "minutes": 0,
@@ -921,6 +1021,7 @@
     {
       "correct": 0,
       "date": "2026-07-18",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "8fdb95dd-e157-4de3-831b-4b6a712481eb",
       "minutes": 61,
@@ -932,6 +1033,7 @@
     {
       "correct": 0,
       "date": "2026-07-18",
+      "description": "",
       "exerciseMinutes": 12,
       "id": "018400a9-d231-4754-839c-bb039770e205",
       "minutes": 0,
@@ -943,6 +1045,7 @@
     {
       "correct": 22,
       "date": "2026-07-18",
+      "description": "",
       "exerciseMinutes": 5,
       "id": "ed181f4e-daf3-46d1-aadf-98833f61744e",
       "minutes": 0,
@@ -954,6 +1057,7 @@
     {
       "correct": 0,
       "date": "2026-07-18",
+      "description": "",
       "exerciseMinutes": 13,
       "id": "3fbcbb8b-80c1-44c1-af19-5b3487ee2dc6",
       "minutes": 0,
@@ -965,6 +1069,7 @@
     {
       "correct": 22,
       "date": "2026-07-18",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "45796506-cca3-4062-b79a-0750964d33ea",
       "minutes": 0,
@@ -976,6 +1081,7 @@
     {
       "correct": 0,
       "date": "2026-07-19",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "6967c9b1-4306-4c13-9c18-a127641dba5d",
       "minutes": 11,
@@ -987,6 +1093,7 @@
     {
       "correct": 0,
       "date": "2026-07-20",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "9dae12d0-26b3-4f7b-935a-163b3184ef79",
       "minutes": 27,
@@ -998,6 +1105,7 @@
     {
       "correct": 0,
       "date": "2026-07-20",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "ff00622b-21cf-4610-8930-0e102cce85da",
       "minutes": 33,
@@ -1009,6 +1117,7 @@
     {
       "correct": 0,
       "date": "2026-07-21",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "8130b6cb-15af-41e6-a2ea-da661ae2b4bf",
       "minutes": 24,
@@ -1020,6 +1129,7 @@
     {
       "correct": 0,
       "date": "2026-07-21",
+      "description": "",
       "exerciseMinutes": 8,
       "id": "43d6334b-d156-49df-9c42-2db9509ad59d",
       "minutes": 0,
@@ -1031,6 +1141,7 @@
     {
       "correct": 20,
       "date": "2026-07-21",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "92718188-4992-4e4b-bf1b-84443ab8b398",
       "minutes": 0,
@@ -1042,6 +1153,7 @@
     {
       "correct": 14,
       "date": "2026-07-21",
+      "description": "",
       "exerciseMinutes": 11,
       "id": "cb045384-e689-4626-9685-f4e0e5813940",
       "minutes": 0,
@@ -1053,6 +1165,7 @@
     {
       "correct": 30,
       "date": "2026-07-21",
+      "description": "",
       "exerciseMinutes": 10,
       "id": "3ac64400-6ad8-40ce-8a02-1cdfa4cbedfd",
       "minutes": 0,
@@ -1064,6 +1177,7 @@
     {
       "correct": 0,
       "date": "2026-07-21",
+      "description": "",
       "exerciseMinutes": 7,
       "id": "b9804ef6-b935-4c07-831f-085564f1a6c4",
       "minutes": 0,
@@ -1075,6 +1189,7 @@
     {
       "correct": 10,
       "date": "2026-07-21",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "eed7cb98-4e72-4789-bc58-9f74cd2ac0d6",
       "minutes": 0,
@@ -1086,6 +1201,7 @@
     {
       "correct": 0,
       "date": "2026-07-22",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "fba736c5-ecd5-49d9-a2c7-bb344ec688f6",
       "minutes": 69,
@@ -1097,6 +1213,7 @@
     {
       "correct": 0,
       "date": "2026-07-22",
+      "description": "",
       "exerciseMinutes": 36,
       "id": "f3992ff7-b19c-4c08-8983-3c9fe29cc30c",
       "minutes": 0,
@@ -1108,6 +1225,7 @@
     {
       "correct": 26,
       "date": "2026-07-22",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "d2c89a65-cefa-46a6-8543-ce938b8cc3f7",
       "minutes": 0,
@@ -1119,6 +1237,7 @@
     {
       "correct": 0,
       "date": "2026-07-23",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "9f4b5d1c-776c-43e9-b903-e7d8dbae888c",
       "minutes": 41,
@@ -1130,6 +1249,7 @@
     {
       "correct": 18,
       "date": "2026-07-23",
+      "description": "",
       "exerciseMinutes": 19,
       "id": "7d31ccfc-5562-4119-82ca-56584a39f54e",
       "minutes": 0,
@@ -1141,6 +1261,7 @@
     {
       "correct": 0,
       "date": "2026-07-23",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "515f6758-5187-4388-96b8-c6fc6f674fab",
       "minutes": 28,
@@ -1152,6 +1273,7 @@
     {
       "correct": 0,
       "date": "2026-07-23",
+      "description": "",
       "exerciseMinutes": 32,
       "id": "ded20229-3799-489e-8be1-332f84ca1959",
       "minutes": 0,
@@ -1163,6 +1285,7 @@
     {
       "correct": 13,
       "date": "2026-07-23",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "2eed5f2a-1796-4a52-bc95-b491e43967ff",
       "minutes": 0,
@@ -1174,6 +1297,7 @@
     {
       "correct": 0,
       "date": "2026-07-25",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "f7d1a985-3d9a-4983-84ee-6b0ca926fa71",
       "minutes": 6,
@@ -1185,6 +1309,7 @@
     {
       "correct": 0,
       "date": "2026-07-25",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "896027fe-084f-4c3d-92d8-f1c58ef2b850",
       "minutes": 3,
@@ -1196,6 +1321,7 @@
     {
       "correct": 0,
       "date": "2026-07-25",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "a1083c21-be40-4cf2-b0fd-457fcea6a1b5",
       "minutes": 3,
@@ -1207,6 +1333,7 @@
     {
       "correct": 0,
       "date": "2026-07-25",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "91c420b9-37ab-4d92-a722-37e206ca59c2",
       "minutes": 24,
@@ -1218,6 +1345,7 @@
     {
       "correct": 0,
       "date": "2026-07-25",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "26b0f46f-0c61-49d1-a820-adc3443701a8",
       "minutes": 33,
@@ -1229,6 +1357,7 @@
     {
       "correct": 18,
       "date": "2026-07-25",
+      "description": "",
       "exerciseMinutes": 28,
       "id": "3256a096-45f5-41af-a6e6-c029297e8fec",
       "minutes": 0,
@@ -1240,6 +1369,7 @@
     {
       "correct": 0,
       "date": "2026-07-26",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "977765f4-0a4c-4e16-9733-a5689d210002",
       "minutes": 38,
@@ -1251,6 +1381,7 @@
     {
       "correct": 0,
       "date": "2026-07-26",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "2987566f-f4f1-4afd-8ebd-51af22147625",
       "minutes": 19,
@@ -1262,6 +1393,7 @@
     {
       "correct": 0,
       "date": "2026-07-26",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "64ec7746-c7b5-418c-b4a8-1a5e6390cfc3",
       "minutes": 25,
@@ -1273,6 +1405,7 @@
     {
       "correct": 13,
       "date": "2026-07-27",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "1791a958-f558-4064-9795-c2c7eaa12232",
       "minutes": 0,
@@ -1284,6 +1417,7 @@
     {
       "correct": 12,
       "date": "2026-07-27",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "20eb3815-28ce-4556-b99d-9b4c2fa76873",
       "minutes": 0,
@@ -1295,6 +1429,7 @@
     {
       "correct": 12,
       "date": "2026-07-27",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "5584fa07-eb36-4500-8d5a-79f82c3acff1",
       "minutes": 0,
@@ -1306,6 +1441,7 @@
     {
       "correct": 0,
       "date": "2026-07-28",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "2e9fdbe1-df7e-42ff-81b5-3bc5ce8b6af6",
       "minutes": 10,
@@ -1317,6 +1453,7 @@
     {
       "correct": 0,
       "date": "2026-07-28",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "14bc816d-b4df-4afa-8717-d54e585c44c3",
       "minutes": 46,
@@ -1328,6 +1465,7 @@
     {
       "correct": 0,
       "date": "2026-07-28",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "2c7024de-5208-4189-ac09-70438db3f4df",
       "minutes": 16,
@@ -1339,6 +1477,7 @@
     {
       "correct": 9,
       "date": "2026-07-30",
+      "description": "",
       "exerciseMinutes": 15,
       "id": "d1b29631-948c-4639-a776-4ffcb9b963f1",
       "minutes": 0,
@@ -1350,6 +1489,7 @@
     {
       "correct": 8,
       "date": "2026-07-30",
+      "description": "",
       "exerciseMinutes": 15,
       "id": "8841eba6-c39f-406b-8f7c-d805908e5d45",
       "minutes": 0,
@@ -1361,6 +1501,7 @@
     {
       "correct": 8,
       "date": "2026-07-30",
+      "description": "",
       "exerciseMinutes": 15,
       "id": "fae5d0b2-0bd4-4933-b412-e64ecc6f89cc",
       "minutes": 0,
@@ -1372,6 +1513,7 @@
     {
       "correct": 0,
       "date": "2026-07-30",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "3e57b4d1-c1f5-460b-8a51-046c5b8ccae6",
       "minutes": 35,
@@ -1383,6 +1525,7 @@
     {
       "correct": 0,
       "date": "2026-07-31",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "b0e4b3c6-da2a-47ce-84a7-ea540decf2ac",
       "minutes": 0,
@@ -1394,6 +1537,7 @@
     {
       "correct": 15,
       "date": "2026-07-31",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "184c3ce0-fd22-4283-9176-a0830ae3dcaf",
       "minutes": 0,
@@ -1405,6 +1549,7 @@
     {
       "correct": 10,
       "date": "2026-07-31",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "ab934c13-6213-4674-ba61-973d45e86db3",
       "minutes": 0,
@@ -1416,6 +1561,7 @@
     {
       "correct": 0,
       "date": "2026-07-30",
+      "description": "",
       "exerciseMinutes": 0,
       "id": "c13f14ce-54f0-4842-bf1a-2af364debd35",
       "minutes": 25,
@@ -1427,10 +1573,23 @@
     {
       "correct": 15,
       "date": "2026-07-30",
+      "description": "",
       "exerciseMinutes": 15,
       "id": "8dbf5098-0205-431e-9a65-9e17eb7af13d",
       "minutes": 0,
       "questions": 15,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 0,
+      "date": "2026-08-03",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "d0a139cf-0511-4764-a702-21e4e2c8cf8b",
+      "minutes": 90,
+      "questions": 0,
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-5"
@@ -1489,6 +1648,7 @@
           "lastStudiedAt": "2026-07-27",
           "name": "Chaves primária e estrangeira",
           "nextReviewAt": "2026-08-03",
+          "parentTopicId": "subject-1-topic-1",
           "questionCount": 66,
           "reviewCount": 2,
           "reviewMinutes": 20,
@@ -1502,6 +1662,7 @@
           "lastStudiedAt": "2026-07-27",
           "name": "Normalização",
           "nextReviewAt": "2026-08-10",
+          "parentTopicId": "subject-1-topic-1",
           "questionCount": 12,
           "reviewCount": 3,
           "reviewMinutes": 20,
@@ -1512,14 +1673,14 @@
           "correctCount": 138,
           "domain": 0,
           "id": "subject-1-topic-5",
-          "lastStudiedAt": "2026-07-30",
+          "lastStudiedAt": "2026-08-03",
           "name": "SQL básico",
-          "nextReviewAt": "2026-07-31",
+          "nextReviewAt": "2026-08-04",
           "questionCount": 149,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 230
+          "theoryMinutes": 320
         },
         {
           "correctCount": 18,
@@ -1528,6 +1689,7 @@
           "lastStudiedAt": "2026-07-26",
           "name": "JOIN",
           "nextReviewAt": "2026-07-27",
+          "parentTopicId": "subject-1-topic-5",
           "questionCount": 20,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1541,6 +1703,7 @@
           "lastStudiedAt": "2026-07-31",
           "name": "GROUP BY / HAVING",
           "nextReviewAt": "2026-08-01",
+          "parentTopicId": "subject-1-topic-5",
           "questionCount": 0,
           "reviewCount": 1,
           "reviewMinutes": 60,
@@ -1554,6 +1717,7 @@
           "lastStudiedAt": "2026-07-30",
           "name": "Subqueries",
           "nextReviewAt": "2026-07-31",
+          "parentTopicId": "subject-1-topic-5",
           "questionCount": 9,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1567,6 +1731,7 @@
           "lastStudiedAt": "2026-07-30",
           "name": "EXISTS / NOT EXISTS",
           "nextReviewAt": "2026-07-31",
+          "parentTopicId": "subject-1-topic-5",
           "questionCount": 8,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1580,6 +1745,7 @@
           "lastStudiedAt": "2026-07-30",
           "name": "Views / Triggers",
           "nextReviewAt": "2026-07-31",
+          "parentTopicId": "subject-1-topic-5",
           "questionCount": 8,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1631,6 +1797,7 @@
           "domain": 0,
           "id": "subject-2-topic-2",
           "name": "IPv4 e sub-redes",
+          "parentTopicId": "subject-2-topic-1",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1642,6 +1809,7 @@
           "domain": 0,
           "id": "subject-2-topic-3",
           "name": "IPv6",
+          "parentTopicId": "subject-2-topic-1",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1653,6 +1821,7 @@
           "domain": 0,
           "id": "subject-2-topic-4",
           "name": "TCP e UDP",
+          "parentTopicId": "subject-2-topic-1",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1664,6 +1833,7 @@
           "domain": 0,
           "id": "subject-2-topic-5",
           "name": "DNS / DHCP / NAT",
+          "parentTopicId": "subject-2-topic-1",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1686,6 +1856,7 @@
           "domain": 0,
           "id": "subject-2-topic-7",
           "name": "OSPF / BGP",
+          "parentTopicId": "subject-2-topic-6",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1719,6 +1890,7 @@
           "domain": 0,
           "id": "subject-2-topic-9",
           "name": "IDS / IPS",
+          "parentTopicId": "subject-2-topic-8",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1730,6 +1902,7 @@
           "domain": 0,
           "id": "subject-2-topic-10",
           "name": "VPN",
+          "parentTopicId": "subject-2-topic-8",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1770,6 +1943,7 @@
           "domain": 0,
           "id": "subject-3-topic-2",
           "name": "Casos de uso",
+          "parentTopicId": "subject-3-topic-1",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1781,6 +1955,7 @@
           "domain": 0,
           "id": "subject-3-topic-7",
           "name": "Pontos de função",
+          "parentTopicId": "subject-3-topic-1",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1854,6 +2029,7 @@
           "domain": 0,
           "id": "subject-3-topic-10",
           "name": "Design Patterns",
+          "parentTopicId": "subject-3-topic-8",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1945,6 +2121,7 @@
           "domain": 0,
           "id": "subject-4-topic-5",
           "name": "JDBC",
+          "parentTopicId": "subject-4-topic-1",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1956,6 +2133,7 @@
           "domain": 0,
           "id": "subject-4-topic-7",
           "name": "REST / SOAP",
+          "parentTopicId": "subject-4-topic-8",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1978,6 +2156,7 @@
           "domain": 0,
           "id": "subject-4-topic-9",
           "name": "Microsserviços",
+          "parentTopicId": "subject-4-topic-8",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -1989,6 +2168,7 @@
           "domain": 0,
           "id": "subject-4-topic-10",
           "name": "Docker / Conteinerização",
+          "parentTopicId": "subject-4-topic-11",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -2040,6 +2220,7 @@
           "domain": 0,
           "id": "subject-5-topic-7",
           "name": "CDI / mercado interbancário",
+          "parentTopicId": "subject-5-topic-10",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -2062,6 +2243,7 @@
           "domain": 0,
           "id": "subject-5-topic-3",
           "name": "Mercado de câmbio",
+          "parentTopicId": "subject-5-topic-4",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -2106,6 +2288,7 @@
           "domain": 0,
           "id": "subject-5-topic-6",
           "name": "Crédito rural",
+          "parentTopicId": "subject-5-topic-8",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -2117,6 +2300,7 @@
           "domain": 0,
           "id": "subject-5-topic-1",
           "name": "FNO",
+          "parentTopicId": "subject-5-topic-8",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -2179,6 +2363,7 @@
           "domain": 0,
           "id": "subject-6-topic-2",
           "name": "Financiamento ao terrorismo",
+          "parentTopicId": "subject-6-topic-1",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -2208,6 +2393,7 @@
           "domain": 0,
           "id": "subject-7-topic-1",
           "name": "SERVQUAL",
+          "parentTopicId": "subject-7-topic-2",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -2219,6 +2405,7 @@
           "domain": 0,
           "id": "subject-7-topic-3",
           "name": "Retenção de clientes",
+          "parentTopicId": "subject-7-topic-2",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -2230,6 +2417,7 @@
           "domain": 0,
           "id": "subject-7-topic-5",
           "name": "Programa de fidelidade por pontos",
+          "parentTopicId": "subject-7-topic-3",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
@@ -2304,9 +2492,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-08-02T02:59:00.512Z",
+    "lastSyncAt": "2026-08-04T20:13:12.055Z",
     "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 680,
-    "updatedAt": "2026-08-02T02:59:42.365Z"
+    "revision": 685,
+    "updatedAt": "2026-08-04T20:59:00.901Z"
   }
 }
