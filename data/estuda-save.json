@@ -1,5 +1,5 @@
 {
-  "activeTab": "calendar",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -656,6 +656,15 @@
       "id": "544b6a58-efaf-4e78-a5ed-ad996cc34809",
       "reviewMinutes": 0,
       "theoryMinutes": 0
+    },
+    {
+      "createdAt": "2026-08-05T23:25:00.270Z",
+      "date": "2026-08-05",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "9de9880b-b76d-4676-beb1-e653498acb44",
+      "reviewMinutes": 0,
+      "theoryMinutes": 18
     }
   ],
   "lastPlan": {
@@ -1614,6 +1623,18 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 0,
+      "date": "2026-08-05",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "9de9880b-b76d-4676-beb1-e653498acb44",
+      "minutes": 18,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
     }
   ],
   "settings": {
@@ -1694,14 +1715,14 @@
           "correctCount": 157,
           "domain": 0,
           "id": "subject-1-topic-5",
-          "lastStudiedAt": "2026-08-03",
+          "lastStudiedAt": "2026-08-05",
           "name": "SQL básico",
-          "nextReviewAt": "2026-08-04",
+          "nextReviewAt": "2026-08-06",
           "questionCount": 169,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 320
+          "theoryMinutes": 338
         },
         {
           "correctCount": 18,
@@ -2513,9 +2534,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-08-05T19:08:59.248Z",
-    "lastSyncStatus": "Falha ao sincronizar: failed to connect to api.github.com/4.228.31.149 (port 443) from /100.66.250.212 (port 34800) after 10000ms",
-    "revision": 689,
-    "updatedAt": "2026-08-05T19:09:07.442Z"
+    "lastSyncAt": "2026-08-05T23:24:32.541Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 690,
+    "updatedAt": "2026-08-05T23:25:00.270Z"
   }
 }
