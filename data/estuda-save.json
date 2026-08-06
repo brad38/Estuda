@@ -1,5 +1,5 @@
 {
-  "activeTab": "today",
+  "activeTab": "calendar",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -665,6 +665,15 @@
       "id": "9de9880b-b76d-4676-beb1-e653498acb44",
       "reviewMinutes": 0,
       "theoryMinutes": 18
+    },
+    {
+      "createdAt": "2026-08-06T15:59:02.137Z",
+      "date": "2026-08-06",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "e7435b44-e775-4606-8f17-127fe5c1ff9d",
+      "reviewMinutes": 0,
+      "theoryMinutes": 28
     }
   ],
   "lastPlan": {
@@ -1635,6 +1644,18 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 0,
+      "date": "2026-08-06",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "e7435b44-e775-4606-8f17-127fe5c1ff9d",
+      "minutes": 28,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
     }
   ],
   "settings": {
@@ -1715,14 +1736,14 @@
           "correctCount": 157,
           "domain": 0,
           "id": "subject-1-topic-5",
-          "lastStudiedAt": "2026-08-05",
+          "lastStudiedAt": "2026-08-06",
           "name": "SQL básico",
-          "nextReviewAt": "2026-08-06",
+          "nextReviewAt": "2026-08-07",
           "questionCount": 169,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 338
+          "theoryMinutes": 366
         },
         {
           "correctCount": 18,
@@ -2534,9 +2555,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-08-05T23:24:32.541Z",
+    "lastSyncAt": "2026-08-06T15:58:04.704Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 690,
-    "updatedAt": "2026-08-05T23:25:00.270Z"
+    "revision": 691,
+    "updatedAt": "2026-08-06T15:59:02.137Z"
   }
 }
