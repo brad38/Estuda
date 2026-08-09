@@ -1,5 +1,5 @@
 {
-  "activeTab": "today",
+  "activeTab": "calendar",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -701,6 +701,15 @@
       "id": "a5c690c2-20f3-4f50-b737-369c9ab6aea5",
       "reviewMinutes": 0,
       "theoryMinutes": 40
+    },
+    {
+      "createdAt": "2026-08-09T03:43:03.436Z",
+      "date": "2026-08-08",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "810f8b8c-35d7-4bc4-b6c1-1368456e22f7",
+      "reviewMinutes": 0,
+      "theoryMinutes": 30
     }
   ],
   "lastPlan": {
@@ -1719,6 +1728,18 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 0,
+      "date": "2026-08-08",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "810f8b8c-35d7-4bc4-b6c1-1368456e22f7",
+      "minutes": 30,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
     }
   ],
   "settings": {
@@ -1799,14 +1820,14 @@
           "correctCount": 187,
           "domain": 0,
           "id": "subject-1-topic-5",
-          "lastStudiedAt": "2026-08-07",
+          "lastStudiedAt": "2026-08-08",
           "name": "SQL básico",
-          "nextReviewAt": "2026-08-08",
+          "nextReviewAt": "2026-08-09",
           "questionCount": 199,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 416
+          "theoryMinutes": 446
         },
         {
           "correctCount": 18,
@@ -2618,9 +2639,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-08-08T18:53:44.192Z",
-    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 694,
-    "updatedAt": "2026-08-08T18:54:04.960Z"
+    "lastSyncAt": "2026-08-09T03:31:25.412Z",
+    "lastSyncStatus": "Falha ao sincronizar: Connection reset",
+    "revision": 695,
+    "updatedAt": "2026-08-09T03:43:03.436Z"
   }
 }
