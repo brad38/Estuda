@@ -1,5 +1,5 @@
 {
-  "activeTab": "calendar",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -692,6 +692,15 @@
       "id": "9be13da6-e5ca-4f79-817f-4f7875f17f0f",
       "reviewMinutes": 0,
       "theoryMinutes": 10
+    },
+    {
+      "createdAt": "2026-08-08T18:54:04.960Z",
+      "date": "2026-08-07",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "a5c690c2-20f3-4f50-b737-369c9ab6aea5",
+      "reviewMinutes": 0,
+      "theoryMinutes": 40
     }
   ],
   "lastPlan": {
@@ -1698,6 +1707,18 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 20,
+      "date": "2026-08-07",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "a5c690c2-20f3-4f50-b737-369c9ab6aea5",
+      "minutes": 40,
+      "questions": 20,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-topic-5"
     }
   ],
   "settings": {
@@ -1775,17 +1796,17 @@
           "theoryMinutes": 75
         },
         {
-          "correctCount": 167,
+          "correctCount": 187,
           "domain": 0,
           "id": "subject-1-topic-5",
-          "lastStudiedAt": "2026-08-06",
+          "lastStudiedAt": "2026-08-07",
           "name": "SQL básico",
-          "nextReviewAt": "2026-08-07",
-          "questionCount": 179,
+          "nextReviewAt": "2026-08-08",
+          "questionCount": 199,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 376
+          "theoryMinutes": 416
         },
         {
           "correctCount": 18,
@@ -2597,9 +2618,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-08-07T05:58:39.365Z",
-    "lastSyncStatus": "Sincronizado",
-    "revision": 693,
-    "updatedAt": "2026-08-07T05:58:51.224Z"
+    "lastSyncAt": "2026-08-08T18:53:44.192Z",
+    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
+    "revision": 694,
+    "updatedAt": "2026-08-08T18:54:04.960Z"
   }
 }
