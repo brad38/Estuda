@@ -1,5 +1,5 @@
 {
-  "activeTab": "subjects",
+  "activeTab": "settings",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -1810,7 +1810,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -1834,7 +1834,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -1859,7 +1859,7 @@
           "questionCount": 199,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 446
         },
         {
@@ -1871,7 +1871,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -1883,7 +1883,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -1987,7 +1987,7 @@
           "questionCount": 8,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 35
         },
         {
@@ -2012,7 +2012,7 @@
           "questionCount": 8,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 51
         },
         {
@@ -2035,7 +2035,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -2047,7 +2047,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -2881,9 +2881,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-08-09T22:57:08.880Z",
-    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 698,
-    "updatedAt": "2026-08-10T02:50:15.834Z"
+    "lastSyncAt": "2026-08-10T03:43:31.365Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 715,
+    "updatedAt": "2026-08-10T03:51:52.140Z"
   }
 }
