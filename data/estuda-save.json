@@ -1,5 +1,5 @@
 {
-  "activeTab": "subjects",
+  "activeTab": "calendar",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -613,15 +613,6 @@
       "theoryMinutes": 35
     },
     {
-      "createdAt": "2026-07-31T05:18:00.611Z",
-      "date": "2026-07-30",
-      "description": "",
-      "exerciseMinutes": 0,
-      "id": "710c2213-7265-4c31-81fc-24d872787a9e",
-      "reviewMinutes": 0,
-      "theoryMinutes": 36
-    },
-    {
       "createdAt": "2026-08-01T14:23:01.650Z",
       "date": "2026-07-31",
       "description": "",
@@ -710,6 +701,15 @@
       "id": "810f8b8c-35d7-4bc4-b6c1-1368456e22f7",
       "reviewMinutes": 0,
       "theoryMinutes": 30
+    },
+    {
+      "createdAt": "2026-08-11T18:09:33.120Z",
+      "date": "2026-07-30",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "ec938ead-b4bf-4622-884b-f9d6968e3578",
+      "reviewMinutes": 0,
+      "theoryMinutes": 36
     }
   ],
   "lastPlan": {
@@ -1740,6 +1740,18 @@
       "reviewMinutes": 0,
       "subjectId": "subject-1",
       "topicId": "subject-1-topic-5"
+    },
+    {
+      "correct": 0,
+      "date": "2026-07-30",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "ec938ead-b4bf-4622-884b-f9d6968e3578",
+      "minutes": 36,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "subjectId": "subject-1",
+      "topicId": "subject-1-curriculum-indices"
     }
   ],
   "settings": {
@@ -2060,7 +2072,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -2073,7 +2085,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -2086,7 +2098,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -2166,7 +2178,7 @@
           "questionCount": 199,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 446
         },
         {
@@ -2192,7 +2204,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -2205,7 +2217,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -2218,7 +2230,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -2259,7 +2271,7 @@
           "questionCount": 0,
           "reviewCount": 1,
           "reviewMinutes": 60,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 64
         },
         {
@@ -2376,6 +2388,7 @@
           "id": "subject-1-curriculum-subconsulta-escalar",
           "isOptional": false,
           "name": "Subconsulta escalar",
+          "nextReviewAt": "2026-07-31",
           "parentTopicId": "subject-1-topic-8",
           "questionCount": 0,
           "reviewCount": 0,
@@ -2389,6 +2402,7 @@
           "id": "subject-1-curriculum-subconsulta-multiplos",
           "isOptional": false,
           "name": "Subconsulta com múltiplos valores",
+          "nextReviewAt": "2026-07-31",
           "parentTopicId": "subject-1-topic-8",
           "questionCount": 0,
           "reviewCount": 0,
@@ -2417,6 +2431,7 @@
           "id": "subject-1-curriculum-subconsulta-from-select",
           "isOptional": false,
           "name": "Subconsultas no FROM e SELECT",
+          "nextReviewAt": "2026-07-31",
           "parentTopicId": "subject-1-topic-8",
           "questionCount": 0,
           "reviewCount": 0,
@@ -2456,13 +2471,15 @@
           "domain": 0,
           "id": "subject-1-curriculum-indices",
           "isOptional": false,
+          "lastStudiedAt": "2026-07-30",
           "name": "Índices",
+          "nextReviewAt": "2026-07-31",
           "parentTopicId": "subject-1-curriculum-objetos-banco",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "studied": false,
-          "theoryMinutes": 0
+          "theoryMinutes": 36
         },
         {
           "correctCount": 0,
@@ -4023,9 +4040,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-08-10T17:24:49.422Z",
-    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 760,
-    "updatedAt": "2026-08-10T20:09:07.046Z"
+    "lastSyncAt": "2026-08-11T18:04:59.117Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 802,
+    "updatedAt": "2026-08-11T18:09:33.120Z"
   }
 }
