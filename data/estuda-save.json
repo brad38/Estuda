@@ -728,7 +728,7 @@
     "theory": 90
   },
   "minutesToday": 150,
-  "schemaVersion": 6,
+  "schemaVersion": 7,
   "sessions": [
     {
       "correct": 27,
@@ -1872,7 +1872,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0,
           "parentTopicId": "subject-1-topic-3"
         },
@@ -2320,7 +2320,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0,
           "parentTopicId": "subject-1-curriculum-ddl"
         },
@@ -2733,7 +2733,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0,
           "parentTopicId": "subject-1-topic-8"
         },
@@ -2761,7 +2761,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0,
           "parentTopicId": "subject-1-topic-8"
         },
@@ -2871,7 +2871,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -2884,7 +2884,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
