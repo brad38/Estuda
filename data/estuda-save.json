@@ -1,4 +1,319 @@
 {
+  "accountingAdjustments": [],
+  "accountingBaselines": [
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-07",
+      "legacyLogIds": [
+        "5a5b7850-672b-4d1e-8b91-f2b4d6ca5bb6"
+      ],
+      "legacyTotalMinutes": 105,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-06",
+      "legacyLogIds": [
+        "8efd3977-5a67-4543-9054-794be9529d3c"
+      ],
+      "legacyTotalMinutes": 90,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-05",
+      "legacyLogIds": [
+        "387e6476-0f4f-4804-a86f-20649ed85fba"
+      ],
+      "legacyTotalMinutes": 50,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-08",
+      "legacyLogIds": [
+        "31ff1b87-f2ce-4b28-a4e8-1dfed279c83b"
+      ],
+      "legacyTotalMinutes": 91,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-09",
+      "legacyLogIds": [
+        "60d094c0-e56a-498f-b731-2d1b3d418e72"
+      ],
+      "legacyTotalMinutes": 15,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-10",
+      "legacyLogIds": [
+        "1e351402-62df-4d7b-93b5-b9dbe1af4894"
+      ],
+      "legacyTotalMinutes": 17,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-11",
+      "legacyLogIds": [
+        "5bf23798-8133-45e0-8d9d-f6cbedb7924a",
+        "1d923cfd-e030-4bd1-94fc-7d82a487f1cb"
+      ],
+      "legacyTotalMinutes": 73,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-13",
+      "legacyLogIds": [
+        "1c219321-8992-4acb-a075-df713d37bae1",
+        "169c1bf6-70f6-43c1-b8cf-c266da5b54af",
+        "9bef4b91-ce31-447d-93b9-f538d5993c07"
+      ],
+      "legacyTotalMinutes": 56,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-14",
+      "legacyLogIds": [
+        "03237e43-72d3-4537-b208-371ec268a42d",
+        "aeb13bad-a876-4e3f-b51b-0788a2d253fa",
+        "a3820528-a53f-44b8-a3a3-dbb3a4f7d0d8",
+        "cc3b3b0a-82f7-4329-a9e8-fd597a4ee3ed"
+      ],
+      "legacyTotalMinutes": 74,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-15",
+      "legacyLogIds": [
+        "43845ff2-6a7e-47f2-a977-bec73431f7d7",
+        "b325c1e0-cb1f-4548-a2cc-4d83b9547f49"
+      ],
+      "legacyTotalMinutes": 111,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-16",
+      "legacyLogIds": [
+        "152d8e3a-11c9-4f5c-b311-08c81138890b",
+        "13218158-add2-4bfd-90ee-21926c36b59e",
+        "dcf28682-18a1-4bc2-beb7-792e26a32545"
+      ],
+      "legacyTotalMinutes": 105,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-17",
+      "legacyLogIds": [
+        "f9ee386c-4d45-47fc-b32f-b8717427a1de"
+      ],
+      "legacyTotalMinutes": 75,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-18",
+      "legacyLogIds": [
+        "aca6f674-93ee-42bf-8446-e973b90d67ea",
+        "5a07ff06-598e-40c4-af42-7511399aed3c",
+        "dd2377bf-10d8-4074-88ea-981bd38669e0",
+        "19f75a76-f765-4919-b8a2-ef965975d5be"
+      ],
+      "legacyTotalMinutes": 91,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-19",
+      "legacyLogIds": [
+        "5f4eb39f-c36e-409f-b2ed-f7b1b678f24c"
+      ],
+      "legacyTotalMinutes": 11,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-20",
+      "legacyLogIds": [
+        "abeba0e0-7bfb-497c-8f05-bfea6060761b",
+        "96aa52c7-b6ef-47e4-9fd4-3d98c7c9cff2"
+      ],
+      "legacyTotalMinutes": 60,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-21",
+      "legacyLogIds": [
+        "92c66147-e7a9-49b2-8ecc-867151520784",
+        "c2312d8d-444a-4939-b073-eb3457b89021",
+        "02ee505f-7475-4848-ab43-f11c75d82ab7",
+        "4126202f-70c8-42cc-b169-9439e3b15787",
+        "187e73d4-becb-4c36-9cdc-0eb1d05c3039"
+      ],
+      "legacyTotalMinutes": 60,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-22",
+      "legacyLogIds": [
+        "30c4ea8c-cb5c-4cf5-bf20-d001ce2a8412",
+        "aa718bb4-3651-43d7-adca-4c04b1bd5f11"
+      ],
+      "legacyTotalMinutes": 105,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-23",
+      "legacyLogIds": [
+        "9b9a87ae-8e60-440e-a5c0-1fd8bd90184a",
+        "519d44e4-4372-466b-a099-2a4f4dad63ba",
+        "d7cd93b3-2cb8-4d6b-9c03-0c72764f513a",
+        "1c7749cd-440c-49f5-bb98-950cfd10d330"
+      ],
+      "legacyTotalMinutes": 120,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-25",
+      "legacyLogIds": [
+        "f7d1a985-3d9a-4983-84ee-6b0ca926fa71",
+        "896027fe-084f-4c3d-92d8-f1c58ef2b850",
+        "a1083c21-be40-4cf2-b0fd-457fcea6a1b5",
+        "91c420b9-37ab-4d92-a722-37e206ca59c2",
+        "26b0f46f-0c61-49d1-a820-adc3443701a8",
+        "3256a096-45f5-41af-a6e6-c029297e8fec"
+      ],
+      "legacyTotalMinutes": 97,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-26",
+      "legacyLogIds": [
+        "977765f4-0a4c-4e16-9733-a5689d210002",
+        "2987566f-f4f1-4afd-8ebd-51af22147625",
+        "64ec7746-c7b5-418c-b4a8-1a5e6390cfc3"
+      ],
+      "legacyTotalMinutes": 82,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-27",
+      "legacyLogIds": [
+        "1791a958-f558-4064-9795-c2c7eaa12232",
+        "20eb3815-28ce-4556-b99d-9b4c2fa76873",
+        "5584fa07-eb36-4500-8d5a-79f82c3acff1"
+      ],
+      "legacyTotalMinutes": 60,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-28",
+      "legacyLogIds": [
+        "2e9fdbe1-df7e-42ff-81b5-3bc5ce8b6af6",
+        "14bc816d-b4df-4afa-8717-d54e585c44c3",
+        "2c7024de-5208-4189-ac09-70438db3f4df"
+      ],
+      "legacyTotalMinutes": 72,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-30",
+      "legacyLogIds": [
+        "d1b29631-948c-4639-a776-4ffcb9b963f1",
+        "8841eba6-c39f-406b-8f7c-d805908e5d45",
+        "fae5d0b2-0bd4-4933-b412-e64ecc6f89cc",
+        "3e57b4d1-c1f5-460b-8a51-046c5b8ccae6",
+        "c13f14ce-54f0-4842-bf1a-2af364debd35",
+        "ec938ead-b4bf-4622-884b-f9d6968e3578"
+      ],
+      "legacyTotalMinutes": 141,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-07-31",
+      "legacyLogIds": [
+        "b0e4b3c6-da2a-47ce-84a7-ea540decf2ac"
+      ],
+      "legacyTotalMinutes": 60,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-08-03",
+      "legacyLogIds": [
+        "d0a139cf-0511-4764-a702-21e4e2c8cf8b",
+        "544b6a58-efaf-4e78-a5ed-ad996cc34809"
+      ],
+      "legacyTotalMinutes": 113,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-08-05",
+      "legacyLogIds": [
+        "9de9880b-b76d-4676-beb1-e653498acb44"
+      ],
+      "legacyTotalMinutes": 18,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-08-06",
+      "legacyLogIds": [
+        "e7435b44-e775-4606-8f17-127fe5c1ff9d",
+        "76c5e0eb-8217-4ce5-88e5-17328884b2a6",
+        "9be13da6-e5ca-4f79-817f-4f7875f17f0f"
+      ],
+      "legacyTotalMinutes": 48,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-08-07",
+      "legacyLogIds": [
+        "a5c690c2-20f3-4f50-b737-369c9ab6aea5"
+      ],
+      "legacyTotalMinutes": 40,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-08-08",
+      "legacyLogIds": [
+        "810f8b8c-35d7-4bc4-b6c1-1368456e22f7"
+      ],
+      "legacyTotalMinutes": 30,
+      "schemaVersion": 2
+    },
+    {
+      "createdAt": "2026-09-10T19:08:47.727Z",
+      "date": "2026-08-11",
+      "legacyLogIds": [
+        "ddf50b00-4584-441a-9fa7-abfac4de2ef3"
+      ],
+      "legacyTotalMinutes": 11,
+      "schemaVersion": 2
+    }
+  ],
+  "accountingConflicts": [],
+  "accountingGroups": [],
   "activeTab": "today",
   "availability": {
     "dateOverrides": {
@@ -722,7 +1037,7 @@
     "theory": 90
   },
   "minutesToday": 150,
-  "schemaVersion": 7,
+  "schemaVersion": 8,
   "sessions": [
     {
       "correct": 27,
@@ -1799,7 +2114,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "studied": false,
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -4087,7 +4402,7 @@
           "theoryMinutes": 0
         }
       ],
-      "weight": 10
+      "weight": 5
     },
     {
       "id": "subject-algorithms",
@@ -4735,7 +5050,7 @@
           "theoryMinutes": 0
         }
       ],
-      "weight": 10
+      "weight": 5
     },
     {
       "id": "subject-networks",
@@ -5793,7 +6108,7 @@
           "theoryMinutes": 0
         }
       ],
-      "weight": 10
+      "weight": 5
     },
     {
       "id": "subject-infrastructure",
@@ -6400,7 +6715,7 @@
           "theoryMinutes": 0
         }
       ],
-      "weight": 10
+      "weight": 5
     },
     {
       "id": "subject-software-engineering",
@@ -6842,7 +7157,7 @@
           "theoryMinutes": 0
         }
       ],
-      "weight": 9
+      "weight": 5
     },
     {
       "id": "subject-poo",
@@ -7281,7 +7596,7 @@
           "theoryMinutes": 0
         }
       ],
-      "weight": 8
+      "weight": 5
     },
     {
       "id": "subject-uml-ihc",
@@ -7546,7 +7861,7 @@
           "theoryMinutes": 0
         }
       ],
-      "weight": 7
+      "weight": 5
     },
     {
       "id": "subject-languages",
@@ -8129,7 +8444,7 @@
           "theoryMinutes": 0
         }
       ],
-      "weight": 9
+      "weight": 5
     },
     {
       "id": "subject-architecture",
@@ -8797,7 +9112,7 @@
           "theoryMinutes": 0
         }
       ],
-      "weight": 9
+      "weight": 5
     },
     {
       "id": "subject-it-management",
@@ -9135,7 +9450,7 @@
           "theoryMinutes": 0
         }
       ],
-      "weight": 8
+      "weight": 5
     },
     {
       "id": "subject-banking",
@@ -9692,7 +10007,7 @@
           "theoryMinutes": 0
         }
       ],
-      "weight": 7
+      "weight": 5
     },
     {
       "id": "subject-compliance",
@@ -10260,7 +10575,7 @@
           "theoryMinutes": 0
         }
       ],
-      "weight": 6
+      "weight": 5
     },
     {
       "id": "subject-service-innovation",
@@ -10981,7 +11296,7 @@
           "theoryMinutes": 0
         }
       ],
-      "weight": 8
+      "weight": 5
     },
     {
       "id": "subject-english",
@@ -11334,14 +11649,14 @@
           "theoryMinutes": 0
         }
       ],
-      "weight": 6
+      "weight": 5
     }
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-09-04T03:15:03.470Z",
-    "lastSyncStatus": "Sincronizado",
-    "revision": 817,
-    "updatedAt": "2026-09-05T15:42:34.266Z"
+    "lastSyncAt": "2026-09-10T18:29:35.609Z",
+    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
+    "revision": 818,
+    "updatedAt": "2026-09-10T18:33:27.559Z"
   }
 }
