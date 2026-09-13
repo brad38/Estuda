@@ -331,6 +331,42 @@
       "sourceSessionId": "4ba44b55-10e9-4e0c-a6da-732abbb827f3",
       "state": "TOMBSTONED",
       "theoryMinutes": 45
+    },
+    {
+      "baseRevision": 2,
+      "createdAt": "2026-09-13T16:39:57.988Z",
+      "date": "2026-09-13",
+      "deletedAt": "2026-09-13T16:40:22.806Z",
+      "exerciseMinutes": 0,
+      "id": "57e17fd6-e610-4ac3-9cf7-f60dfd228a29",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-09-13T16:40:22.806Z",
+      "ownerId": "64b6933b-4e4e-4109-8d5a-3bf16eb849db",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 3,
+      "source": "SESSION",
+      "sourceSessionId": "64b6933b-4e4e-4109-8d5a-3bf16eb849db",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 1
+    },
+    {
+      "baseRevision": 2,
+      "createdAt": "2026-09-13T16:45:30.206Z",
+      "date": "2026-09-13",
+      "deletedAt": "2026-09-13T16:45:44.093Z",
+      "exerciseMinutes": 0,
+      "id": "b60b0f78-6ef3-4d0c-9543-9cace9801795",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-09-13T16:45:44.093Z",
+      "ownerId": "9e75a578-b1e0-4806-9e41-5fa8e4a6234c",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 3,
+      "source": "SESSION",
+      "sourceSessionId": "9e75a578-b1e0-4806-9e41-5fa8e4a6234c",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 3
     }
   ],
   "activeTab": "today",
@@ -1178,28 +1214,36 @@
       "topicId": "subject-networks-curriculum-1-1"
     },
     {
+      "actualStart": "2026-09-13T16:39:37.896Z",
       "executionOrder": 0,
       "id": "planned-2026-09-13-0-subject-database-subject-1-curriculum-algebra-juncao",
       "plannedDate": "2026-09-13",
       "plannedEnd": "18:45",
       "plannedMinutes": 45,
       "plannedStart": "18:00",
+      "sessionContext": "LEARNING",
+      "sessionId": "64b6933b-4e4e-4109-8d5a-3bf16eb849db",
       "startedLateByMinutes": 0,
-      "status": "PLANNED",
+      "status": "COMPLETED",
       "subjectId": "subject-database",
-      "topicId": "subject-1-curriculum-algebra-juncao"
+      "topicId": "subject-1-curriculum-algebra-juncao",
+      "topicStateAtStart": "NOT_STARTED"
     },
     {
+      "actualStart": "2026-09-13T16:42:55.679Z",
       "executionOrder": 1,
       "id": "planned-2026-09-13-1-subject-algorithms-subject-algorithms-curriculum-1-1",
       "plannedDate": "2026-09-13",
       "plannedEnd": "19:30",
       "plannedMinutes": 45,
       "plannedStart": "18:45",
+      "sessionContext": "LEARNING",
+      "sessionId": "9e75a578-b1e0-4806-9e41-5fa8e4a6234c",
       "startedLateByMinutes": 0,
-      "status": "PLANNED",
+      "status": "COMPLETED",
       "subjectId": "subject-algorithms",
-      "topicId": "subject-algorithms-curriculum-1-1"
+      "topicId": "subject-algorithms-curriculum-1-1",
+      "topicStateAtStart": "NOT_STARTED"
     },
     {
       "executionOrder": 2,
@@ -2698,19 +2742,19 @@
       "name": "Banco de Dados",
       "topics": [
         {
-          "correctCount": 4968,
+          "correctCount": 991368,
           "domain": 100,
           "id": "subject-1-curriculum-fundamentos-modelagem",
           "isOptional": false,
           "lastStudiedAt": "2026-07-27",
           "name": "Fundamentos e Modelagem",
           "nextReviewAt": "2026-08-03",
-          "questionCount": 5072,
-          "reviewCount": 136,
-          "reviewMinutes": 1184,
+          "questionCount": 993552,
+          "reviewCount": 29736,
+          "reviewMinutes": 293664,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 9728
+          "theoryMinutes": 1870848
         },
         {
           "correctCount": 0,
@@ -2799,20 +2843,20 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 708,
-          "domain": 91,
+          "correctCount": 11268,
+          "domain": 100,
           "id": "subject-1-topic-1",
           "isOptional": false,
           "lastStudiedAt": "2026-07-27",
           "name": "Modelo Relacional",
           "nextReviewAt": "2026-08-03",
           "parentTopicId": "subject-1-curriculum-fundamentos-modelagem",
-          "questionCount": 717,
-          "reviewCount": 18,
-          "reviewMinutes": 180,
+          "questionCount": 11277,
+          "reviewCount": 338,
+          "reviewMinutes": 3380,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 1301
+          "theoryMinutes": 21141
         },
         {
           "correctCount": 0,
@@ -3074,13 +3118,15 @@
           "domain": 0,
           "id": "subject-1-curriculum-algebra-relacional",
           "isOptional": false,
+          "lastStudiedAt": "2026-09-13",
           "name": "Álgebra Relacional",
+          "nextReviewAt": "2026-09-14",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 0
+          "theoryMinutes": 4
         },
         {
           "correctCount": 0,
@@ -3172,28 +3218,29 @@
           "id": "subject-1-curriculum-algebra-juncao",
           "isOptional": false,
           "name": "Junção",
+          "nextReviewAt": "2026-09-14",
           "parentTopicId": "subject-1-curriculum-algebra-relacional",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
-          "studied": true,
+          "state": "LEARNING",
+          "studied": false,
           "theoryMinutes": 0
         },
         {
-          "correctCount": 7236,
+          "correctCount": 2772756,
           "domain": 100,
           "id": "subject-1-curriculum-sql",
           "isOptional": false,
-          "lastStudiedAt": "2026-08-08",
+          "lastStudiedAt": "2026-09-13",
           "name": "SQL",
           "nextReviewAt": "2026-07-27",
-          "questionCount": 7684,
-          "reviewCount": 36,
-          "reviewMinutes": 2160,
+          "questionCount": 2943444,
+          "reviewCount": 25436,
+          "reviewMinutes": 851760,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 20708
+          "theoryMinutes": 7759668
         },
         {
           "correctCount": 0,
@@ -3336,20 +3383,20 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 1496,
+          "correctCount": 31416,
           "domain": 100,
           "id": "subject-1-curriculum-dql",
           "isOptional": false,
-          "lastStudiedAt": "2026-08-08",
+          "lastStudiedAt": "2026-09-13",
           "name": "DQL",
           "nextReviewAt": "2026-08-03",
           "parentTopicId": "subject-1-curriculum-sql",
-          "questionCount": 1592,
-          "reviewCount": 8,
-          "reviewMinutes": 480,
+          "questionCount": 33432,
+          "reviewCount": 356,
+          "reviewMinutes": 10080,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 4080
+          "theoryMinutes": 85680
         },
         {
           "correctCount": 187,
@@ -3358,7 +3405,7 @@
           "isOptional": false,
           "lastStudiedAt": "2026-08-08",
           "name": "SELECT",
-          "nextReviewAt": "2026-08-09",
+          "nextReviewAt": "2026-09-14",
           "parentTopicId": "subject-1-curriculum-dql",
           "questionCount": 199,
           "reviewCount": 0,
@@ -3514,7 +3561,7 @@
           "isOptional": false,
           "lastStudiedAt": "2026-07-31",
           "name": "GROUP BY",
-          "nextReviewAt": "2026-08-03",
+          "nextReviewAt": "2026-09-16",
           "parentTopicId": "subject-1-curriculum-dql",
           "questionCount": 0,
           "reviewCount": 1,
@@ -3666,20 +3713,20 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 73,
-          "domain": 0,
+          "correctCount": 1353,
+          "domain": 65,
           "id": "subject-1-topic-8",
           "isOptional": false,
-          "lastStudiedAt": "2026-07-30",
+          "lastStudiedAt": "2026-09-13",
           "name": "Subconsultas",
           "nextReviewAt": "2026-07-31",
           "parentTopicId": "subject-1-curriculum-sql",
-          "questionCount": 73,
-          "reviewCount": 0,
+          "questionCount": 1353,
+          "reviewCount": 20,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 345
+          "theoryMinutes": 5945
         },
         {
           "correctCount": 0,
@@ -3732,7 +3779,7 @@
           "isOptional": false,
           "lastStudiedAt": "2026-07-30",
           "name": "EXISTS e NOT EXISTS",
-          "nextReviewAt": "2026-07-31",
+          "nextReviewAt": "2026-09-14",
           "parentTopicId": "subject-1-topic-8",
           "questionCount": 8,
           "reviewCount": 0,
@@ -3771,19 +3818,19 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 64,
+          "correctCount": 1344,
           "domain": 0,
           "id": "subject-1-curriculum-objetos-banco",
           "isOptional": false,
           "lastStudiedAt": "2026-07-30",
           "name": "Objetos do Banco de Dados",
           "nextReviewAt": "2026-07-31",
-          "questionCount": 64,
+          "questionCount": 1344,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 696
+          "theoryMinutes": 14616
         },
         {
           "correctCount": 8,
@@ -5203,13 +5250,15 @@
           "domain": 0,
           "id": "subject-algorithms-curriculum-1",
           "isOptional": false,
+          "lastStudiedAt": "2026-09-13",
           "name": "Lógica de Programação",
+          "nextReviewAt": "2026-09-14",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 0
+          "theoryMinutes": 12
         },
         {
           "correctCount": 0,
@@ -5217,11 +5266,12 @@
           "id": "subject-algorithms-curriculum-1-1",
           "isOptional": false,
           "name": "Variáveis e constantes",
+          "nextReviewAt": "2026-09-14",
           "parentTopicId": "subject-algorithms-curriculum-1",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "LEARNING",
           "studied": false,
           "theoryMinutes": 0
         },
@@ -13004,9 +13054,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-09-13T15:02:30.769Z",
+    "lastSyncAt": "2026-09-13T16:14:18.636Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 823,
-    "updatedAt": "2026-09-13T16:14:15.059Z"
+    "revision": 837,
+    "updatedAt": "2026-09-13T17:00:35.736Z"
   }
 }
