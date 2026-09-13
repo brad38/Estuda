@@ -369,7 +369,7 @@
       "theoryMinutes": 3
     }
   ],
-  "activeTab": "subjects",
+  "activeTab": "today",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -1357,6 +1357,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-curriculum-chaves-integridade",
       "totalStudyMinutes": 0
     },
@@ -1373,6 +1374,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1389,6 +1391,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -1405,6 +1408,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-curriculum-chaves-integridade",
       "totalStudyMinutes": 0
     },
@@ -1421,6 +1425,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -1437,6 +1442,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1453,6 +1459,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1469,6 +1476,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1485,6 +1493,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1501,6 +1510,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1517,6 +1527,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1533,6 +1544,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1549,6 +1561,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1565,6 +1578,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1581,6 +1595,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1597,6 +1612,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1613,6 +1629,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1629,6 +1646,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1645,6 +1663,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1661,6 +1680,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -1677,6 +1697,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -1693,6 +1714,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -1709,6 +1731,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -1725,6 +1748,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -1741,6 +1765,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -1757,6 +1782,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-4",
       "totalStudyMinutes": 0
     },
@@ -1773,6 +1799,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -1789,6 +1816,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -1805,6 +1833,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-curriculum-chaves-integridade",
       "totalStudyMinutes": 0
     },
@@ -1821,6 +1850,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-4",
       "totalStudyMinutes": 0
     },
@@ -1837,6 +1867,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -1853,6 +1884,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -1869,6 +1901,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -1885,6 +1918,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -1901,6 +1935,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -1917,6 +1952,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -1933,6 +1969,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -1949,6 +1986,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -1965,6 +2003,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -1981,6 +2020,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -1997,6 +2037,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -2013,6 +2054,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2029,6 +2071,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2045,6 +2088,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2061,6 +2105,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2077,6 +2122,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2093,6 +2139,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2109,6 +2156,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2125,6 +2173,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2141,6 +2190,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2157,6 +2207,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-7",
       "totalStudyMinutes": 0
     },
@@ -2173,6 +2224,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-7",
       "totalStudyMinutes": 0
     },
@@ -2189,6 +2241,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-3",
       "totalStudyMinutes": 0
     },
@@ -2205,6 +2258,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-7",
       "totalStudyMinutes": 0
     },
@@ -2221,6 +2275,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-7",
       "totalStudyMinutes": 0
     },
@@ -2237,6 +2292,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-7",
       "totalStudyMinutes": 0
     },
@@ -2253,6 +2309,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-7",
       "totalStudyMinutes": 0
     },
@@ -2269,6 +2326,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-6",
       "totalStudyMinutes": 0
     },
@@ -2285,6 +2343,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-6",
       "totalStudyMinutes": 0
     },
@@ -2301,6 +2360,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-6",
       "totalStudyMinutes": 0
     },
@@ -2317,6 +2377,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-8",
       "totalStudyMinutes": 0
     },
@@ -2333,6 +2394,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-9",
       "totalStudyMinutes": 0
     },
@@ -2349,6 +2411,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-1",
       "totalStudyMinutes": 0
     },
@@ -2365,6 +2428,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-curriculum-chaves-integridade",
       "totalStudyMinutes": 0
     },
@@ -2381,6 +2445,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-4",
       "totalStudyMinutes": 0
     },
@@ -2397,6 +2462,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-9",
       "totalStudyMinutes": 0
     },
@@ -2413,6 +2479,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-8",
       "totalStudyMinutes": 0
     },
@@ -2429,6 +2496,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-10",
       "totalStudyMinutes": 0
     },
@@ -2445,6 +2513,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-8",
       "totalStudyMinutes": 0
     },
@@ -2461,6 +2530,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-9",
       "totalStudyMinutes": 0
     },
@@ -2477,6 +2547,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-10",
       "totalStudyMinutes": 0
     },
@@ -2493,6 +2564,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-10",
       "totalStudyMinutes": 0
     },
@@ -2509,6 +2581,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-7",
       "totalStudyMinutes": 0
     },
@@ -2525,6 +2598,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2541,6 +2615,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2557,6 +2632,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2573,6 +2649,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2589,6 +2666,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2605,6 +2683,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2621,6 +2700,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2637,6 +2717,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2653,6 +2734,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2669,6 +2751,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2685,6 +2768,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2701,6 +2785,7 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-topic-5",
       "totalStudyMinutes": 0
     },
@@ -2717,7 +2802,122 @@
       "startedLateByMinutes": 0,
       "status": "COMPLETED",
       "subjectId": "subject-database",
+      "topicEntries": [],
       "topicId": "subject-1-curriculum-indices",
+      "totalStudyMinutes": 0
+    },
+    {
+      "completedAt": "2026-09-13T20:32:54.420Z",
+      "correct": 0,
+      "date": "2026-09-13",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "973ba2eb-db0e-4992-aec6-c1ddb954381a",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "sessionContext": "REVIEW",
+      "startedLateByMinutes": 0,
+      "status": "COMPLETED",
+      "subjectId": "subject-database",
+      "topicEntries": [],
+      "topicId": "subject-1-topic-5",
+      "topicStateAtStart": "NOT_STARTED",
+      "totalStudyMinutes": 0
+    },
+    {
+      "completedAt": "2026-09-13T20:32:54.546Z",
+      "correct": 0,
+      "date": "2026-09-13",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "b63c9daf-26ec-4727-a6b4-2b323046ddde",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "sessionContext": "REVIEW",
+      "startedLateByMinutes": 0,
+      "status": "COMPLETED",
+      "subjectId": "subject-database",
+      "topicEntries": [],
+      "topicId": "subject-1-topic-7",
+      "topicStateAtStart": "NOT_STARTED",
+      "totalStudyMinutes": 0
+    },
+    {
+      "completedAt": "2026-09-13T20:32:54.897Z",
+      "correct": 0,
+      "date": "2026-09-13",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "008e4337-176b-4f70-b861-a43cf7261cd5",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "sessionContext": "REVIEW",
+      "startedLateByMinutes": 0,
+      "status": "COMPLETED",
+      "subjectId": "subject-database",
+      "topicEntries": [],
+      "topicId": "subject-1-topic-9",
+      "topicStateAtStart": "NOT_STARTED",
+      "totalStudyMinutes": 0
+    },
+    {
+      "completedAt": "2026-09-13T20:32:55.957Z",
+      "correct": 0,
+      "date": "2026-09-13",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "5f18c7ba-a3f5-43d4-986d-1f9eb97fedb0",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "sessionContext": "REVIEW",
+      "startedLateByMinutes": 0,
+      "status": "COMPLETED",
+      "subjectId": "subject-database",
+      "topicEntries": [],
+      "topicId": "subject-1-topic-5",
+      "topicStateAtStart": "NOT_STARTED",
+      "totalStudyMinutes": 0
+    },
+    {
+      "completedAt": "2026-09-13T20:32:56.079Z",
+      "correct": 0,
+      "date": "2026-09-13",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "4bac2c64-7ca3-4f03-982d-8890c0b8c47b",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "sessionContext": "REVIEW",
+      "startedLateByMinutes": 0,
+      "status": "COMPLETED",
+      "subjectId": "subject-database",
+      "topicEntries": [],
+      "topicId": "subject-1-topic-7",
+      "topicStateAtStart": "NOT_STARTED",
+      "totalStudyMinutes": 0
+    },
+    {
+      "completedAt": "2026-09-13T20:32:56.424Z",
+      "correct": 0,
+      "date": "2026-09-13",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "3a2f5805-0c95-47ab-a4c3-8a6bf885d8c9",
+      "minutes": 0,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "sessionContext": "REVIEW",
+      "startedLateByMinutes": 0,
+      "status": "COMPLETED",
+      "subjectId": "subject-database",
+      "topicEntries": [],
+      "topicId": "subject-1-topic-9",
+      "topicStateAtStart": "NOT_STARTED",
       "totalStudyMinutes": 0
     }
   ],
@@ -2742,19 +2942,19 @@
       "name": "Banco de Dados",
       "topics": [
         {
-          "correctCount": 1337700,
+          "correctCount": 7394868,
           "domain": 100,
           "id": "subject-1-curriculum-fundamentos-modelagem",
           "isOptional": false,
           "lastStudiedAt": "2026-07-27",
           "name": "Fundamentos e Modelagem",
           "nextReviewAt": "2026-08-03",
-          "questionCount": 1340248,
-          "reviewCount": 40180,
-          "reviewMinutes": 397488,
+          "questionCount": 7400952,
+          "reviewCount": 223236,
+          "reviewMinutes": 2222064,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 2522912
+          "theoryMinutes": 13916448
         },
         {
           "correctCount": 0,
@@ -2843,7 +3043,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 13116,
+          "correctCount": 31068,
           "domain": 100,
           "id": "subject-1-topic-1",
           "isOptional": false,
@@ -2851,12 +3051,12 @@
           "name": "Modelo Relacional",
           "nextReviewAt": "2026-08-03",
           "parentTopicId": "subject-1-curriculum-fundamentos-modelagem",
-          "questionCount": 13125,
-          "reviewCount": 394,
-          "reviewMinutes": 3940,
+          "questionCount": 31077,
+          "reviewCount": 938,
+          "reviewMinutes": 9380,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 24613
+          "theoryMinutes": 58341
         },
         {
           "correctCount": 0,
@@ -3228,19 +3428,19 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 3769962,
+          "correctCount": 21413106,
           "domain": 100,
           "id": "subject-1-curriculum-sql",
           "isOptional": false,
           "lastStudiedAt": "2026-09-13",
           "name": "SQL",
           "nextReviewAt": "2026-07-27",
-          "questionCount": 4002026,
-          "reviewCount": 36370,
-          "reviewMinutes": 1158360,
+          "questionCount": 22730994,
+          "reviewCount": 255546,
+          "reviewMinutes": 6584760,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 10548426
+          "theoryMinutes": 59875218
         },
         {
           "correctCount": 0,
@@ -3383,7 +3583,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 36652,
+          "correctCount": 87516,
           "domain": 100,
           "id": "subject-1-curriculum-dql",
           "isOptional": false,
@@ -3391,24 +3591,24 @@
           "name": "DQL",
           "nextReviewAt": "2026-08-03",
           "parentTopicId": "subject-1-curriculum-sql",
-          "questionCount": 39004,
-          "reviewCount": 384,
-          "reviewMinutes": 11760,
+          "questionCount": 93132,
+          "reviewCount": 1296,
+          "reviewMinutes": 28080,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 99960
+          "theoryMinutes": 238680
         },
         {
           "correctCount": 187,
-          "domain": 0,
+          "domain": 25,
           "id": "subject-1-topic-5",
           "isOptional": false,
-          "lastStudiedAt": "2026-08-08",
+          "lastStudiedAt": "2026-09-13",
           "name": "SELECT",
-          "nextReviewAt": "2026-09-14",
+          "nextReviewAt": "2026-09-16",
           "parentTopicId": "subject-1-curriculum-dql",
           "questionCount": 199,
-          "reviewCount": 0,
+          "reviewCount": 2,
           "reviewMinutes": 0,
           "state": "NOT_STARTED",
           "studied": true,
@@ -3556,15 +3756,15 @@
         },
         {
           "correctCount": 0,
-          "domain": 23,
+          "domain": 49,
           "id": "subject-1-topic-7",
           "isOptional": false,
-          "lastStudiedAt": "2026-07-31",
+          "lastStudiedAt": "2026-09-13",
           "name": "GROUP BY",
-          "nextReviewAt": "2026-09-16",
+          "nextReviewAt": "2026-09-20",
           "parentTopicId": "subject-1-curriculum-dql",
           "questionCount": 0,
-          "reviewCount": 1,
+          "reviewCount": 3,
           "reviewMinutes": 60,
           "state": "NOT_STARTED",
           "studied": true,
@@ -3713,7 +3913,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 1577,
+          "correctCount": 3753,
           "domain": 65,
           "id": "subject-1-topic-8",
           "isOptional": false,
@@ -3721,12 +3921,12 @@
           "name": "Subconsultas",
           "nextReviewAt": "2026-07-31",
           "parentTopicId": "subject-1-curriculum-sql",
-          "questionCount": 1577,
-          "reviewCount": 20,
+          "questionCount": 3753,
+          "reviewCount": 180,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 6925
+          "theoryMinutes": 16445
         },
         {
           "correctCount": 0,
@@ -3774,15 +3974,15 @@
         },
         {
           "correctCount": 8,
-          "domain": 0,
+          "domain": 25,
           "id": "subject-1-topic-9",
           "isOptional": false,
-          "lastStudiedAt": "2026-07-30",
+          "lastStudiedAt": "2026-09-13",
           "name": "EXISTS e NOT EXISTS",
-          "nextReviewAt": "2026-09-14",
+          "nextReviewAt": "2026-09-16",
           "parentTopicId": "subject-1-topic-8",
           "questionCount": 8,
-          "reviewCount": 0,
+          "reviewCount": 2,
           "reviewMinutes": 0,
           "state": "NOT_STARTED",
           "studied": true,
@@ -3818,19 +4018,19 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 1568,
+          "correctCount": 3744,
           "domain": 0,
           "id": "subject-1-curriculum-objetos-banco",
           "isOptional": false,
           "lastStudiedAt": "2026-07-30",
           "name": "Objetos do Banco de Dados",
           "nextReviewAt": "2026-07-31",
-          "questionCount": 1568,
+          "questionCount": 3744,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 17052
+          "theoryMinutes": 40716
         },
         {
           "correctCount": 8,
@@ -13054,9 +13254,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-09-13T17:16:24.814Z",
+    "lastSyncAt": "2026-09-13T18:59:39.022Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 838,
-    "updatedAt": "2026-09-13T17:57:43.229Z"
+    "revision": 840,
+    "updatedAt": "2026-09-13T20:32:56.465Z"
   }
 }
