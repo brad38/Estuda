@@ -369,7 +369,7 @@
       "theoryMinutes": 3
     }
   ],
-  "activeTab": "today",
+  "activeTab": "subjects",
   "availability": {
     "dateOverrides": {
       "2026-07-01": 0,
@@ -2742,19 +2742,19 @@
       "name": "Banco de Dados",
       "topics": [
         {
-          "correctCount": 991368,
+          "correctCount": 1337700,
           "domain": 100,
           "id": "subject-1-curriculum-fundamentos-modelagem",
           "isOptional": false,
           "lastStudiedAt": "2026-07-27",
           "name": "Fundamentos e Modelagem",
           "nextReviewAt": "2026-08-03",
-          "questionCount": 993552,
-          "reviewCount": 29736,
-          "reviewMinutes": 293664,
+          "questionCount": 1340248,
+          "reviewCount": 40180,
+          "reviewMinutes": 397488,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 1870848
+          "theoryMinutes": 2522912
         },
         {
           "correctCount": 0,
@@ -2843,7 +2843,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 11268,
+          "correctCount": 13116,
           "domain": 100,
           "id": "subject-1-topic-1",
           "isOptional": false,
@@ -2851,12 +2851,12 @@
           "name": "Modelo Relacional",
           "nextReviewAt": "2026-08-03",
           "parentTopicId": "subject-1-curriculum-fundamentos-modelagem",
-          "questionCount": 11277,
-          "reviewCount": 338,
-          "reviewMinutes": 3380,
+          "questionCount": 13125,
+          "reviewCount": 394,
+          "reviewMinutes": 3940,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 21141
+          "theoryMinutes": 24613
         },
         {
           "correctCount": 0,
@@ -3025,8 +3025,8 @@
           "questionCount": 12,
           "reviewCount": 3,
           "reviewMinutes": 20,
-          "state": "LEARNING",
-          "studied": false,
+          "state": "CONTENT_SEEN",
+          "studied": true,
           "theoryMinutes": 75
         },
         {
@@ -3039,7 +3039,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "CONTENT_SEEN",
           "studied": true,
           "theoryMinutes": 0
         },
@@ -3053,7 +3053,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "CONTENT_SEEN",
           "studied": true,
           "theoryMinutes": 0
         },
@@ -3067,7 +3067,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "CONTENT_SEEN",
           "studied": true,
           "theoryMinutes": 0
         },
@@ -3081,7 +3081,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "CONTENT_SEEN",
           "studied": true,
           "theoryMinutes": 0
         },
@@ -3095,7 +3095,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "CONTENT_SEEN",
           "studied": true,
           "theoryMinutes": 0
         },
@@ -3109,8 +3109,8 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
-          "studied": false,
+          "state": "CONTENT_SEEN",
+          "studied": true,
           "theoryMinutes": 0
         },
         {
@@ -3228,19 +3228,19 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 2772756,
+          "correctCount": 3769962,
           "domain": 100,
           "id": "subject-1-curriculum-sql",
           "isOptional": false,
           "lastStudiedAt": "2026-09-13",
           "name": "SQL",
           "nextReviewAt": "2026-07-27",
-          "questionCount": 2943444,
-          "reviewCount": 25436,
-          "reviewMinutes": 851760,
+          "questionCount": 4002026,
+          "reviewCount": 36370,
+          "reviewMinutes": 1158360,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 7759668
+          "theoryMinutes": 10548426
         },
         {
           "correctCount": 0,
@@ -3383,7 +3383,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 31416,
+          "correctCount": 36652,
           "domain": 100,
           "id": "subject-1-curriculum-dql",
           "isOptional": false,
@@ -3391,12 +3391,12 @@
           "name": "DQL",
           "nextReviewAt": "2026-08-03",
           "parentTopicId": "subject-1-curriculum-sql",
-          "questionCount": 33432,
-          "reviewCount": 356,
-          "reviewMinutes": 10080,
+          "questionCount": 39004,
+          "reviewCount": 384,
+          "reviewMinutes": 11760,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 85680
+          "theoryMinutes": 99960
         },
         {
           "correctCount": 187,
@@ -3713,7 +3713,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 1353,
+          "correctCount": 1577,
           "domain": 65,
           "id": "subject-1-topic-8",
           "isOptional": false,
@@ -3721,12 +3721,12 @@
           "name": "Subconsultas",
           "nextReviewAt": "2026-07-31",
           "parentTopicId": "subject-1-curriculum-sql",
-          "questionCount": 1353,
+          "questionCount": 1577,
           "reviewCount": 20,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 5945
+          "theoryMinutes": 6925
         },
         {
           "correctCount": 0,
@@ -3818,19 +3818,19 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 1344,
+          "correctCount": 1568,
           "domain": 0,
           "id": "subject-1-curriculum-objetos-banco",
           "isOptional": false,
           "lastStudiedAt": "2026-07-30",
           "name": "Objetos do Banco de Dados",
           "nextReviewAt": "2026-07-31",
-          "questionCount": 1344,
+          "questionCount": 1568,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 14616
+          "theoryMinutes": 17052
         },
         {
           "correctCount": 8,
@@ -13054,9 +13054,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-09-13T16:14:18.636Z",
+    "lastSyncAt": "2026-09-13T17:16:24.814Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 837,
-    "updatedAt": "2026-09-13T17:00:35.736Z"
+    "revision": 838,
+    "updatedAt": "2026-09-13T17:57:43.229Z"
   }
 }
