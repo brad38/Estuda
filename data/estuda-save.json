@@ -313,7 +313,26 @@
     }
   ],
   "accountingConflicts": [],
-  "accountingGroups": [],
+  "accountingGroups": [
+    {
+      "baseRevision": 2,
+      "createdAt": "2026-09-13T16:09:30.234Z",
+      "date": "2026-09-13",
+      "deletedAt": "2026-09-13T16:14:15.059Z",
+      "exerciseMinutes": 0,
+      "id": "916905df-f62c-431a-9f80-2fedf546cf13",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-09-13T16:14:15.059Z",
+      "ownerId": "4ba44b55-10e9-4e0c-a6da-732abbb827f3",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 3,
+      "source": "SESSION",
+      "sourceSessionId": "4ba44b55-10e9-4e0c-a6da-732abbb827f3",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 45
+    }
+  ],
   "activeTab": "today",
   "availability": {
     "dateOverrides": {
@@ -2679,17 +2698,19 @@
       "name": "Banco de Dados",
       "topics": [
         {
-          "correctCount": 0,
-          "domain": 0,
+          "correctCount": 4968,
+          "domain": 100,
           "id": "subject-1-curriculum-fundamentos-modelagem",
           "isOptional": false,
+          "lastStudiedAt": "2026-07-27",
           "name": "Fundamentos e Modelagem",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "nextReviewAt": "2026-08-03",
+          "questionCount": 5072,
+          "reviewCount": 136,
+          "reviewMinutes": 1184,
+          "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 0
+          "theoryMinutes": 9728
         },
         {
           "correctCount": 0,
@@ -2717,8 +2738,8 @@
           "questionCount": 148,
           "reviewCount": 6,
           "reviewMinutes": 38,
-          "state": "NOT_STARTED",
-          "studied": true,
+          "state": "LEARNING",
+          "studied": false,
           "theoryMinutes": 349
         },
         {
@@ -2778,20 +2799,20 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 180,
-          "domain": 28,
+          "correctCount": 708,
+          "domain": 91,
           "id": "subject-1-topic-1",
           "isOptional": false,
           "lastStudiedAt": "2026-07-27",
           "name": "Modelo Relacional",
           "nextReviewAt": "2026-08-03",
           "parentTopicId": "subject-1-curriculum-fundamentos-modelagem",
-          "questionCount": 189,
-          "reviewCount": 2,
-          "reviewMinutes": 20,
-          "state": "NOT_STARTED",
+          "questionCount": 717,
+          "reviewCount": 18,
+          "reviewMinutes": 180,
+          "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 309
+          "theoryMinutes": 1301
         },
         {
           "correctCount": 0,
@@ -2833,8 +2854,8 @@
           "questionCount": 66,
           "reviewCount": 2,
           "reviewMinutes": 20,
-          "state": "NOT_STARTED",
-          "studied": true,
+          "state": "LEARNING",
+          "studied": false,
           "theoryMinutes": 124
         },
         {
@@ -2960,8 +2981,8 @@
           "questionCount": 12,
           "reviewCount": 3,
           "reviewMinutes": 20,
-          "state": "NOT_STARTED",
-          "studied": true,
+          "state": "LEARNING",
+          "studied": false,
           "theoryMinutes": 75
         },
         {
@@ -3058,7 +3079,7 @@
           "reviewCount": 0,
           "reviewMinutes": 0,
           "state": "NOT_STARTED",
-          "studied": true,
+          "studied": false,
           "theoryMinutes": 0
         },
         {
@@ -3160,17 +3181,19 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 0,
-          "domain": 0,
+          "correctCount": 7236,
+          "domain": 100,
           "id": "subject-1-curriculum-sql",
           "isOptional": false,
+          "lastStudiedAt": "2026-08-08",
           "name": "SQL",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "state": "NOT_STARTED",
-          "studied": true,
-          "theoryMinutes": 0
+          "nextReviewAt": "2026-07-27",
+          "questionCount": 7684,
+          "reviewCount": 36,
+          "reviewMinutes": 2160,
+          "state": "LEARNING",
+          "studied": false,
+          "theoryMinutes": 20708
         },
         {
           "correctCount": 0,
@@ -3267,7 +3290,7 @@
           "reviewCount": 0,
           "reviewMinutes": 0,
           "state": "NOT_STARTED",
-          "studied": true,
+          "studied": false,
           "theoryMinutes": 0
         },
         {
@@ -3313,18 +3336,20 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 0,
-          "domain": 0,
+          "correctCount": 1496,
+          "domain": 100,
           "id": "subject-1-curriculum-dql",
           "isOptional": false,
+          "lastStudiedAt": "2026-08-08",
           "name": "DQL",
+          "nextReviewAt": "2026-08-03",
           "parentTopicId": "subject-1-curriculum-sql",
-          "questionCount": 0,
-          "reviewCount": 0,
-          "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "questionCount": 1592,
+          "reviewCount": 8,
+          "reviewMinutes": 480,
+          "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 0
+          "theoryMinutes": 4080
         },
         {
           "correctCount": 187,
@@ -3395,7 +3420,7 @@
           "reviewCount": 0,
           "reviewMinutes": 0,
           "state": "NOT_STARTED",
-          "studied": true,
+          "studied": false,
           "theoryMinutes": 0
         },
         {
@@ -3552,8 +3577,8 @@
           "questionCount": 20,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
-          "studied": true,
+          "state": "LEARNING",
+          "studied": false,
           "theoryMinutes": 71
         },
         {
@@ -3641,7 +3666,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 9,
+          "correctCount": 73,
           "domain": 0,
           "id": "subject-1-topic-8",
           "isOptional": false,
@@ -3649,12 +3674,12 @@
           "name": "Subconsultas",
           "nextReviewAt": "2026-07-31",
           "parentTopicId": "subject-1-curriculum-sql",
-          "questionCount": 9,
+          "questionCount": 73,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
-          "studied": true,
-          "theoryMinutes": 65
+          "state": "LEARNING",
+          "studied": false,
+          "theoryMinutes": 345
         },
         {
           "correctCount": 0,
@@ -3746,17 +3771,19 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 0,
+          "correctCount": 64,
           "domain": 0,
           "id": "subject-1-curriculum-objetos-banco",
           "isOptional": false,
+          "lastStudiedAt": "2026-07-30",
           "name": "Objetos do Banco de Dados",
-          "questionCount": 0,
+          "nextReviewAt": "2026-07-31",
+          "questionCount": 64,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 0
+          "theoryMinutes": 696
         },
         {
           "correctCount": 8,
@@ -3786,7 +3813,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "LEARNING",
           "studied": false,
           "theoryMinutes": 36
         },
@@ -12977,9 +13004,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-09-13T07:46:01.183Z",
+    "lastSyncAt": "2026-09-13T15:02:30.769Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 819,
-    "updatedAt": "2026-09-13T07:46:30.766Z"
+    "revision": 823,
+    "updatedAt": "2026-09-13T16:14:15.059Z"
   }
 }
