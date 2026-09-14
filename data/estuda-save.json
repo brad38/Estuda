@@ -1246,7 +1246,7 @@
       "topicStateAtStart": "NOT_STARTED"
     },
     {
-      "actualStart": "2026-09-14T15:40:43.540Z",
+      "actualStart": "2026-09-14T19:05:22.001Z",
       "executionOrder": 2,
       "id": "planned-2026-09-14-2-subject-architecture-subject-architecture-curriculum-1-1",
       "plannedDate": "2026-09-14",
@@ -13143,9 +13143,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-09-14T04:16:08.870Z",
-    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 893,
-    "updatedAt": "2026-09-14T15:40:45.705Z"
+    "lastSyncAt": "2026-09-14T16:05:59.411Z",
+    "lastSyncStatus": "Falha ao sincronizar: timeout",
+    "revision": 911,
+    "updatedAt": "2026-09-14T19:05:26.356Z"
   }
 }
