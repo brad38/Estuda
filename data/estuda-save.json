@@ -1246,7 +1246,7 @@
       "topicStateAtStart": "NOT_STARTED"
     },
     {
-      "actualStart": "2026-09-14T19:05:22.001Z",
+      "actualStart": "2026-09-15T00:20:12.913Z",
       "executionOrder": 2,
       "id": "planned-2026-09-14-2-subject-architecture-subject-architecture-curriculum-1-1",
       "plannedDate": "2026-09-14",
@@ -1254,7 +1254,7 @@
       "plannedMinutes": 45,
       "plannedStart": "18:00",
       "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
+      "startedLateByMinutes": 200,
       "status": "PLANNED",
       "subjectId": "subject-architecture",
       "topicId": "subject-architecture-curriculum-1-1",
@@ -6500,7 +6500,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "LEARNING",
           "studied": false,
           "theoryMinutes": 0
         },
@@ -13143,9 +13143,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-09-14T16:05:59.411Z",
-    "lastSyncStatus": "Falha ao sincronizar: timeout",
-    "revision": 911,
-    "updatedAt": "2026-09-14T19:05:26.356Z"
+    "lastSyncAt": "2026-09-14T20:25:31.107Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 918,
+    "updatedAt": "2026-09-15T00:20:37.452Z"
   }
 }
