@@ -1706,16 +1706,17 @@
       "topicStateAtStart": "CONTENT_SEEN"
     },
     {
+      "actualStart": "2026-10-03T17:01:12.529Z",
       "executionOrder": 8,
       "id": "planned-2026-10-03-8-subject-poo-subject-poo-curriculum-1-1",
       "plannedDate": "2026-10-03",
       "plannedMinutes": 45,
       "sessionContext": "LEARNING",
       "startedLateByMinutes": 0,
-      "status": "PLANNED",
+      "status": "PAUSED",
       "subjectId": "subject-poo",
       "topicId": "subject-poo-curriculum-1-1",
-      "topicStateAtStart": "NOT_STARTED"
+      "topicStateAtStart": "LEARNING"
     },
     {
       "executionOrder": 9,
@@ -1727,6 +1728,126 @@
       "status": "PLANNED",
       "subjectId": "subject-portuguese",
       "topicId": "subject-8-topic-2",
+      "topicStateAtStart": "NOT_STARTED"
+    },
+    {
+      "executionOrder": 2,
+      "id": "planned-2026-10-12-2-subject-compliance-subject-6-topic-2",
+      "plannedDate": "2026-10-12",
+      "plannedMinutes": 45,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-compliance",
+      "topicId": "subject-6-topic-2",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 3,
+      "id": "planned-2026-10-12-3-subject-english-subject-english-curriculum-1-1",
+      "plannedDate": "2026-10-12",
+      "plannedMinutes": 45,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-english",
+      "topicId": "subject-english-curriculum-1-1",
+      "topicStateAtStart": "NOT_STARTED"
+    },
+    {
+      "executionOrder": 4,
+      "id": "planned-2026-10-14-4-subject-infrastructure-subject-infrastructure-curriculum-1-1",
+      "plannedDate": "2026-10-14",
+      "plannedMinutes": 45,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-infrastructure",
+      "topicId": "subject-infrastructure-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 5,
+      "id": "planned-2026-10-14-5-subject-it-management-subject-it-management-curriculum-1-1",
+      "plannedDate": "2026-10-14",
+      "plannedMinutes": 45,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-it-management",
+      "topicId": "subject-it-management-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 6,
+      "id": "planned-2026-10-15-6-subject-networks-subject-networks-curriculum-10-1",
+      "plannedDate": "2026-10-15",
+      "plannedMinutes": 45,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-networks",
+      "topicId": "subject-networks-curriculum-10-1",
+      "topicStateAtStart": "NOT_STARTED"
+    },
+    {
+      "executionOrder": 7,
+      "id": "planned-2026-10-15-7-subject-poo-subject-poo-curriculum-1-1",
+      "plannedDate": "2026-10-15",
+      "plannedMinutes": 45,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-poo",
+      "topicId": "subject-poo-curriculum-1-1",
+      "topicStateAtStart": "NOT_STARTED"
+    },
+    {
+      "executionOrder": 8,
+      "id": "planned-2026-10-17-8-subject-portuguese-subject-8-topic-2",
+      "plannedDate": "2026-10-17",
+      "plannedMinutes": 45,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-portuguese",
+      "topicId": "subject-8-topic-2",
+      "topicStateAtStart": "NOT_STARTED"
+    },
+    {
+      "executionOrder": 9,
+      "id": "planned-2026-10-17-9-subject-service-innovation-subject-7-topic-1",
+      "plannedDate": "2026-10-17",
+      "plannedMinutes": 45,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-service-innovation",
+      "topicId": "subject-7-topic-1",
+      "topicStateAtStart": "NOT_STARTED"
+    },
+    {
+      "executionOrder": 0,
+      "id": "planned-2026-10-11-0-subject-architecture-subject-architecture-curriculum-1-1",
+      "plannedDate": "2026-10-11",
+      "plannedMinutes": 45,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-architecture",
+      "topicId": "subject-architecture-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 1,
+      "id": "planned-2026-10-11-1-subject-banking-subject-5-topic-10",
+      "plannedDate": "2026-10-11",
+      "plannedMinutes": 45,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-banking",
+      "topicId": "subject-5-topic-10",
       "topicStateAtStart": "NOT_STARTED"
     }
   ],
@@ -8716,7 +8837,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "LEARNING",
           "studied": false,
           "theoryMinutes": 0
         },
@@ -13534,9 +13655,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-01T05:07:47.648Z",
-    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 1052,
-    "updatedAt": "2026-10-01T05:30:19.855Z"
+    "lastSyncAt": "2026-10-03T14:45:06.714Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 1063,
+    "updatedAt": "2026-10-03T17:01:13.456Z"
   }
 }
