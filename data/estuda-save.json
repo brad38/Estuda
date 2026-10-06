@@ -476,7 +476,7 @@
       "theoryMinutes": 1
     }
   ],
-  "activeTab": "subjects",
+  "activeTab": "calendar",
   "availability": {
     "dateExceptions": {
       "2026-07-01": {
@@ -1822,6 +1822,30 @@
       "status": "PLANNED",
       "subjectId": "subject-banking",
       "topicId": "subject-5-topic-10",
+      "topicStateAtStart": "NOT_STARTED"
+    },
+    {
+      "executionOrder": 0,
+      "id": "manual-2026-10-06-d7bf2e13-7367-43b7-aca1-fba6a5a80aab",
+      "plannedDate": "2026-10-06",
+      "plannedMinutes": 60,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-database",
+      "topicId": "subject-database-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 1,
+      "id": "manual-2026-10-06-6a41c9f8-2a74-4b56-a9e3-59cc9aafa80e",
+      "plannedDate": "2026-10-06",
+      "plannedMinutes": 105,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-networks",
+      "topicId": "subject-networks-curriculum-2-2",
       "topicStateAtStart": "NOT_STARTED"
     },
     {
@@ -13823,9 +13847,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-03T17:02:18.645Z",
-    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 1144,
-    "updatedAt": "2026-10-04T20:11:56.368Z"
+    "lastSyncAt": "2026-10-06T19:18:14.984Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 1148,
+    "updatedAt": "2026-10-06T19:54:36.577Z"
   }
 }
