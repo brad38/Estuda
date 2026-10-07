@@ -474,9 +474,63 @@
       "source": "MANUAL",
       "state": "TOMBSTONED",
       "theoryMinutes": 1
+    },
+    {
+      "baseRevision": 2,
+      "createdAt": "2026-10-07T06:24:21.893Z",
+      "date": "2026-10-07",
+      "deletedAt": "2026-10-07T06:28:06.396Z",
+      "exerciseMinutes": 0,
+      "id": "550829aa-8e30-432a-9404-fa141bbcb9ab",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-10-07T06:28:06.396Z",
+      "ownerId": "cca8b032-65f6-4ba0-8c35-01862123ed16",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 3,
+      "source": "SESSION",
+      "sourceSessionId": "cca8b032-65f6-4ba0-8c35-01862123ed16",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 1
+    },
+    {
+      "baseRevision": 2,
+      "createdAt": "2026-10-07T06:24:49.692Z",
+      "date": "2026-10-07",
+      "deletedAt": "2026-10-07T06:28:06.396Z",
+      "exerciseMinutes": 0,
+      "id": "cca324ff-7162-4bd8-a40e-0ee686e0b1cd",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-10-07T06:28:06.396Z",
+      "ownerId": "811471af-cca7-4f90-b998-02f404b266c0",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 3,
+      "source": "SESSION",
+      "sourceSessionId": "811471af-cca7-4f90-b998-02f404b266c0",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 1
+    },
+    {
+      "baseRevision": 2,
+      "createdAt": "2026-10-07T06:28:26.427Z",
+      "date": "2026-10-07",
+      "deletedAt": "2026-10-07T06:28:40.857Z",
+      "exerciseMinutes": 0,
+      "id": "838d47bb-9014-4e3c-bf7d-633bfe601e84",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-10-07T06:28:40.857Z",
+      "ownerId": "5bd086bc-6def-4202-a523-e1934cdcd7a1",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 3,
+      "source": "SESSION",
+      "sourceSessionId": "5bd086bc-6def-4202-a523-e1934cdcd7a1",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 1
     }
   ],
-  "activeTab": "today",
+  "activeTab": "calendar",
   "availability": {
     "dateExceptions": {
       "2026-07-01": {
@@ -1991,7 +2045,7 @@
       "topicStateAtStart": "LEARNING"
     },
     {
-      "executionOrder": 4,
+      "executionOrder": 5,
       "id": "planned-2026-10-07-4-subject-compliance-subject-6-topic-2",
       "plannedDate": "2026-10-07",
       "plannedExerciseMinutes": 0,
@@ -2005,7 +2059,7 @@
       "topicStateAtStart": "LEARNING"
     },
     {
-      "executionOrder": 5,
+      "executionOrder": 4,
       "id": "planned-2026-10-07-5-subject-english-subject-english-curriculum-1-1",
       "plannedDate": "2026-10-07",
       "plannedExerciseMinutes": 0,
@@ -2016,7 +2070,7 @@
       "status": "PLANNED",
       "subjectId": "subject-english",
       "topicId": "subject-english-curriculum-1-1",
-      "topicStateAtStart": "NOT_STARTED"
+      "topicStateAtStart": "LEARNING"
     },
     {
       "executionOrder": 6,
@@ -2215,7 +2269,7 @@
       "topicStateAtStart": "NOT_STARTED"
     }
   ],
-  "schemaVersion": 10,
+  "schemaVersion": 12,
   "sessions": [
     {
       "correct": 27,
@@ -12547,11 +12601,13 @@
           "domain": 0,
           "id": "subject-6-topic-1",
           "isOptional": false,
+          "lastStudiedAt": "2026-10-07",
           "name": "Lavagem de Dinheiro e Financiamento ao Terrorismo",
+          "nextReviewAt": "2026-10-08",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "LEARNING",
           "studied": false,
           "theoryMinutes": 0
         },
@@ -13647,11 +13703,13 @@
           "domain": 0,
           "id": "subject-8-topic-3",
           "isOptional": false,
+          "lastStudiedAt": "2026-10-07",
           "name": "Interpretação de Textos",
+          "nextReviewAt": "2026-10-08",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "LEARNING",
           "studied": false,
           "theoryMinutes": 0
         },
@@ -13665,7 +13723,7 @@
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "LEARNING",
           "studied": false,
           "theoryMinutes": 0
         },
@@ -14021,9 +14079,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-06T21:00:32.207Z",
+    "lastSyncAt": "2026-10-07T06:20:38.465Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 1158,
-    "updatedAt": "2026-10-06T21:29:44.784Z"
+    "revision": 1178,
+    "updatedAt": "2026-10-07T06:28:40.857Z"
   }
 }
