@@ -755,37 +755,39 @@
       "theoryMinutes": 36
     },
     {
-      "baseRevision": 0,
+      "baseRevision": 2,
       "createdAt": "2026-10-08T02:47:48.853Z",
       "date": "2026-10-07",
+      "deletedAt": "2026-10-08T16:52:50.483Z",
       "exerciseMinutes": 0,
       "id": "2d300e1f-8150-4564-b4a0-a7fc71d8b56c",
-      "lastValidRevision": 1,
-      "modifiedAt": "2026-10-08T02:47:48.853Z",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-10-08T16:52:50.483Z",
       "ownerId": "7cde2326-b5f4-478c-9759-e34fc4dfec91",
       "referenceIds": [],
       "reviewMinutes": 0,
-      "revision": 1,
+      "revision": 3,
       "source": "SESSION",
       "sourceSessionId": "7cde2326-b5f4-478c-9759-e34fc4dfec91",
-      "state": "ACTIVE",
+      "state": "TOMBSTONED",
       "theoryMinutes": 23
     },
     {
-      "baseRevision": 0,
+      "baseRevision": 2,
       "createdAt": "2026-10-08T02:47:48.874Z",
       "date": "2026-10-07",
+      "deletedAt": "2026-10-08T16:52:50.483Z",
       "exerciseMinutes": 0,
       "id": "275a4605-6d10-400d-ba35-319e79a14bed",
-      "lastValidRevision": 1,
-      "modifiedAt": "2026-10-08T02:47:48.874Z",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-10-08T16:52:50.483Z",
       "ownerId": "1c2f6c6c-442f-464f-99d1-7cedbe9a8286",
       "referenceIds": [],
       "reviewMinutes": 0,
-      "revision": 1,
+      "revision": 3,
       "source": "SESSION",
       "sourceSessionId": "1c2f6c6c-442f-464f-99d1-7cedbe9a8286",
-      "state": "ACTIVE",
+      "state": "TOMBSTONED",
       "theoryMinutes": 22
     }
   ],
@@ -1608,24 +1610,6 @@
       "id": "ddf50b00-4584-441a-9fa7-abfac4de2ef3",
       "reviewMinutes": 11,
       "theoryMinutes": 0
-    },
-    {
-      "createdAt": "2026-10-08T02:47:48.853Z",
-      "date": "2026-10-07",
-      "description": "",
-      "exerciseMinutes": 0,
-      "id": "7cde2326-b5f4-478c-9759-e34fc4dfec91",
-      "reviewMinutes": 0,
-      "theoryMinutes": 23
-    },
-    {
-      "createdAt": "2026-10-08T02:47:48.874Z",
-      "date": "2026-10-07",
-      "description": "",
-      "exerciseMinutes": 0,
-      "id": "1c2f6c6c-442f-464f-99d1-7cedbe9a8286",
-      "reviewMinutes": 0,
-      "theoryMinutes": 22
     }
   ],
   "lastPlan": {
@@ -4052,60 +4036,6 @@
       "topicEntries": [],
       "topicId": "subject-1-curriculum-indices",
       "totalStudyMinutes": 0
-    },
-    {
-      "completedAt": "2026-10-08T02:47:48.853Z",
-      "correct": 0,
-      "date": "2026-10-07",
-      "description": "",
-      "exerciseMinutes": 0,
-      "id": "7cde2326-b5f4-478c-9759-e34fc4dfec91",
-      "minutes": 23,
-      "questions": 0,
-      "reviewMinutes": 0,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "COMPLETED",
-      "subjectId": "subject-database",
-      "topicEntries": [
-        {
-          "completionDecision": "NOT_COMPLETED",
-          "sessionContext": "LEARNING",
-          "subjectId": "subject-database",
-          "topicId": "subject-database-curriculum-1-1",
-          "topicStateAtStart": "LEARNING"
-        }
-      ],
-      "topicId": "subject-database-curriculum-1-1",
-      "topicStateAtStart": "LEARNING",
-      "totalStudyMinutes": 23
-    },
-    {
-      "completedAt": "2026-10-08T02:47:48.874Z",
-      "correct": 0,
-      "date": "2026-10-07",
-      "description": "",
-      "exerciseMinutes": 0,
-      "id": "1c2f6c6c-442f-464f-99d1-7cedbe9a8286",
-      "minutes": 22,
-      "questions": 0,
-      "reviewMinutes": 0,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "COMPLETED",
-      "subjectId": "subject-database",
-      "topicEntries": [
-        {
-          "completionDecision": "NOT_COMPLETED",
-          "sessionContext": "LEARNING",
-          "subjectId": "subject-database",
-          "topicId": "subject-1-curriculum-mer-mapeamento",
-          "topicStateAtStart": "LEARNING"
-        }
-      ],
-      "topicId": "subject-1-curriculum-mer-mapeamento",
-      "topicStateAtStart": "LEARNING",
-      "totalStudyMinutes": 22
     }
   ],
   "settings": {
@@ -4129,35 +4059,33 @@
       "name": "Banco de Dados",
       "topics": [
         {
-          "correctCount": 28504476,
+          "correctCount": 28997316,
           "domain": 100,
           "id": "subject-1-curriculum-fundamentos-modelagem",
           "isOptional": false,
           "lastStudiedAt": "2026-10-07",
           "name": "Fundamentos e Modelagem",
           "nextReviewAt": "2026-08-03",
-          "questionCount": 28516488,
-          "reviewCount": 862092,
-          "reviewMinutes": 8600592,
+          "questionCount": 29009432,
+          "reviewCount": 877012,
+          "reviewMinutes": 8749616,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 53599664
+          "theoryMinutes": 54526088
         },
         {
           "correctCount": 0,
           "domain": 0,
           "id": "subject-database-curriculum-1-1",
           "isOptional": false,
-          "lastStudiedAt": "2026-10-07",
           "name": "Conceitos de Banco de Dados e SGBD",
-          "nextReviewAt": "2026-10-08",
           "parentTopicId": "subject-1-curriculum-fundamentos-modelagem",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 23
+          "theoryMinutes": 0
         },
         {
           "correctCount": 144,
@@ -4232,7 +4160,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 61164,
+          "correctCount": 61692,
           "domain": 100,
           "id": "subject-1-topic-1",
           "isOptional": false,
@@ -4240,12 +4168,12 @@
           "name": "Modelo Relacional",
           "nextReviewAt": "2026-08-03",
           "parentTopicId": "subject-1-curriculum-fundamentos-modelagem",
-          "questionCount": 61173,
-          "reviewCount": 1850,
-          "reviewMinutes": 18500,
+          "questionCount": 61701,
+          "reviewCount": 1866,
+          "reviewMinutes": 18660,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 114885
+          "theoryMinutes": 115877
         },
         {
           "correctCount": 0,
@@ -4394,16 +4322,14 @@
           "domain": 0,
           "id": "subject-1-curriculum-mer-mapeamento",
           "isOptional": false,
-          "lastStudiedAt": "2026-10-07",
           "name": "Mapeamento MER para o Modelo Relacional",
-          "nextReviewAt": "2026-10-08",
           "parentTopicId": "subject-1-curriculum-fundamentos-modelagem",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 22
+          "theoryMinutes": 0
         },
         {
           "correctCount": 12,
@@ -4619,19 +4545,19 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 83358198,
+          "correctCount": 84806874,
           "domain": 100,
           "id": "subject-1-curriculum-sql",
           "isOptional": false,
           "lastStudiedAt": "2026-09-13",
           "name": "SQL",
           "nextReviewAt": "2026-07-27",
-          "questionCount": 88488246,
-          "reviewCount": 1059748,
-          "reviewMinutes": 25641000,
+          "questionCount": 90026074,
+          "reviewCount": 1075720,
+          "reviewMinutes": 26086680,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 233031414
+          "theoryMinutes": 237080762
         },
         {
           "correctCount": 0,
@@ -4774,7 +4700,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 172788,
+          "correctCount": 174284,
           "domain": 100,
           "id": "subject-1-curriculum-dql",
           "isOptional": false,
@@ -4782,12 +4708,12 @@
           "name": "DQL",
           "nextReviewAt": "2026-08-03",
           "parentTopicId": "subject-1-curriculum-sql",
-          "questionCount": 183876,
-          "reviewCount": 1784,
-          "reviewMinutes": 55440,
+          "questionCount": 185468,
+          "reviewCount": 1792,
+          "reviewMinutes": 55920,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 471240
+          "theoryMinutes": 475320
         },
         {
           "correctCount": 187,
@@ -5104,7 +5030,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 7401,
+          "correctCount": 7465,
           "domain": 65,
           "id": "subject-1-topic-8",
           "isOptional": false,
@@ -5112,12 +5038,12 @@
           "name": "Subconsultas",
           "nextReviewAt": "2026-07-31",
           "parentTopicId": "subject-1-curriculum-sql",
-          "questionCount": 7401,
+          "questionCount": 7465,
           "reviewCount": 208,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 32405
+          "theoryMinutes": 32685
         },
         {
           "correctCount": 0,
@@ -5209,19 +5135,19 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 7392,
+          "correctCount": 7456,
           "domain": 0,
           "id": "subject-1-curriculum-objetos-banco",
           "isOptional": false,
           "lastStudiedAt": "2026-07-30",
           "name": "Objetos do Banco de Dados",
           "nextReviewAt": "2026-07-31",
-          "questionCount": 7392,
+          "questionCount": 7456,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 80388
+          "theoryMinutes": 81084
         },
         {
           "correctCount": 8,
@@ -14457,9 +14383,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-08T01:52:54.578Z",
+    "lastSyncAt": "2026-10-08T02:47:56.087Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 1292,
-    "updatedAt": "2026-10-08T02:47:48.874Z"
+    "revision": 1295,
+    "updatedAt": "2026-10-08T16:52:50.485Z"
   }
 }
