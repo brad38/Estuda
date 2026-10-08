@@ -1,5 +1,14 @@
 {
-  "accountingAdjustments": [],
+  "accountingAdjustments": [
+    {
+      "createdAt": "2026-10-08T02:32:46.864Z",
+      "date": "2026-10-07",
+      "deltaMinutes": 35,
+      "deviceId": "android",
+      "id": "692a1acf-3a90-4c4e-8fcb-34ffe3c1409f",
+      "reason": "USER_CORRECTION:sessionId=738a038b-7bb3-4894-a4c2-89531396ff9c:prevMinutes=1:prevQuestions=0:prevCorrect=0:newMinutes=36:newQuestions=0:newCorrect=0"
+    }
+  ],
   "accountingBaselines": [
     {
       "createdAt": "2026-09-10T19:08:47.727Z",
@@ -690,9 +699,97 @@
       "sourceSessionId": "ad7f9cd4-d637-4340-ba32-20a5fa07c576",
       "state": "TOMBSTONED",
       "theoryMinutes": 1
+    },
+    {
+      "baseRevision": 2,
+      "createdAt": "2026-10-08T01:55:24.862Z",
+      "date": "2026-10-07",
+      "deletedAt": "2026-10-08T01:57:41.687Z",
+      "exerciseMinutes": 0,
+      "id": "f332e119-1e82-4ca1-a81f-0655832ee904",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-10-08T01:57:41.687Z",
+      "ownerId": "1cea68b1-55b3-4f16-8efc-5ab8d2d14ee7",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 3,
+      "source": "SESSION",
+      "sourceSessionId": "1cea68b1-55b3-4f16-8efc-5ab8d2d14ee7",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 1
+    },
+    {
+      "baseRevision": 2,
+      "createdAt": "2026-10-08T01:57:51.354Z",
+      "date": "2026-10-07",
+      "deletedAt": "2026-10-08T01:58:17.501Z",
+      "exerciseMinutes": 0,
+      "id": "00b702fe-8d7a-45bf-a43c-527e13c2eb52",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-10-08T01:58:17.501Z",
+      "ownerId": "a3e30b2d-705f-4c65-ba17-ce07a707746e",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 3,
+      "source": "SESSION",
+      "sourceSessionId": "a3e30b2d-705f-4c65-ba17-ce07a707746e",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 1
+    },
+    {
+      "baseRevision": 3,
+      "createdAt": "2026-10-08T02:31:52.676Z",
+      "date": "2026-10-07",
+      "deletedAt": "2026-10-08T02:33:14.028Z",
+      "exerciseMinutes": 0,
+      "id": "73db6ad7-cbae-42dd-bbbf-35c94b516dc7",
+      "lastValidRevision": 3,
+      "modifiedAt": "2026-10-08T02:33:14.028Z",
+      "ownerId": "738a038b-7bb3-4894-a4c2-89531396ff9c",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 4,
+      "source": "SESSION",
+      "sourceSessionId": "738a038b-7bb3-4894-a4c2-89531396ff9c",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 36
+    },
+    {
+      "baseRevision": 0,
+      "createdAt": "2026-10-08T02:47:48.853Z",
+      "date": "2026-10-07",
+      "exerciseMinutes": 0,
+      "id": "2d300e1f-8150-4564-b4a0-a7fc71d8b56c",
+      "lastValidRevision": 1,
+      "modifiedAt": "2026-10-08T02:47:48.853Z",
+      "ownerId": "7cde2326-b5f4-478c-9759-e34fc4dfec91",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 1,
+      "source": "SESSION",
+      "sourceSessionId": "7cde2326-b5f4-478c-9759-e34fc4dfec91",
+      "state": "ACTIVE",
+      "theoryMinutes": 23
+    },
+    {
+      "baseRevision": 0,
+      "createdAt": "2026-10-08T02:47:48.874Z",
+      "date": "2026-10-07",
+      "exerciseMinutes": 0,
+      "id": "275a4605-6d10-400d-ba35-319e79a14bed",
+      "lastValidRevision": 1,
+      "modifiedAt": "2026-10-08T02:47:48.874Z",
+      "ownerId": "1c2f6c6c-442f-464f-99d1-7cedbe9a8286",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 1,
+      "source": "SESSION",
+      "sourceSessionId": "1c2f6c6c-442f-464f-99d1-7cedbe9a8286",
+      "state": "ACTIVE",
+      "theoryMinutes": 22
     }
   ],
-  "activeTab": "today",
+  "activeTab": "calendar",
   "availability": {
     "dateExceptions": {
       "2026-07-01": {
@@ -1511,6 +1608,24 @@
       "id": "ddf50b00-4584-441a-9fa7-abfac4de2ef3",
       "reviewMinutes": 11,
       "theoryMinutes": 0
+    },
+    {
+      "createdAt": "2026-10-08T02:47:48.853Z",
+      "date": "2026-10-07",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "7cde2326-b5f4-478c-9759-e34fc4dfec91",
+      "reviewMinutes": 0,
+      "theoryMinutes": 23
+    },
+    {
+      "createdAt": "2026-10-08T02:47:48.874Z",
+      "date": "2026-10-07",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "1c2f6c6c-442f-464f-99d1-7cedbe9a8286",
+      "reviewMinutes": 0,
+      "theoryMinutes": 22
     }
   ],
   "lastPlan": {
@@ -3937,6 +4052,60 @@
       "topicEntries": [],
       "topicId": "subject-1-curriculum-indices",
       "totalStudyMinutes": 0
+    },
+    {
+      "completedAt": "2026-10-08T02:47:48.853Z",
+      "correct": 0,
+      "date": "2026-10-07",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "7cde2326-b5f4-478c-9759-e34fc4dfec91",
+      "minutes": 23,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "COMPLETED",
+      "subjectId": "subject-database",
+      "topicEntries": [
+        {
+          "completionDecision": "NOT_COMPLETED",
+          "sessionContext": "LEARNING",
+          "subjectId": "subject-database",
+          "topicId": "subject-database-curriculum-1-1",
+          "topicStateAtStart": "LEARNING"
+        }
+      ],
+      "topicId": "subject-database-curriculum-1-1",
+      "topicStateAtStart": "LEARNING",
+      "totalStudyMinutes": 23
+    },
+    {
+      "completedAt": "2026-10-08T02:47:48.874Z",
+      "correct": 0,
+      "date": "2026-10-07",
+      "description": "",
+      "exerciseMinutes": 0,
+      "id": "1c2f6c6c-442f-464f-99d1-7cedbe9a8286",
+      "minutes": 22,
+      "questions": 0,
+      "reviewMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "COMPLETED",
+      "subjectId": "subject-database",
+      "topicEntries": [
+        {
+          "completionDecision": "NOT_COMPLETED",
+          "sessionContext": "LEARNING",
+          "subjectId": "subject-database",
+          "topicId": "subject-1-curriculum-mer-mapeamento",
+          "topicStateAtStart": "LEARNING"
+        }
+      ],
+      "topicId": "subject-1-curriculum-mer-mapeamento",
+      "topicStateAtStart": "LEARNING",
+      "totalStudyMinutes": 22
     }
   ],
   "settings": {
@@ -3960,33 +4129,35 @@
       "name": "Banco de Dados",
       "topics": [
         {
-          "correctCount": 28015860,
+          "correctCount": 28504476,
           "domain": 100,
           "id": "subject-1-curriculum-fundamentos-modelagem",
           "isOptional": false,
-          "lastStudiedAt": "2026-07-27",
+          "lastStudiedAt": "2026-10-07",
           "name": "Fundamentos e Modelagem",
           "nextReviewAt": "2026-08-03",
-          "questionCount": 28027768,
-          "reviewCount": 847300,
-          "reviewMinutes": 8452848,
+          "questionCount": 28516488,
+          "reviewCount": 862092,
+          "reviewMinutes": 8600592,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 52680992
+          "theoryMinutes": 53599664
         },
         {
           "correctCount": 0,
           "domain": 0,
           "id": "subject-database-curriculum-1-1",
           "isOptional": false,
+          "lastStudiedAt": "2026-10-07",
           "name": "Conceitos de Banco de Dados e SGBD",
+          "nextReviewAt": "2026-10-08",
           "parentTopicId": "subject-1-curriculum-fundamentos-modelagem",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 0
+          "theoryMinutes": 23
         },
         {
           "correctCount": 144,
@@ -4061,7 +4232,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 60636,
+          "correctCount": 61164,
           "domain": 100,
           "id": "subject-1-topic-1",
           "isOptional": false,
@@ -4069,12 +4240,12 @@
           "name": "Modelo Relacional",
           "nextReviewAt": "2026-08-03",
           "parentTopicId": "subject-1-curriculum-fundamentos-modelagem",
-          "questionCount": 60645,
-          "reviewCount": 1834,
-          "reviewMinutes": 18340,
+          "questionCount": 61173,
+          "reviewCount": 1850,
+          "reviewMinutes": 18500,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 113893
+          "theoryMinutes": 114885
         },
         {
           "correctCount": 0,
@@ -4223,14 +4394,16 @@
           "domain": 0,
           "id": "subject-1-curriculum-mer-mapeamento",
           "isOptional": false,
+          "lastStudiedAt": "2026-10-07",
           "name": "Mapeamento MER para o Modelo Relacional",
+          "nextReviewAt": "2026-10-08",
           "parentTopicId": "subject-1-curriculum-fundamentos-modelagem",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 0
+          "theoryMinutes": 22
         },
         {
           "correctCount": 12,
@@ -4446,19 +4619,19 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 81922002,
+          "correctCount": 83358198,
           "domain": 100,
           "id": "subject-1-curriculum-sql",
           "isOptional": false,
           "lastStudiedAt": "2026-09-13",
           "name": "SQL",
           "nextReviewAt": "2026-07-27",
-          "questionCount": 86963666,
-          "reviewCount": 1043840,
-          "reviewMinutes": 25199160,
+          "questionCount": 88488246,
+          "reviewCount": 1059748,
+          "reviewMinutes": 25641000,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 229016946
+          "theoryMinutes": 233031414
         },
         {
           "correctCount": 0,
@@ -4601,7 +4774,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 171292,
+          "correctCount": 172788,
           "domain": 100,
           "id": "subject-1-curriculum-dql",
           "isOptional": false,
@@ -4609,12 +4782,12 @@
           "name": "DQL",
           "nextReviewAt": "2026-08-03",
           "parentTopicId": "subject-1-curriculum-sql",
-          "questionCount": 182284,
-          "reviewCount": 1776,
-          "reviewMinutes": 54960,
+          "questionCount": 183876,
+          "reviewCount": 1784,
+          "reviewMinutes": 55440,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 467160
+          "theoryMinutes": 471240
         },
         {
           "correctCount": 187,
@@ -4931,7 +5104,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 7337,
+          "correctCount": 7401,
           "domain": 65,
           "id": "subject-1-topic-8",
           "isOptional": false,
@@ -4939,12 +5112,12 @@
           "name": "Subconsultas",
           "nextReviewAt": "2026-07-31",
           "parentTopicId": "subject-1-curriculum-sql",
-          "questionCount": 7337,
+          "questionCount": 7401,
           "reviewCount": 208,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 32125
+          "theoryMinutes": 32405
         },
         {
           "correctCount": 0,
@@ -5036,19 +5209,19 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 7328,
+          "correctCount": 7392,
           "domain": 0,
           "id": "subject-1-curriculum-objetos-banco",
           "isOptional": false,
           "lastStudiedAt": "2026-07-30",
           "name": "Objetos do Banco de Dados",
           "nextReviewAt": "2026-07-31",
-          "questionCount": 7328,
+          "questionCount": 7392,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 79692
+          "theoryMinutes": 80388
         },
         {
           "correctCount": 8,
@@ -14284,9 +14457,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-07T20:58:12.908Z",
-    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 1270,
-    "updatedAt": "2026-10-08T00:31:06.554Z"
+    "lastSyncAt": "2026-10-08T01:52:54.578Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 1292,
+    "updatedAt": "2026-10-08T02:47:48.874Z"
   }
 }
