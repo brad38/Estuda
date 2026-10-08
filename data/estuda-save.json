@@ -672,9 +672,27 @@
       "sourceSessionId": "6623dc8a-2b8f-4373-bdb8-498e60b97dfd",
       "state": "TOMBSTONED",
       "theoryMinutes": 0
+    },
+    {
+      "baseRevision": 2,
+      "createdAt": "2026-10-08T00:25:51.373Z",
+      "date": "2026-10-07",
+      "deletedAt": "2026-10-08T00:26:41.048Z",
+      "exerciseMinutes": 0,
+      "id": "9769eba3-0c62-4aa1-a6c5-075bba637a0f",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-10-08T00:26:41.048Z",
+      "ownerId": "ad7f9cd4-d637-4340-ba32-20a5fa07c576",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 3,
+      "source": "SESSION",
+      "sourceSessionId": "ad7f9cd4-d637-4340-ba32-20a5fa07c576",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 1
     }
   ],
-  "activeTab": "calendar",
+  "activeTab": "today",
   "availability": {
     "dateExceptions": {
       "2026-07-01": {
@@ -809,7 +827,6 @@
       "2026-07-31": 60,
       "2026-08-04": 60,
       "2026-08-07": 60,
-      "2026-10-07": 1,
       "2026-10-08": 1
     },
     "datePlanOverrides": {
@@ -1505,6 +1522,21 @@
   "minutesToday": 150,
   "plannedClasses": [
     {
+      "executionOrder": 0,
+      "id": "planned-2026-09-06-0-subject-database-subject-1-curriculum-algebra-juncao",
+      "plannedDate": "2026-09-06",
+      "plannedEnd": "18:45",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedStart": "18:00",
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-database",
+      "topicId": "subject-1-curriculum-algebra-juncao"
+    },
+    {
       "executionOrder": 1,
       "id": "planned-2026-09-06-1-subject-algorithms-subject-algorithms-curriculum-1-1",
       "plannedDate": "2026-09-06",
@@ -1638,6 +1670,22 @@
       "status": "PLANNED",
       "subjectId": "subject-networks",
       "topicId": "subject-networks-curriculum-1-1"
+    },
+    {
+      "executionOrder": 0,
+      "id": "planned-2026-09-13-0-subject-database-subject-1-curriculum-algebra-juncao",
+      "plannedDate": "2026-09-13",
+      "plannedEnd": "18:45",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedStart": "18:00",
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-database",
+      "topicId": "subject-1-curriculum-algebra-juncao",
+      "topicStateAtStart": "NOT_STARTED"
     },
     {
       "executionOrder": 1,
@@ -2020,6 +2068,20 @@
       "topicStateAtStart": "NOT_STARTED"
     },
     {
+      "executionOrder": 0,
+      "id": "planned-2026-10-04-0-subject-database-subject-1-curriculum-algebra-juncao",
+      "plannedDate": "2026-10-04",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-database",
+      "topicId": "subject-1-curriculum-algebra-juncao",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
       "executionOrder": 1,
       "id": "planned-2026-10-04-1-subject-algorithms-subject-algorithms-curriculum-1-1",
       "plannedDate": "2026-10-04",
@@ -2104,6 +2166,20 @@
       "topicStateAtStart": "LEARNING"
     },
     {
+      "executionOrder": 0,
+      "id": "manual-2026-10-06-d7bf2e13-7367-43b7-aca1-fba6a5a80aab",
+      "plannedDate": "2026-10-06",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 60,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-database",
+      "topicId": "subject-1-curriculum-mer-mapeamento",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
       "executionOrder": 1,
       "id": "manual-2026-10-06-6a41c9f8-2a74-4b56-a9e3-59cc9aafa80e",
       "plannedDate": "2026-10-06",
@@ -2116,6 +2192,62 @@
       "subjectId": "subject-networks",
       "topicId": "subject-networks-curriculum-2-2",
       "topicStateAtStart": "NOT_STARTED"
+    },
+    {
+      "executionOrder": 2,
+      "id": "manual-2026-10-06-5bf6f07d-ebac-46b6-ae68-d8c38a938dec",
+      "plannedDate": "2026-10-06",
+      "plannedExerciseMinutes": 15,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 30,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-database",
+      "topicId": "subject-database-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 3,
+      "id": "manual-2026-10-06-539b704b-183f-4ef8-bb43-129ad37f2cd5",
+      "plannedDate": "2026-10-06",
+      "plannedExerciseMinutes": 15,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 30,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-database",
+      "topicId": "subject-1-curriculum-mer-mapeamento",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 4,
+      "id": "manual-2026-10-06-2eed7486-5c3d-4481-b759-98ee39efc366",
+      "plannedDate": "2026-10-06",
+      "plannedExerciseMinutes": 15,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 30,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-database",
+      "topicId": "subject-database-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 5,
+      "id": "manual-2026-10-06-0e515afd-e4b1-4cf5-889a-c4516c9add92",
+      "plannedDate": "2026-10-06",
+      "plannedExerciseMinutes": 15,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 30,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "NOT_DONE",
+      "subjectId": "subject-database",
+      "topicId": "subject-1-curriculum-mer-mapeamento",
+      "topicStateAtStart": "LEARNING"
     },
     {
       "executionOrder": 4,
@@ -2340,121 +2472,6 @@
       "subjectId": "subject-service-innovation",
       "topicId": "subject-7-topic-1",
       "topicStateAtStart": "NOT_STARTED"
-    },
-    {
-      "executionOrder": 0,
-      "id": "planned-2026-09-06-0-subject-database-subject-1-curriculum-algebra-juncao",
-      "plannedDate": "2026-09-06",
-      "plannedEnd": "18:45",
-      "plannedExerciseMinutes": 0,
-      "plannedMinutes": 45,
-      "plannedStart": "18:00",
-      "plannedTheoryMinutes": 0,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "PLANNED",
-      "subjectId": "subject-database",
-      "topicId": "subject-1-curriculum-algebra-juncao"
-    },
-    {
-      "executionOrder": 0,
-      "id": "planned-2026-09-13-0-subject-database-subject-1-curriculum-algebra-juncao",
-      "plannedDate": "2026-09-13",
-      "plannedEnd": "18:45",
-      "plannedExerciseMinutes": 0,
-      "plannedMinutes": 45,
-      "plannedStart": "18:00",
-      "plannedTheoryMinutes": 0,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "PLANNED",
-      "subjectId": "subject-database",
-      "topicId": "subject-1-curriculum-algebra-juncao",
-      "topicStateAtStart": "NOT_STARTED"
-    },
-    {
-      "executionOrder": 0,
-      "id": "planned-2026-10-04-0-subject-database-subject-1-curriculum-algebra-juncao",
-      "plannedDate": "2026-10-04",
-      "plannedExerciseMinutes": 0,
-      "plannedMinutes": 45,
-      "plannedTheoryMinutes": 0,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "PLANNED",
-      "subjectId": "subject-database",
-      "topicId": "subject-1-curriculum-algebra-juncao",
-      "topicStateAtStart": "LEARNING"
-    },
-    {
-      "executionOrder": 0,
-      "id": "manual-2026-10-06-d7bf2e13-7367-43b7-aca1-fba6a5a80aab",
-      "plannedDate": "2026-10-06",
-      "plannedExerciseMinutes": 0,
-      "plannedMinutes": 60,
-      "plannedTheoryMinutes": 0,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "PLANNED",
-      "subjectId": "subject-database",
-      "topicId": "subject-1-curriculum-mer-mapeamento",
-      "topicStateAtStart": "LEARNING"
-    },
-    {
-      "executionOrder": 2,
-      "id": "manual-2026-10-06-5bf6f07d-ebac-46b6-ae68-d8c38a938dec",
-      "plannedDate": "2026-10-06",
-      "plannedExerciseMinutes": 15,
-      "plannedMinutes": 45,
-      "plannedTheoryMinutes": 30,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "PLANNED",
-      "subjectId": "subject-database",
-      "topicId": "subject-database-curriculum-1-1",
-      "topicStateAtStart": "LEARNING"
-    },
-    {
-      "executionOrder": 3,
-      "id": "manual-2026-10-06-539b704b-183f-4ef8-bb43-129ad37f2cd5",
-      "plannedDate": "2026-10-06",
-      "plannedExerciseMinutes": 15,
-      "plannedMinutes": 45,
-      "plannedTheoryMinutes": 30,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "PLANNED",
-      "subjectId": "subject-database",
-      "topicId": "subject-1-curriculum-mer-mapeamento",
-      "topicStateAtStart": "LEARNING"
-    },
-    {
-      "executionOrder": 4,
-      "id": "manual-2026-10-06-2eed7486-5c3d-4481-b759-98ee39efc366",
-      "plannedDate": "2026-10-06",
-      "plannedExerciseMinutes": 15,
-      "plannedMinutes": 45,
-      "plannedTheoryMinutes": 30,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "PLANNED",
-      "subjectId": "subject-database",
-      "topicId": "subject-database-curriculum-1-1",
-      "topicStateAtStart": "LEARNING"
-    },
-    {
-      "executionOrder": 5,
-      "id": "manual-2026-10-06-0e515afd-e4b1-4cf5-889a-c4516c9add92",
-      "plannedDate": "2026-10-06",
-      "plannedExerciseMinutes": 15,
-      "plannedMinutes": 45,
-      "plannedTheoryMinutes": 30,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "NOT_DONE",
-      "subjectId": "subject-database",
-      "topicId": "subject-1-curriculum-mer-mapeamento",
-      "topicStateAtStart": "LEARNING"
     }
   ],
   "schemaVersion": 12,
@@ -14267,9 +14284,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-07T16:55:40.410Z",
+    "lastSyncAt": "2026-10-07T20:58:12.908Z",
     "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 1260,
-    "updatedAt": "2026-10-07T20:38:50.660Z"
+    "revision": 1270,
+    "updatedAt": "2026-10-08T00:31:06.554Z"
   }
 }
