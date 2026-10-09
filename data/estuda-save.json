@@ -925,7 +925,8 @@
       "2026-07-30": 1,
       "2026-07-31": 60,
       "2026-08-04": 60,
-      "2026-08-07": 60
+      "2026-08-07": 60,
+      "2026-10-09": 90
     },
     "datePlanOverrides": {
       "2026-07-24": {
@@ -957,6 +958,12 @@
         "questions": 0,
         "review": 60,
         "theory": 0
+      },
+      "2026-10-09": {
+        "phase": "manual",
+        "questions": 40,
+        "review": 0,
+        "theory": 50
       }
     },
     "friday": 0,
@@ -2405,8 +2412,8 @@
     },
     {
       "executionOrder": 8,
-      "id": "planned-2026-10-10-8-subject-languages-subject-4-topic-3",
-      "plannedDate": "2026-10-10",
+      "id": "planned-2026-10-09-8-subject-languages-subject-4-topic-3",
+      "plannedDate": "2026-10-09",
       "plannedExerciseMinutes": 0,
       "plannedMinutes": 45,
       "plannedTheoryMinutes": 0,
@@ -2419,8 +2426,8 @@
     },
     {
       "executionOrder": 9,
-      "id": "planned-2026-10-10-9-subject-networks-subject-networks-curriculum-10-1",
-      "plannedDate": "2026-10-10",
+      "id": "planned-2026-10-09-9-subject-networks-subject-networks-curriculum-10-1",
+      "plannedDate": "2026-10-09",
       "plannedExerciseMinutes": 0,
       "plannedMinutes": 45,
       "plannedTheoryMinutes": 0,
@@ -2429,6 +2436,34 @@
       "status": "PLANNED",
       "subjectId": "subject-networks",
       "topicId": "subject-networks-curriculum-10-1",
+      "topicStateAtStart": "NOT_STARTED"
+    },
+    {
+      "executionOrder": 10,
+      "id": "planned-2026-10-10-10-subject-poo-subject-poo-curriculum-1-1",
+      "plannedDate": "2026-10-10",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-poo",
+      "topicId": "subject-poo-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 11,
+      "id": "planned-2026-10-10-11-subject-portuguese-subject-8-topic-2",
+      "plannedDate": "2026-10-10",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 27,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-portuguese",
+      "topicId": "subject-8-topic-2",
       "topicStateAtStart": "NOT_STARTED"
     },
     {
@@ -14382,9 +14417,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-08T16:52:54.259Z",
-    "lastSyncStatus": "Falha ao sincronizar: failed to connect to api.github.com/4.228.31.149 (port 443) from /192.168.18.39 (port 46160) after 10000ms",
-    "revision": 1296,
-    "updatedAt": "2026-10-08T20:26:35.304Z"
+    "lastSyncAt": "2026-10-09T16:13:38.411Z",
+    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
+    "revision": 1310,
+    "updatedAt": "2026-10-09T18:52:37.992Z"
   }
 }
