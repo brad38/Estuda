@@ -14417,9 +14417,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-09T16:13:38.411Z",
-    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 1310,
-    "updatedAt": "2026-10-09T18:52:37.992Z"
+    "lastSyncAt": "2026-10-09T19:26:33.169Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 1315,
+    "updatedAt": "2026-10-10T01:37:00.412Z"
   }
 }
