@@ -926,7 +926,7 @@
       "2026-07-31": 60,
       "2026-08-04": 60,
       "2026-08-07": 60,
-      "2026-10-09": 90
+      "2026-10-09": 1
     },
     "datePlanOverrides": {
       "2026-07-24": {
@@ -958,12 +958,6 @@
         "questions": 0,
         "review": 60,
         "theory": 0
-      },
-      "2026-10-09": {
-        "phase": "manual",
-        "questions": 40,
-        "review": 0,
-        "theory": 50
       }
     },
     "friday": 0,
@@ -2429,7 +2423,7 @@
       "id": "planned-2026-10-09-9-subject-networks-subject-networks-curriculum-10-1",
       "plannedDate": "2026-10-09",
       "plannedExerciseMinutes": 0,
-      "plannedMinutes": 45,
+      "plannedMinutes": 30,
       "plannedTheoryMinutes": 0,
       "sessionContext": "LEARNING",
       "startedLateByMinutes": 0,
@@ -2457,7 +2451,7 @@
       "id": "planned-2026-10-10-11-subject-portuguese-subject-8-topic-2",
       "plannedDate": "2026-10-10",
       "plannedExerciseMinutes": 0,
-      "plannedMinutes": 27,
+      "plannedMinutes": 30,
       "plannedTheoryMinutes": 0,
       "sessionContext": "LEARNING",
       "startedLateByMinutes": 0,
@@ -14417,9 +14411,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-09T19:26:33.169Z",
+    "lastSyncAt": "2026-10-10T02:04:29.656Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 1315,
-    "updatedAt": "2026-10-10T01:37:00.412Z"
+    "revision": 1324,
+    "updatedAt": "2026-10-10T18:14:57.747Z"
   }
 }
