@@ -789,6 +789,42 @@
       "sourceSessionId": "1c2f6c6c-442f-464f-99d1-7cedbe9a8286",
       "state": "TOMBSTONED",
       "theoryMinutes": 22
+    },
+    {
+      "baseRevision": 2,
+      "createdAt": "2026-10-11T00:04:14.371Z",
+      "date": "2026-10-10",
+      "deletedAt": "2026-10-11T00:04:30.890Z",
+      "exerciseMinutes": 0,
+      "id": "3084e09b-a6be-48b2-889a-06640ad8049f",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-10-11T00:04:30.890Z",
+      "ownerId": "2a1a3f6c-5248-4a24-8dbb-746c7a9ac648",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 3,
+      "source": "SESSION",
+      "sourceSessionId": "2a1a3f6c-5248-4a24-8dbb-746c7a9ac648",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 1
+    },
+    {
+      "baseRevision": 2,
+      "createdAt": "2026-10-11T00:09:41.006Z",
+      "date": "2026-10-10",
+      "deletedAt": "2026-10-11T00:09:56.709Z",
+      "exerciseMinutes": 1,
+      "id": "a13452b1-6920-40a1-bee2-f7c1db21e456",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-10-11T00:09:56.709Z",
+      "ownerId": "efb66ded-8172-4818-b714-3943add214cf",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 3,
+      "source": "SESSION",
+      "sourceSessionId": "efb66ded-8172-4818-b714-3943add214cf",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 0
     }
   ],
   "activeTab": "calendar",
@@ -9571,11 +9607,12 @@
           "domain": 0,
           "id": "subject-3-topic-8",
           "isOptional": false,
+          "lastStudiedAt": "2026-10-10",
           "name": "Fundamentos de POO",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "LEARNING",
           "studied": false,
           "theoryMinutes": 0
         },
@@ -14411,9 +14448,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-10T02:04:29.656Z",
+    "lastSyncAt": "2026-10-10T23:23:37.301Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 1324,
-    "updatedAt": "2026-10-10T18:14:57.747Z"
+    "revision": 1360,
+    "updatedAt": "2026-10-11T00:32:07.751Z"
   }
 }
