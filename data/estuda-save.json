@@ -825,6 +825,24 @@
       "sourceSessionId": "efb66ded-8172-4818-b714-3943add214cf",
       "state": "TOMBSTONED",
       "theoryMinutes": 0
+    },
+    {
+      "baseRevision": 2,
+      "createdAt": "2026-10-12T17:22:22.157Z",
+      "date": "2026-10-12",
+      "deletedAt": "2026-10-12T17:22:36.166Z",
+      "exerciseMinutes": 0,
+      "id": "ae9323ed-8c86-4b4e-8018-58a4e386efd5",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-10-12T17:22:36.166Z",
+      "ownerId": "602ad9cb-05c2-4e40-b57d-aba6555d072d",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 3,
+      "source": "SESSION",
+      "sourceSessionId": "602ad9cb-05c2-4e40-b57d-aba6555d072d",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 1
     }
   ],
   "activeTab": "today",
@@ -11047,11 +11065,12 @@
           "domain": 0,
           "id": "subject-architecture-curriculum-1",
           "isOptional": false,
+          "lastStudiedAt": "2026-10-12",
           "name": "Arquitetura de Software",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "NOT_STARTED",
+          "state": "LEARNING",
           "studied": false,
           "theoryMinutes": 0
         },
@@ -14498,9 +14517,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-12T07:18:59.193Z",
+    "lastSyncAt": "2026-10-12T17:22:08.076Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 1365,
-    "updatedAt": "2026-10-12T07:21:03.710Z"
+    "revision": 1372,
+    "updatedAt": "2026-10-12T17:31:25.589Z"
   }
 }
