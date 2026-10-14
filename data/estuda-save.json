@@ -861,9 +861,27 @@
       "sourceSessionId": "049807cd-26e3-4398-8892-f2b52a28fb98",
       "state": "TOMBSTONED",
       "theoryMinutes": 0
+    },
+    {
+      "baseRevision": 2,
+      "createdAt": "2026-10-13T18:05:27.528Z",
+      "date": "2026-10-13",
+      "deletedAt": "2026-10-13T18:06:43.082Z",
+      "exerciseMinutes": 0,
+      "id": "935480aa-bf85-4a02-94b5-e71c0096235f",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-10-13T18:06:43.082Z",
+      "ownerId": "a118a9b0-dfb1-482b-8095-5e07d4f424f6",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 3,
+      "source": "SESSION",
+      "sourceSessionId": "a118a9b0-dfb1-482b-8095-5e07d4f424f6",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 1
     }
   ],
-  "activeTab": "today",
+  "activeTab": "calendar",
   "availability": {
     "dateExceptions": {
       "2026-07-01": {
@@ -2646,34 +2664,6 @@
       "topicStateAtStart": "NOT_STARTED"
     },
     {
-      "executionOrder": 4,
-      "id": "planned-2026-10-13-4-subject-compliance-subject-6-topic-2",
-      "plannedDate": "2026-10-13",
-      "plannedExerciseMinutes": 0,
-      "plannedMinutes": 45,
-      "plannedTheoryMinutes": 0,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "PLANNED",
-      "subjectId": "subject-compliance",
-      "topicId": "subject-6-topic-2",
-      "topicStateAtStart": "LEARNING"
-    },
-    {
-      "executionOrder": 5,
-      "id": "planned-2026-10-13-5-subject-english-subject-english-curriculum-1-1",
-      "plannedDate": "2026-10-13",
-      "plannedExerciseMinutes": 0,
-      "plannedMinutes": 15,
-      "plannedTheoryMinutes": 0,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "PLANNED",
-      "subjectId": "subject-english",
-      "topicId": "subject-english-curriculum-1-1",
-      "topicStateAtStart": "LEARNING"
-    },
-    {
       "executionOrder": 6,
       "id": "planned-2026-10-14-6-subject-infrastructure-subject-infrastructure-curriculum-1-1",
       "plannedDate": "2026-10-14",
@@ -2756,6 +2746,34 @@
       "subjectId": "subject-portuguese",
       "topicId": "subject-8-topic-2",
       "topicStateAtStart": "NOT_STARTED"
+    },
+    {
+      "executionOrder": 4,
+      "id": "planned-2026-10-13-4-subject-compliance-subject-6-topic-2",
+      "plannedDate": "2026-10-13",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-compliance",
+      "topicId": "subject-6-topic-2",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 5,
+      "id": "planned-2026-10-13-5-subject-english-subject-english-curriculum-1-1",
+      "plannedDate": "2026-10-13",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 15,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-english",
+      "topicId": "subject-english-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
     }
   ],
   "schemaVersion": 12,
@@ -13093,7 +13111,7 @@
           "domain": 0,
           "id": "subject-6-topic-1",
           "isOptional": false,
-          "lastStudiedAt": "2026-10-07",
+          "lastStudiedAt": "2026-10-13",
           "name": "Lavagem de Dinheiro e Financiamento ao Terrorismo",
           "nextReviewAt": "2026-10-08",
           "questionCount": 0,
@@ -14571,9 +14589,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-13T05:00:46.891Z",
-    "lastSyncStatus": "Sincronizado",
-    "revision": 1377,
-    "updatedAt": "2026-10-13T16:45:49.566Z"
+    "lastSyncAt": "2026-10-13T17:38:24.848Z",
+    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
+    "revision": 1384,
+    "updatedAt": "2026-10-14T01:15:55.962Z"
   }
 }
