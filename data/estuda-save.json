@@ -2748,7 +2748,7 @@
       "topicStateAtStart": "NOT_STARTED"
     },
     {
-      "executionOrder": 0,
+      "executionOrder": 8,
       "id": "planned-2026-10-15-8-subject-languages-subject-4-topic-3",
       "plannedDate": "2026-10-16",
       "plannedExerciseMinutes": 0,
@@ -14617,9 +14617,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-15T18:32:49.160Z",
+    "lastSyncAt": "2026-10-16T18:52:21.014Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 1386,
-    "updatedAt": "2026-10-15T18:32:51.064Z"
+    "revision": 1388,
+    "updatedAt": "2026-10-16T19:00:33.920Z"
   }
 }
