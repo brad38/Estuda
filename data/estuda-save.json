@@ -982,73 +982,6 @@
         "pending": [],
         "replacements": [],
         "strategy": "PENDING"
-      },
-      "2026-10-15": {
-        "createdAt": "2026-10-15T17:21:44.371Z",
-        "date": "2026-10-15",
-        "id": "d293767a-6920-4674-9818-6028fbdbb165",
-        "originals": [
-          {
-            "executionOrder": 8,
-            "id": "planned-2026-10-15-8-subject-languages-subject-4-topic-3",
-            "plannedDate": "2026-10-15",
-            "plannedExerciseMinutes": 0,
-            "plannedMinutes": 45,
-            "plannedTheoryMinutes": 0,
-            "sessionContext": "LEARNING",
-            "startedLateByMinutes": 0,
-            "status": "PLANNED",
-            "subjectId": "subject-languages",
-            "topicId": "subject-4-topic-3",
-            "topicStateAtStart": "LEARNING"
-          },
-          {
-            "executionOrder": 9,
-            "id": "planned-2026-10-15-9-subject-networks-subject-networks-curriculum-10-1",
-            "plannedDate": "2026-10-15",
-            "plannedExerciseMinutes": 0,
-            "plannedMinutes": 15,
-            "plannedTheoryMinutes": 0,
-            "sessionContext": "LEARNING",
-            "startedLateByMinutes": 0,
-            "status": "PLANNED",
-            "subjectId": "subject-networks",
-            "topicId": "subject-networks-curriculum-10-1",
-            "topicStateAtStart": "NOT_STARTED"
-          }
-        ],
-        "pending": [],
-        "replacements": [
-          {
-            "executionOrder": 0,
-            "id": "planned-2026-10-15-8-subject-languages-subject-4-topic-3",
-            "plannedDate": "2026-10-16",
-            "plannedExerciseMinutes": 0,
-            "plannedMinutes": 45,
-            "plannedTheoryMinutes": 0,
-            "sessionContext": "LEARNING",
-            "startedLateByMinutes": 0,
-            "status": "PLANNED",
-            "subjectId": "subject-languages",
-            "topicId": "subject-4-topic-3",
-            "topicStateAtStart": "LEARNING"
-          },
-          {
-            "executionOrder": 1,
-            "id": "planned-2026-10-15-9-subject-networks-subject-networks-curriculum-10-1",
-            "plannedDate": "2026-10-16",
-            "plannedExerciseMinutes": 0,
-            "plannedMinutes": 15,
-            "plannedTheoryMinutes": 0,
-            "sessionContext": "LEARNING",
-            "startedLateByMinutes": 0,
-            "status": "PLANNED",
-            "subjectId": "subject-networks",
-            "topicId": "subject-networks-curriculum-10-1",
-            "topicStateAtStart": "NOT_STARTED"
-          }
-        ],
-        "strategy": "THIS_WEEK"
       }
     },
     "dateOverrides": {
@@ -1084,8 +1017,7 @@
       "2026-08-04": 60,
       "2026-08-07": 60,
       "2026-10-09": 1,
-      "2026-10-13": 60,
-      "2026-10-15": 0
+      "2026-10-13": 60
     },
     "datePlanOverrides": {
       "2026-07-24": {
@@ -2786,6 +2718,34 @@
       "subjectId": "subject-it-management",
       "topicId": "subject-it-management-curriculum-1-1",
       "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 8,
+      "id": "planned-2026-10-15-8-subject-languages-subject-4-topic-3",
+      "plannedDate": "2026-10-15",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-languages",
+      "topicId": "subject-4-topic-3",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 9,
+      "id": "planned-2026-10-15-9-subject-networks-subject-networks-curriculum-10-1",
+      "plannedDate": "2026-10-15",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 15,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-networks",
+      "topicId": "subject-networks-curriculum-10-1",
+      "topicStateAtStart": "NOT_STARTED"
     },
     {
       "executionOrder": 0,
@@ -14657,9 +14617,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-15T17:21:07.625Z",
+    "lastSyncAt": "2026-10-15T18:32:49.160Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 1385,
-    "updatedAt": "2026-10-15T17:21:44.372Z"
+    "revision": 1386,
+    "updatedAt": "2026-10-15T18:32:51.064Z"
   }
 }
