@@ -881,7 +881,7 @@
       "theoryMinutes": 1
     }
   ],
-  "activeTab": "subjects",
+  "activeTab": "calendar",
   "availability": {
     "dateExceptions": {
       "2026-07-01": {
@@ -14617,9 +14617,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-17T00:09:25.400Z",
-    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
-    "revision": 1389,
-    "updatedAt": "2026-10-17T00:11:18.693Z"
+    "lastSyncAt": "2026-10-17T00:59:25.877Z",
+    "lastSyncStatus": "Sincronizado",
+    "revision": 1393,
+    "updatedAt": "2026-10-17T01:40:15.007Z"
   }
 }
