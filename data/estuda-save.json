@@ -881,7 +881,7 @@
       "theoryMinutes": 1
     }
   ],
-  "activeTab": "today",
+  "activeTab": "subjects",
   "availability": {
     "dateExceptions": {
       "2026-07-01": {
@@ -2720,35 +2720,7 @@
       "topicStateAtStart": "LEARNING"
     },
     {
-      "executionOrder": 8,
-      "id": "planned-2026-10-15-8-subject-languages-subject-4-topic-3",
-      "plannedDate": "2026-10-15",
-      "plannedExerciseMinutes": 0,
-      "plannedMinutes": 45,
-      "plannedTheoryMinutes": 0,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "PLANNED",
-      "subjectId": "subject-languages",
-      "topicId": "subject-4-topic-3",
-      "topicStateAtStart": "LEARNING"
-    },
-    {
-      "executionOrder": 9,
-      "id": "planned-2026-10-15-9-subject-networks-subject-networks-curriculum-10-1",
-      "plannedDate": "2026-10-15",
-      "plannedExerciseMinutes": 0,
-      "plannedMinutes": 15,
-      "plannedTheoryMinutes": 0,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "PLANNED",
-      "subjectId": "subject-networks",
-      "topicId": "subject-networks-curriculum-10-1",
-      "topicStateAtStart": "NOT_STARTED"
-    },
-    {
-      "executionOrder": 8,
+      "executionOrder": 1,
       "id": "planned-2026-10-15-8-subject-languages-subject-4-topic-3",
       "plannedDate": "2026-10-16",
       "plannedExerciseMinutes": 0,
@@ -2762,7 +2734,35 @@
       "topicStateAtStart": "LEARNING"
     },
     {
+      "executionOrder": 8,
+      "id": "planned-2026-10-15-9-subject-networks-subject-networks-curriculum-10-1",
+      "plannedDate": "2026-10-16",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 15,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-networks",
+      "topicId": "subject-networks-curriculum-10-1",
+      "topicStateAtStart": "NOT_STARTED"
+    },
+    {
       "executionOrder": 1,
+      "id": "planned-2026-10-15-8-subject-languages-subject-4-topic-3",
+      "plannedDate": "2026-10-16",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-languages",
+      "topicId": "subject-4-topic-3",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 8,
       "id": "planned-2026-10-15-9-subject-networks-subject-networks-curriculum-10-1",
       "plannedDate": "2026-10-16",
       "plannedExerciseMinutes": 0,
@@ -14617,9 +14617,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-16T18:52:21.014Z",
-    "lastSyncStatus": "Sincronizado",
-    "revision": 1388,
-    "updatedAt": "2026-10-16T19:00:33.920Z"
+    "lastSyncAt": "2026-10-17T00:09:25.400Z",
+    "lastSyncStatus": "Falha ao sincronizar: Unable to resolve host \"api.github.com\": No address associated with hostname",
+    "revision": 1389,
+    "updatedAt": "2026-10-17T00:11:18.693Z"
   }
 }
