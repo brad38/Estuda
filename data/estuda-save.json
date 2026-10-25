@@ -881,7 +881,7 @@
       "theoryMinutes": 1
     }
   ],
-  "activeTab": "today",
+  "activeTab": "subjects",
   "availability": {
     "dateExceptions": {
       "2026-07-01": {
@@ -10690,13 +10690,12 @@
           "id": "subject-languages-curriculum-1-1",
           "isOptional": false,
           "name": "HTML5",
-          "nextReviewAt": "2026-10-02",
           "parentTopicId": "subject-4-topic-6",
           "questionCount": 0,
           "reviewCount": 0,
           "reviewMinutes": 0,
-          "state": "CONTENT_SEEN",
-          "studied": true,
+          "state": "LEARNING",
+          "studied": false,
           "theoryMinutes": 0
         },
         {
@@ -14757,9 +14756,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-23T00:10:24.632Z",
+    "lastSyncAt": "2026-10-25T01:08:23.692Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 1407,
-    "updatedAt": "2026-10-23T00:14:40.881Z"
+    "revision": 1419,
+    "updatedAt": "2026-10-25T01:52:03.508Z"
   }
 }
