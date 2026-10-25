@@ -2734,20 +2734,6 @@
       "topicStateAtStart": "LEARNING"
     },
     {
-      "executionOrder": 8,
-      "id": "planned-2026-10-15-9-subject-networks-subject-networks-curriculum-10-1",
-      "plannedDate": "2026-10-16",
-      "plannedExerciseMinutes": 0,
-      "plannedMinutes": 15,
-      "plannedTheoryMinutes": 0,
-      "sessionContext": "LEARNING",
-      "startedLateByMinutes": 0,
-      "status": "PLANNED",
-      "subjectId": "subject-networks",
-      "topicId": "subject-networks-curriculum-10-1",
-      "topicStateAtStart": "NOT_STARTED"
-    },
-    {
       "executionOrder": 1,
       "id": "planned-2026-10-15-8-subject-languages-subject-4-topic-3",
       "plannedDate": "2026-10-16",
@@ -2760,6 +2746,20 @@
       "subjectId": "subject-languages",
       "topicId": "subject-4-topic-3",
       "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 8,
+      "id": "planned-2026-10-15-9-subject-networks-subject-networks-curriculum-10-1",
+      "plannedDate": "2026-10-16",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 15,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-networks",
+      "topicId": "subject-networks-curriculum-10-1",
+      "topicStateAtStart": "NOT_STARTED"
     },
     {
       "executionOrder": 8,
@@ -14757,9 +14757,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-22T16:45:18.613Z",
+    "lastSyncAt": "2026-10-23T00:10:24.632Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 1403,
-    "updatedAt": "2026-10-22T16:45:38.360Z"
+    "revision": 1407,
+    "updatedAt": "2026-10-23T00:14:40.881Z"
   }
 }
