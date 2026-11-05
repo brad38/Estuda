@@ -879,6 +879,23 @@
       "sourceSessionId": "a118a9b0-dfb1-482b-8095-5e07d4f424f6",
       "state": "TOMBSTONED",
       "theoryMinutes": 1
+    },
+    {
+      "baseRevision": 2,
+      "createdAt": "2026-11-05T05:20:12.335Z",
+      "date": "2026-11-05",
+      "deletedAt": "2026-11-05T05:20:31.198Z",
+      "exerciseMinutes": 0,
+      "id": "1df7fb03-309e-4322-a1b1-cd8927584465",
+      "lastValidRevision": 2,
+      "modifiedAt": "2026-11-05T05:20:31.198Z",
+      "ownerId": "b7ae403b-b2ad-49eb-b0f2-2c91897ceb9c",
+      "referenceIds": [],
+      "reviewMinutes": 0,
+      "revision": 3,
+      "source": "MANUAL",
+      "state": "TOMBSTONED",
+      "theoryMinutes": 1
     }
   ],
   "activeTab": "today",
@@ -3082,6 +3099,146 @@
       "subjectId": "subject-networks",
       "topicId": "subject-networks-curriculum-10-1",
       "topicStateAtStart": "NOT_STARTED"
+    },
+    {
+      "executionOrder": 0,
+      "id": "planned-2026-11-01-0-subject-database-subject-1-curriculum-algebra-juncao",
+      "plannedDate": "2026-11-01",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-database",
+      "topicId": "subject-1-curriculum-algebra-juncao",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 1,
+      "id": "planned-2026-11-01-1-subject-algorithms-subject-algorithms-curriculum-1-1",
+      "plannedDate": "2026-11-01",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 15,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-algorithms",
+      "topicId": "subject-algorithms-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 2,
+      "id": "planned-2026-11-02-2-subject-architecture-subject-architecture-curriculum-1-1",
+      "plannedDate": "2026-11-02",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-architecture",
+      "topicId": "subject-architecture-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 3,
+      "id": "planned-2026-11-02-3-subject-banking-subject-5-topic-10",
+      "plannedDate": "2026-11-02",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 15,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-banking",
+      "topicId": "subject-5-topic-10",
+      "topicStateAtStart": "NOT_STARTED"
+    },
+    {
+      "executionOrder": 4,
+      "id": "planned-2026-11-04-4-subject-compliance-subject-6-topic-2",
+      "plannedDate": "2026-11-04",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-compliance",
+      "topicId": "subject-6-topic-2",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 5,
+      "id": "planned-2026-11-04-5-subject-english-subject-english-curriculum-1-1",
+      "plannedDate": "2026-11-04",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 15,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-english",
+      "topicId": "subject-english-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 6,
+      "id": "planned-2026-11-05-6-subject-infrastructure-subject-infrastructure-curriculum-1-1",
+      "plannedDate": "2026-11-05",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-infrastructure",
+      "topicId": "subject-infrastructure-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 7,
+      "id": "planned-2026-11-05-7-subject-it-management-subject-it-management-curriculum-1-1",
+      "plannedDate": "2026-11-05",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 15,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-it-management",
+      "topicId": "subject-it-management-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 8,
+      "id": "planned-2026-11-07-8-subject-languages-subject-4-topic-3",
+      "plannedDate": "2026-11-07",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-languages",
+      "topicId": "subject-4-topic-3",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 9,
+      "id": "planned-2026-11-07-9-subject-networks-subject-networks-curriculum-10-1",
+      "plannedDate": "2026-11-07",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 15,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-networks",
+      "topicId": "subject-networks-curriculum-10-1",
+      "topicStateAtStart": "NOT_STARTED"
     }
   ],
   "schemaVersion": 12,
@@ -4570,19 +4727,19 @@
       "name": "Banco de Dados",
       "topics": [
         {
-          "correctCount": 39741156,
+          "correctCount": 40322700,
           "domain": 100,
           "id": "subject-1-curriculum-fundamentos-modelagem",
           "isOptional": false,
           "lastStudiedAt": "2026-10-07",
           "name": "Fundamentos e Modelagem",
           "nextReviewAt": "2026-08-03",
-          "questionCount": 39755352,
-          "reviewCount": 1202292,
-          "reviewMinutes": 11998896,
+          "questionCount": 40337000,
+          "reviewCount": 1219900,
+          "reviewMinutes": 12174800,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 74719368
+          "theoryMinutes": 75812360
         },
         {
           "correctCount": 0,
@@ -4671,7 +4828,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 72252,
+          "correctCount": 72780,
           "domain": 100,
           "id": "subject-1-topic-1",
           "isOptional": false,
@@ -4679,12 +4836,12 @@
           "name": "Modelo Relacional",
           "nextReviewAt": "2026-08-03",
           "parentTopicId": "subject-1-curriculum-fundamentos-modelagem",
-          "questionCount": 72261,
-          "reviewCount": 2186,
-          "reviewMinutes": 21860,
+          "questionCount": 72789,
+          "reviewCount": 2202,
+          "reviewMinutes": 22020,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 135717
+          "theoryMinutes": 136709
         },
         {
           "correctCount": 0,
@@ -5057,19 +5214,19 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 116401194,
+          "correctCount": 118111950,
           "domain": 100,
           "id": "subject-1-curriculum-sql",
           "isOptional": false,
           "lastStudiedAt": "2026-09-13",
           "name": "SQL",
           "nextReviewAt": "2026-07-27",
-          "questionCount": 123564714,
-          "reviewCount": 1408600,
-          "reviewMinutes": 35806680,
+          "questionCount": 125380750,
+          "reviewCount": 1425916,
+          "reviewMinutes": 36333000,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 325392522
+          "theoryMinutes": 330174350
         },
         {
           "correctCount": 0,
@@ -5212,7 +5369,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 204204,
+          "correctCount": 205700,
           "domain": 100,
           "id": "subject-1-curriculum-dql",
           "isOptional": false,
@@ -5220,12 +5377,12 @@
           "name": "DQL",
           "nextReviewAt": "2026-08-03",
           "parentTopicId": "subject-1-curriculum-sql",
-          "questionCount": 217308,
-          "reviewCount": 1952,
-          "reviewMinutes": 65520,
+          "questionCount": 218900,
+          "reviewCount": 1960,
+          "reviewMinutes": 66000,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 556920
+          "theoryMinutes": 561000
         },
         {
           "correctCount": 187,
@@ -5542,7 +5699,7 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 8745,
+          "correctCount": 8809,
           "domain": 65,
           "id": "subject-1-topic-8",
           "isOptional": false,
@@ -5550,12 +5707,12 @@
           "name": "Subconsultas",
           "nextReviewAt": "2026-07-31",
           "parentTopicId": "subject-1-curriculum-sql",
-          "questionCount": 8745,
+          "questionCount": 8809,
           "reviewCount": 208,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 38285
+          "theoryMinutes": 38565
         },
         {
           "correctCount": 0,
@@ -5647,19 +5804,19 @@
           "theoryMinutes": 0
         },
         {
-          "correctCount": 8736,
+          "correctCount": 8800,
           "domain": 0,
           "id": "subject-1-curriculum-objetos-banco",
           "isOptional": false,
           "lastStudiedAt": "2026-07-30",
           "name": "Objetos do Banco de Dados",
           "nextReviewAt": "2026-07-31",
-          "questionCount": 8736,
+          "questionCount": 8800,
           "reviewCount": 0,
           "reviewMinutes": 0,
           "state": "LEARNING",
           "studied": false,
-          "theoryMinutes": 95004
+          "theoryMinutes": 95700
         },
         {
           "correctCount": 8,
@@ -14896,9 +15053,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-10-25T01:56:08.759Z",
+    "lastSyncAt": "2026-11-05T01:50:40.632Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 1421,
-    "updatedAt": "2026-10-25T02:08:09.290Z"
+    "revision": 1449,
+    "updatedAt": "2026-11-05T05:27:26.173Z"
   }
 }
