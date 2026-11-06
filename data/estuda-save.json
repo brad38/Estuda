@@ -898,7 +898,7 @@
       "theoryMinutes": 1
     }
   ],
-  "activeTab": "today",
+  "activeTab": "calendar",
   "availability": {
     "dateExceptions": {
       "2026-07-01": {
@@ -15053,9 +15053,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-11-05T01:50:40.632Z",
+    "lastSyncAt": "2026-11-05T17:38:54.927Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 1449,
-    "updatedAt": "2026-11-05T05:27:26.173Z"
+    "revision": 1451,
+    "updatedAt": "2026-11-05T17:51:33.913Z"
   }
 }
