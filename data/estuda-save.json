@@ -898,7 +898,7 @@
       "theoryMinutes": 1
     }
   ],
-  "activeTab": "calendar",
+  "activeTab": "today",
   "availability": {
     "dateExceptions": {
       "2026-07-01": {
@@ -3230,6 +3230,146 @@
       "executionOrder": 9,
       "id": "planned-2026-11-07-9-subject-networks-subject-networks-curriculum-10-1",
       "plannedDate": "2026-11-07",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 15,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-networks",
+      "topicId": "subject-networks-curriculum-10-1",
+      "topicStateAtStart": "NOT_STARTED"
+    },
+    {
+      "executionOrder": 0,
+      "id": "planned-2026-11-08-0-subject-database-subject-1-curriculum-algebra-juncao",
+      "plannedDate": "2026-11-08",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-database",
+      "topicId": "subject-1-curriculum-algebra-juncao",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 1,
+      "id": "planned-2026-11-08-1-subject-algorithms-subject-algorithms-curriculum-1-1",
+      "plannedDate": "2026-11-08",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 15,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-algorithms",
+      "topicId": "subject-algorithms-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 2,
+      "id": "planned-2026-11-09-2-subject-architecture-subject-architecture-curriculum-1-1",
+      "plannedDate": "2026-11-09",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-architecture",
+      "topicId": "subject-architecture-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 3,
+      "id": "planned-2026-11-09-3-subject-banking-subject-5-topic-10",
+      "plannedDate": "2026-11-09",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 15,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-banking",
+      "topicId": "subject-5-topic-10",
+      "topicStateAtStart": "NOT_STARTED"
+    },
+    {
+      "executionOrder": 4,
+      "id": "planned-2026-11-11-4-subject-compliance-subject-6-topic-2",
+      "plannedDate": "2026-11-11",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-compliance",
+      "topicId": "subject-6-topic-2",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 5,
+      "id": "planned-2026-11-11-5-subject-english-subject-english-curriculum-1-1",
+      "plannedDate": "2026-11-11",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 15,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-english",
+      "topicId": "subject-english-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 6,
+      "id": "planned-2026-11-12-6-subject-infrastructure-subject-infrastructure-curriculum-1-1",
+      "plannedDate": "2026-11-12",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-infrastructure",
+      "topicId": "subject-infrastructure-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 7,
+      "id": "planned-2026-11-12-7-subject-it-management-subject-it-management-curriculum-1-1",
+      "plannedDate": "2026-11-12",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 15,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-it-management",
+      "topicId": "subject-it-management-curriculum-1-1",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 8,
+      "id": "planned-2026-11-14-8-subject-languages-subject-4-topic-3",
+      "plannedDate": "2026-11-14",
+      "plannedExerciseMinutes": 0,
+      "plannedMinutes": 45,
+      "plannedTheoryMinutes": 0,
+      "sessionContext": "LEARNING",
+      "startedLateByMinutes": 0,
+      "status": "PLANNED",
+      "subjectId": "subject-languages",
+      "topicId": "subject-4-topic-3",
+      "topicStateAtStart": "LEARNING"
+    },
+    {
+      "executionOrder": 9,
+      "id": "planned-2026-11-14-9-subject-networks-subject-networks-curriculum-10-1",
+      "plannedDate": "2026-11-14",
       "plannedExerciseMinutes": 0,
       "plannedMinutes": 15,
       "plannedTheoryMinutes": 0,
@@ -15053,9 +15193,9 @@
   ],
   "sync": {
     "deviceId": "android",
-    "lastSyncAt": "2026-11-05T17:38:54.927Z",
+    "lastSyncAt": "2026-11-14T04:31:06.486Z",
     "lastSyncStatus": "Sincronizado",
-    "revision": 1451,
-    "updatedAt": "2026-11-05T17:51:33.913Z"
+    "revision": 1455,
+    "updatedAt": "2026-11-14T04:31:53.821Z"
   }
 }
